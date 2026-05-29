@@ -1,6 +1,6 @@
 //! # flare-format
 //!
-//! Engine-agnostic parser and runtime helpers for the [FLARE art format](https://github.com/flareteam/flare-engine).
+//! Engine-agnostic parser and runtime helpers for the FLARE art format.
 //!
 //! This crate loads FLARE `.txt` definition files for animations, tilesets, maps,
 //! parallax backgrounds, and icons. It returns image **paths**, **source rectangles**,
