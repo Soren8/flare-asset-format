@@ -1,0 +1,5292 @@
+# Copyright (C) 2011 Clint Bellanger
+# This file is distributed under the same license as the FLARE package.
+# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Translators:
+# Jaakko Muilu, 2025
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-23 08:38+\n"
+"PO-Revision-Date: 2018-03-28 19:35+0000\n"
+"Last-Translator: Jaakko Muilu, 2025\n"
+"Language-Team: Finnish (https://app.transifex.com/flareorg/teams/84925/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../items/items.txt:8
+msgid "Gold"
+msgstr "Kulta"
+
+#: ../items/items.txt:58
+msgid "DEV Boots"
+msgstr "DEV-saappaat"
+
+#: ../items/items.txt:63
+msgid "Use: Teleport to target position."
+msgstr "Käyttö: kaukosiirtää kohdesijaintiin."
+
+#: ../items/items.txt:67
+msgid "DEV Invisibility Boots"
+msgstr "DEV-näkymättömyyssaappaat"
+
+#: ../items/items.txt:72
+msgid "Use: Turn Invisible"
+msgstr "Käyttö: muuttaa näkymättömäksi"
+
+#: ../items/items.txt:76
+msgid "DEV Tome"
+msgstr "DEV-opus"
+
+#: ../items/items.txt:80
+msgid "Use: Open DEV Tome"
+msgstr "Käyttö: avaa DEV-opuksen"
+
+#: ../items/types.txt:5
+msgid "Ancient Relic"
+msgstr "Muinainen reliikki"
+
+#: ../items/types.txt:9
+msgid "Crafting Resource"
+msgstr "Valmistusresurssi"
+
+#: ../items/types.txt:13
+msgid "Crafting Tool"
+msgstr "Valmistustyökalu"
+
+#: ../items/sets.txt:3
+msgid "St. Maria Garb"
+msgstr "Pyhän Marian puku"
+
+#: ../items/sets.txt:14
+msgid "Temple Guard's Outfit"
+msgstr "Temppelin vartijan asu"
+
+#: ../items/sets.txt:25
+msgid "Wizard's Apparatus"
+msgstr "Velhon laite"
+
+#: ../items/sets.txt:36
+msgid "Underworld Armament"
+msgstr "Alamaailman varustus"
+
+#: ../items/qualities.txt:5
+msgid "Normal"
+msgstr "Normaali"
+
+#: ../powers/effects.txt:6
+msgid "Shield"
+msgstr "Suojus"
+
+#: ../powers/effects.txt:16
+msgid "Bleeding"
+msgstr "Verenvuoto"
+
+#: ../powers/effects.txt:24
+msgid "Slow"
+msgstr "Hidastus"
+
+#: ../powers/effects.txt:41
+msgid "Stun"
+msgstr "Tyrmäys"
+
+#: ../powers/effects.txt:48
+msgid "Immunity"
+msgstr "Immuniteetti"
+
+#: ../powers/effects.txt:64
+msgid "Haste"
+msgstr "Nopeutus"
+
+#: ../powers/effects.txt:110
+msgid "Weakness to Fire"
+msgstr "Heikkous tulelle"
+
+#: ../powers/effects.txt:119
+msgid "Weakness to Ice"
+msgstr "Heikkous jäälle"
+
+#: ../powers/effects.txt:135
+msgid "Sacrifice"
+msgstr "Uhraus"
+
+#: ../powers/effects.txt:160
+msgid "Reflect"
+msgstr "Heijastus"
+
+#: ../powers/effects.txt:171
+msgid "Stamina Potion"
+msgstr "Kuntojuoma"
+
+#: ../powers/effects.txt:177
+msgid "Treasure Potion"
+msgstr "Aarrejuoma"
+
+#: ../powers/effects.txt:183
+msgid "Elemental Potion"
+msgstr "Elementtijuoma"
+
+#: ../powers/effects.txt:189
+msgid "Fireball Scroll"
+msgstr "Tulipallokäärö"
+
+#: ../powers/effects.txt:195
+msgid "Ice Bolt Scroll"
+msgstr "Jäänuolikäärö"
+
+#: ../powers/powers.txt:25
+msgid "Teleport"
+msgstr "Kaukosiirto"
+
+#: ../powers/powers.txt:42
+msgid "Turn Invisible"
+msgstr "Muutu näkymättömäksi"
+
+#: ../powers/powers.txt:54
+msgid "Remove Invisibility"
+msgstr "Poista näkymättömyys"
+
+#: ../engine/classes.txt:6
+msgid "Brute"
+msgstr "Korsto"
+
+#: ../engine/classes.txt:7
+msgid ""
+"Brutes rely on physical strength and melee weapons to strike down foes. "
+"Primary attribute: Physical"
+msgstr ""
+"Korstot luottavat fyysiseen voimaan ja lyöntiaseisiin iskeäkseen vihollisia."
+" Ensisijainen ominaisuus: Fyysinen"
+
+#: ../engine/classes.txt:17
+msgid "Scout"
+msgstr "Tiedustelija"
+
+#: ../engine/classes.txt:18
+msgid ""
+"Scouts specialize in range weaponry and combat accuracy. Primary attribute: "
+"Offense"
+msgstr ""
+"Tiedustelijat erikoistuvat kantama-aseisiin ja taistelutarkkuuteen. "
+"Ensisijainen ominaisuus: Hyökkäys"
+
+#: ../engine/classes.txt:28
+msgid "Adept"
+msgstr "Tuntija"
+
+#: ../engine/classes.txt:29
+msgid ""
+"Adepts have natural abilities in casting magical spells. Primary attribute: "
+"Mental"
+msgstr ""
+"Tuntijoilla on luontaista kykyä taikojen loitsimisessa. Ensisijainen "
+"ominaisuus: Mentaalinen"
+
+#: ../engine/titles.txt:3
+msgid "Grand Master"
+msgstr "Suurmestari"
+
+#: ../engine/titles.txt:7
+msgid "Master"
+msgstr "Mestari"
+
+#: ../engine/titles.txt:13
+msgid "Warlord"
+msgstr "Sotaherra"
+
+#: ../engine/titles.txt:18
+msgid "Archwizard"
+msgstr "Arkkivelho"
+
+#: ../engine/titles.txt:23
+msgid "Sniper"
+msgstr "Tarkka-ampuja"
+
+#: ../engine/titles.txt:28
+msgid "Templar"
+msgstr "Temppeliritari"
+
+#: ../engine/titles.txt:34
+msgid "Assassin"
+msgstr "Salamurhaaja"
+
+#: ../engine/titles.txt:39
+msgid "Lord"
+msgstr "Lordi"
+
+#: ../engine/titles.txt:44
+msgid "Tempest"
+msgstr "Myrskyvelho"
+
+#: ../engine/titles.txt:49
+msgid "High Priest"
+msgstr "Ylipappi"
+
+#: ../engine/titles.txt:54
+msgid "Battle Archmage"
+msgstr "Taisteluarkkimaagi"
+
+#: ../engine/titles.txt:59
+msgid "High Warden"
+msgstr "Suurvahti"
+
+#: ../engine/titles.txt:63
+msgid "Adventurer"
+msgstr "Seikkailija"
+
+#: ../engine/titles.txt:69
+msgid "Warrior"
+msgstr "Soturi"
+
+#: ../engine/titles.txt:74
+msgid "Ranger"
+msgstr "Samooja"
+
+#: ../engine/titles.txt:79
+msgid "Wizard"
+msgstr "Velho"
+
+#: ../engine/titles.txt:84
+msgid "Paladin"
+msgstr "Paladiini"
+
+#: ../engine/titles.txt:90
+msgid "Rogue"
+msgstr "Rosvo"
+
+#: ../engine/titles.txt:95
+msgid "Knight"
+msgstr "Ritari"
+
+#: ../engine/titles.txt:100
+msgid "Striker"
+msgstr "Hyökkääjä"
+
+#: ../engine/titles.txt:105
+msgid "Cleric"
+msgstr "Pappi"
+
+#: ../engine/titles.txt:110
+msgid "Battle Mage"
+msgstr "Taistelumaagi"
+
+#: ../engine/titles.txt:115
+msgid "Warden"
+msgstr "Vahti"
+
+#: ../engine/titles.txt:119
+msgid "Wanderer"
+msgstr "Vaeltaja"
+
+#: ../engine/titles.txt:125
+msgid "Fighter"
+msgstr "Taistelija"
+
+#: ../engine/titles.txt:130
+msgid "Recon"
+msgstr "Tiedustelija"
+
+#: ../engine/titles.txt:135
+msgid "Sorcerer"
+msgstr "Taikuri"
+
+#: ../engine/titles.txt:140
+msgid "Keeper"
+msgstr "Vartija"
+
+#: ../engine/titles.txt:146
+msgid "Knave"
+msgstr "Solttu"
+
+#: ../engine/titles.txt:151
+msgid "Squire"
+msgstr "Aseenkantaja"
+
+#: ../engine/titles.txt:156
+msgid "Slinger"
+msgstr "Linkooja"
+
+#: ../engine/titles.txt:161
+msgid "Shepherd"
+msgstr "Paimen"
+
+#: ../engine/titles.txt:166
+msgid "Sparkblade"
+msgstr "Kipunaterä"
+
+#: ../engine/titles.txt:171
+msgid "Watch"
+msgstr "Valvoja"
+
+#: ../engine/titles.txt:177
+msgid "Exiled"
+msgstr "Karkotettu"
+
+#: ../engine/equip_flags.txt:5
+msgid "throwing axe"
+msgstr "heittokirves"
+
+#: ../engine/damage_types.txt:5
+msgid "Scroll Damage"
+msgstr ""
+
+#: ../engine/damage_types.txt:16
+msgid "Fire Damage"
+msgstr "Tulivahinko"
+
+#: ../engine/damage_types.txt:17
+msgid "Fire"
+msgstr "Tuli"
+
+#: ../engine/damage_types.txt:18
+msgid "Adds elemental fire damage to non-elemental attacks."
+msgstr "Lisää elementaalista tulivahinkoa ei-elementaalisille hyökkäyksille."
+
+#: ../engine/damage_types.txt:25
+msgid "Ice Damage"
+msgstr "Jäävahinko"
+
+#: ../engine/damage_types.txt:26
+msgid "Ice"
+msgstr "Jää"
+
+#: ../engine/damage_types.txt:27
+msgid "Adds elemental ice damage to non-elemental attacks."
+msgstr "Lisää elementaalista jäävahinkoa ei-elementaalisille hyökkäyksille."
+
+#: ../engine/damage_types.txt:34
+msgid "Lightning Damage"
+msgstr "Salamavahinko"
+
+#: ../engine/damage_types.txt:35
+msgid "Lightning"
+msgstr "Salama"
+
+#: ../engine/damage_types.txt:36
+msgid "Adds elemental lightning damage to non-elemental attacks."
+msgstr ""
+"Lisää elementaalista salamavahinkoa ei-elementaalisille hyökkäyksille."
+
+#: ../engine/damage_types.txt:43
+msgid "Dark Damage"
+msgstr "Pimeävahinko"
+
+#: ../engine/damage_types.txt:44
+msgid "Dark"
+msgstr "Pimeä"
+
+#: ../engine/damage_types.txt:45
+msgid "Adds elemental dark damage to non-elemental attacks."
+msgstr "Lisää elementaalista pimeävahinkoa ei-elementaalisille hyökkäyksille."
+
+#: ../enemies/base/ardwen.txt:3
+msgid "Ardwen"
+msgstr ""
+
+#: ../enemies/catacomb_boulder_1.txt:6
+msgid "Boulder"
+msgstr "Lohkare"
+
+#: ../enemies/goblin_minecart.txt:4
+msgid "Goblin"
+msgstr "Hiisi"
+
+#: ../enemies/lvl10_minotaur.txt:3
+msgid "Minotaur"
+msgstr "Minotauri"
+
+#: ../enemies/lvl10_minotaur_necromancer.txt:3
+msgid "Minotaur Necromancer"
+msgstr "Minotaurimanaaja"
+
+#: ../enemies/lvl10_mog.txt:3
+msgid "Mog"
+msgstr ""
+
+#: ../enemies/lvl10_skeleton_minion.txt:3
+msgid "Skeleton Minion"
+msgstr "Luurankokätyri"
+
+#: ../enemies/lvl10_skeleton_sharpshooter.txt:3
+msgid "Skeleton Sharpshooter"
+msgstr "Luurankotarkka-ampuja"
+
+#: ../enemies/lvl10_xonun.txt:3
+msgid "Xonun"
+msgstr ""
+
+#: ../enemies/lvl10_zombie_leecher.txt:3
+msgid "Leecher Zombie"
+msgstr "Verenimijäzombi"
+
+#: ../enemies/lvl11_antlion_venom.txt:3
+msgid "Venom Antlion"
+msgstr "Myrkkymuurahaisleijona"
+
+#: ../enemies/lvl11_buchi.txt:3
+msgid "Buchi"
+msgstr ""
+
+#: ../enemies/lvl11_sentry_fire.txt:3
+msgid "Fire Sentry"
+msgstr "Tulivartija"
+
+#: ../enemies/lvl11_sentry_ice.txt:3
+msgid "Ice Sentry"
+msgstr "Jäävartija"
+
+#: ../enemies/lvl11_skeleton_blaze.txt:3
+msgid "Blaze Skeleton"
+msgstr "Loimuluuranko"
+
+#: ../enemies/lvl11_skeleton_frost.txt:3
+msgid "Frost Skeleton"
+msgstr "Jääluuranko"
+
+#: ../enemies/lvl11_skeleton_protector.txt:3
+msgid "Skeleton Protector"
+msgstr "Luurankosuojelija"
+
+#: ../enemies/lvl12_cyl.txt:3
+msgid "Cyl"
+msgstr ""
+
+#: ../enemies/lvl12_metzger.txt:3
+msgid "Metzger"
+msgstr ""
+
+#: ../enemies/lvl12_nishi.txt:3
+msgid "Nishi"
+msgstr ""
+
+#: ../enemies/lvl13_antlion_fossilized.txt:3
+msgid "Fossilized Antlion"
+msgstr "Fossiilimuurahaisleijona"
+
+#: ../enemies/lvl13_antlion_larva.txt:3
+msgid "Antlion Larva"
+msgstr "Muurahaisleijonan toukka"
+
+#: ../enemies/lvl13_goblin_thief.txt:3
+msgid "Goblin Thief"
+msgstr "Hiisivaras"
+
+#: ../enemies/lvl13_skeleton_shadowstep.txt:3
+msgid "Shadowstep Skeleton"
+msgstr "Varjoluuranko"
+
+#: ../enemies/lvl13_zombie_miner.txt:13
+msgid "Zombie Miner"
+msgstr "Zombilouhija"
+
+#: ../enemies/lvl13_zombie_vomit.txt:3
+msgid "Vomit Zombie"
+msgstr "Oksenteleva zombi"
+
+#: ../enemies/lvl14_antlion_firethorn.txt:3
+msgid "Firethorn Antlion"
+msgstr "Tulikivimuurahaisleijona"
+
+#: ../enemies/lvl14_goblin_sonic.txt:3
+msgid "Sonic Goblin"
+msgstr "Sooninen hiisi"
+
+#: ../enemies/lvl14_skeleton_shocker.txt:3
+msgid "Shocker Skeleton"
+msgstr "Tyrmäysluuranko"
+
+#: ../enemies/lvl15_antlion_shivering.txt:3
+msgid "Shivering Antlion"
+msgstr "Hyisevä muurahaisleijona"
+
+#: ../enemies/lvl15_arzoz.txt:3
+msgid "Arzoz"
+msgstr ""
+
+#: ../enemies/lvl15_hobgoblin.txt:3
+msgid "Hobgoblin"
+msgstr "Suurhiisi"
+
+#: ../enemies/lvl15_hobgoblin_archer.txt:3
+msgid "Hobgoblin Archer"
+msgstr "Suurhiisiampuja"
+
+#: ../enemies/lvl15_kayl.txt:3
+msgid "Kayl"
+msgstr ""
+
+#: ../enemies/lvl15_lorund.txt:3
+msgid "Lorund"
+msgstr ""
+
+#: ../enemies/lvl15_nerin.txt:3
+msgid "Nerin"
+msgstr ""
+
+#: ../enemies/lvl15_skeleton_guardian.txt:3
+msgid "Skeleton Guardian"
+msgstr "Luurankovahti"
+
+#: ../enemies/lvl15_vohn.txt:4
+msgid "Vohn"
+msgstr ""
+
+#: ../enemies/lvl15_wyvern_ancient.txt:3
+msgid "Ancient Wyvern"
+msgstr "Muinainen traakki"
+
+#: ../enemies/lvl16_forgotten_grave.txt:4
+msgid "Forgotten Grave"
+msgstr "Unohdettu hauta"
+
+#: ../enemies/lvl16_lezaith.txt:4
+msgid "Lezaith"
+msgstr ""
+
+#: ../enemies/lvl16_ogel.txt:3
+msgid "Ogel"
+msgstr ""
+
+#: ../enemies/lvl16_rakk.txt:3
+msgid "Rakk"
+msgstr ""
+
+#: ../enemies/lvl1_goblin_runner.txt:3
+msgid "Goblin Runner"
+msgstr "Hiisijuoksija"
+
+#: ../enemies/lvl1_goblin_scamp.txt:3
+msgid "Goblin Scamp"
+msgstr "Hiisikulkuri"
+
+#: ../enemies/lvl1_skeleton_cracked.txt:3
+msgid "Cracked Skeleton"
+msgstr "Haljennut luuranko"
+
+#: ../enemies/lvl1_zombie_raised.txt:3
+msgid "Cursed Zombie"
+msgstr "Kirottu zombi"
+
+#: ../enemies/lvl1_zombie_rotting.txt:3
+msgid "Rotting Zombie"
+msgstr "Mätänevä zombi"
+
+#: ../enemies/lvl2_goblin_charger.txt:3
+msgid "Goblin Charger"
+msgstr "Hiisihyökkääjä"
+
+#: ../enemies/lvl2_goblin_chief.txt:3
+msgid "Goblin Chief"
+msgstr "Hiisipäällikkö"
+
+#: ../enemies/lvl2_goblin_spearman.txt:3
+msgid "Goblin Spearman"
+msgstr "Keihäshiisi"
+
+#: ../enemies/lvl2_krolan.txt:3
+msgid "Krolan"
+msgstr ""
+
+#: ../enemies/lvl2_skeleton.txt:3
+msgid "Skeleton"
+msgstr "Luuranko"
+
+#: ../enemies/lvl2_skeleton_archer.txt:3
+msgid "Skeleton Archer"
+msgstr "Jousiluuranko"
+
+#: ../enemies/lvl2_zombie.txt:3
+msgid "Zombie"
+msgstr "Zombi"
+
+#: ../enemies/lvl3_cursed_grave.txt:3
+msgid "Cursed Grave"
+msgstr "Kirottu hauta"
+
+#: ../enemies/lvl3_skeleton_fire_mage.txt:3
+msgid "Skeleton Fire Mage"
+msgstr "Luurankotulimaagi"
+
+#: ../enemies/lvl3_skeleton_ice_mage.txt:3
+msgid "Skeleton Ice Mage"
+msgstr "Luurankojäämaagi"
+
+#: ../enemies/lvl3_skeleton_knight.txt:3
+msgid "Skeleton Knight"
+msgstr "Luurankoritari"
+
+#: ../enemies/lvl3_skeleton_sniper.txt:3
+msgid "Skeleton Sniper"
+msgstr "Luurankosala-ampuja"
+
+#: ../enemies/lvl3_zombie_bloodthirsty.txt:3
+msgid "Bloodthirsty Zombie"
+msgstr "Verenhimoinen zombi"
+
+#: ../enemies/lvl3_zombie_brute.txt:3
+msgid "Zombie Brute"
+msgstr "Zombihirmu"
+
+#: ../enemies/lvl3_zombie_iceclaw.txt:3
+msgid "Iceclaw Zombie"
+msgstr "Jääkynsizombi"
+
+#: ../enemies/lvl4_cid.txt:3
+msgid "Cid"
+msgstr ""
+
+#: ../enemies/lvl4_geno.txt:3
+msgid "Geno"
+msgstr ""
+
+#: ../enemies/lvl4_seagate.txt:3
+msgid "Seagate"
+msgstr ""
+
+#: ../enemies/lvl4_seagate_tombstone.txt:3
+msgid "Seagate's Tombstone"
+msgstr "Seagaten hautakivi"
+
+#: ../enemies/lvl5_antlion.txt:3
+msgid "Antlion"
+msgstr "Muurahaisleijona"
+
+#: ../enemies/lvl5_antlion_freezer.txt:3
+msgid "Antlion Freezer"
+msgstr "Jäämuurahaisleijona"
+
+#: ../enemies/lvl5_frozen_corpse.txt:3
+msgid "Frozen Corpse"
+msgstr "Jäätynyt ruumis"
+
+#: ../enemies/lvl5_goblin_hurler.txt:3
+msgid "Goblin Hurler"
+msgstr "Hiisiheittäjä"
+
+#: ../enemies/lvl5_goblin_vanguard.txt:3
+msgid "Goblin Vanguard"
+msgstr "Hiisivahti"
+
+#: ../enemies/lvl5_skeleton_frostsword.txt:3
+msgid "Skeleton Frostsword"
+msgstr "Jäämiekkaluuranko"
+
+#: ../enemies/lvl6_antlion_burster.txt:3
+msgid "Antlion Burster"
+msgstr "Purskemuurahaisleijona"
+
+#: ../enemies/lvl6_antlion_frostbite.txt:3
+msgid "Frostbite Antlion"
+msgstr "Pakkasmuurahaisleijona"
+
+#: ../enemies/lvl6_antlion_hatchling.txt:3
+msgid "Antlion Hatchling"
+msgstr "Muurahaisleijonan poikanen"
+
+#: ../enemies/lvl6_antlion_slasher.txt:3
+msgid "Antlion Slasher"
+msgstr "Viiltävä muurahaisleijona"
+
+#: ../enemies/lvl6_antlion_spitter.txt:3
+msgid "Antlion Spitter"
+msgstr "Sylkevämuurahaisleijona"
+
+#: ../enemies/lvl6_gruzza.txt:3
+msgid "Gruzza"
+msgstr ""
+
+#: ../enemies/lvl6_prioss.txt:3
+msgid "Prioss"
+msgstr ""
+
+#: ../enemies/lvl6_skeleton_assassin.txt:3
+msgid "Skeleton Assassin"
+msgstr "Luurankosalamurhaaja"
+
+#: ../enemies/lvl6_skeleton_frost_mage.txt:3
+msgid "Skeleton Frost Mage"
+msgstr "Luurankojäämaagi"
+
+#: ../enemies/lvl7_antlion_queen.txt:3
+msgid "Antlion Queen"
+msgstr "Muurahaisleijonakuningatar"
+
+#: ../enemies/lvl7_skeleton_basher.txt:3
+msgid "Skeleton Basher"
+msgstr "Luurankoiskijä"
+
+#: ../enemies/lvl7_vampiric_zombie.txt:3
+msgid "Vampiric Zombie"
+msgstr "Vampyyrizombi"
+
+#: ../enemies/lvl7_wyvern.txt:3
+msgid "Wyvern"
+msgstr "Traakki"
+
+#: ../enemies/lvl7_wyvern_fire.txt:3
+msgid "Fire Wyvern"
+msgstr "Tulitraakki"
+
+#: ../enemies/lvl7_wyvern_ice.txt:3
+msgid "Ice Wyvern"
+msgstr "Jäätraakki"
+
+#: ../enemies/lvl8_kylana.txt:3
+msgid "Kylana"
+msgstr ""
+
+#: ../enemies/lvl8_mez.txt:4
+msgid "Mez"
+msgstr ""
+
+#: ../enemies/lvl8_zola.txt:3
+msgid "Zola"
+msgstr ""
+
+#: ../enemies/lvl9_antlion_sprayer.txt:3
+msgid "Antlion Sprayer"
+msgstr "Roiskemuurahaisleijona"
+
+#: ../enemies/lvl9_goblin_hunter.txt:3
+msgid "Goblin Hunter"
+msgstr "Hiisimetsästäjä"
+
+#: ../enemies/lvl9_goblin_shaker.txt:3
+msgid "Goblin Shaker"
+msgstr "Hiisivavisuttaja"
+
+#: ../enemies/lvl9_goblin_sprinter.txt:3
+msgid "Goblin Sprinter"
+msgstr "Hiisipinkoja"
+
+#: ../enemies/lvl9_wyvern_tundra.txt:3
+msgid "Tundra Wyvern"
+msgstr "Tundratraakki"
+
+#: ../enemies/summon_zombie.txt:3
+msgid "Your Summoned Zombie"
+msgstr "Oma manattu zombi"
+
+#: ../maps/abandoned_mines.txt:11
+msgid "Abandoned Mines"
+msgstr "Hylätty kaivos"
+
+#: ../maps/abandoned_mines.txt:338
+msgid "Blackmire Mines"
+msgstr "Mustasuon kaivos"
+
+#: ../maps/abandoned_mines.txt:455
+msgid "Treasure Chest"
+msgstr "Aarrearkku"
+
+#: ../maps/abandoned_mines.txt:467
+msgid "Crate"
+msgstr "Laatikko"
+
+#: ../maps/abandoned_mines.txt:491
+msgid "Barrel"
+msgstr "Tynnyri"
+
+#: ../maps/abandoned_mines.txt:524
+msgid "The Breach"
+msgstr "Murtuma"
+
+#: ../maps/abandoned_mines.txt:533
+msgid "Grot Lagoon"
+msgstr "Grotin laguuni"
+
+#: ../maps/antlion_nest.txt:11
+msgid "Antlion Nest"
+msgstr "Muurahaisleijonien pesä"
+
+#: ../maps/antlion_nest.txt:391
+msgid "Temple of Mez: Basement"
+msgstr "Mezin temppeli: kellarikerros"
+
+#: ../maps/arrival.txt:11
+msgid "Arrival"
+msgstr "Saapuminen"
+
+#: ../maps/arrival.txt:171
+msgid "River Trail"
+msgstr "Jokireitti"
+
+#: ../maps/black_oak_city.txt:11
+msgid "Black Oak City"
+msgstr "Mustatammen kaupunki"
+
+#: ../maps/black_oak_city.txt:342
+msgid "Black Oak Farm"
+msgstr "Mustatammen maatila"
+
+#: ../maps/black_oak_city.txt:354
+msgid "Supplies"
+msgstr "Tarvikkeita"
+
+#: ../maps/black_oak_city.txt:602
+msgid "Wizard's Tower: Entrance Hall"
+msgstr "Velhon torni: eteishalli"
+
+#: ../maps/black_oak_farm.txt:342
+msgid "Southern Ridge"
+msgstr "Eteläinen harjanne"
+
+#: ../maps/black_oak_farm.txt:523
+msgid "Dilapidated Sewers"
+msgstr "Ränsistyneet viemärit"
+
+#: ../maps/black_oak_farm.txt:547
+msgid "Lumber"
+msgstr "Sahatavaroita"
+
+#: ../maps/blackmire_mines.txt:277
+msgid "Blackmire Mines waypoint discovered."
+msgstr "Mustasuon kaivoksen reittipiste löydetty."
+
+#: ../maps/blackmire_mines.txt:291
+msgid "Hyperspace"
+msgstr "Hyperavaruus"
+
+#: ../maps/blackmire_mines.txt:480
+msgid "Lake Kuuma"
+msgstr "Kuumajärvi"
+
+#: ../maps/book_of_the_dead.txt:11
+msgid "Book of the Dead"
+msgstr "Kuolleiden kirja"
+
+#: ../maps/book_of_the_dead.txt:192
+msgid "Perdition Harbor"
+msgstr "Kadotuksen satama"
+
+#: ../maps/book_of_the_dead.txt:202
+msgid "Salted Field"
+msgstr "Suolakenttä"
+
+#: ../maps/book_of_the_dead.txt:295
+msgid "Quest added."
+msgstr "Etsintä lisätty."
+
+#: ../maps/book_of_the_dead.txt:348
+msgid ""
+"You sign your name in the Book of the Dead. The Black Quill vanishes and the"
+" inkwell is dry. You hope this worked."
+msgstr ""
+"Allekirjoitat nimesi Kuolleiden kirjaan. Musta sulkakynä katoaa, ja "
+"mustepullo ehtyi. Toivot, että tämä toimi."
+
+#: ../maps/dilapidated_sewers.txt:311
+msgid "Dilapidated Sewers waypoint discovered."
+msgstr "Ränsistyneiden viemäreiden reittipiste löydetty."
+
+#: ../maps/dilapidated_sewers.txt:576
+msgid "Fort Nasu"
+msgstr "Nasun linnake"
+
+#: ../maps/family_crypt.txt:11
+msgid "Family Crypt"
+msgstr "Sukukrypta"
+
+#: ../maps/family_crypt.txt:257
+msgid "Switch"
+msgstr "Vipu"
+
+#: ../maps/family_crypt.txt:269
+msgid "Ardwen's Coffin"
+msgstr "Ardwenin arkku"
+
+#: ../maps/family_crypt.txt:356
+msgid "Ardwen (1308-1364), founder of Lochport"
+msgstr "Ardwen (1308-1364), Lochportin perustaja"
+
+#: ../maps/family_crypt.txt:359
+msgid "In Memoriam"
+msgstr "Muistokirjoitus"
+
+#: ../maps/family_crypt.txt:369
+msgid "Lochport Cemetery"
+msgstr "Lochportin hautausmaa"
+
+#: ../maps/fort_amir.txt:11
+msgid "Fort Amir"
+msgstr "Amirin linnake"
+
+#: ../maps/fort_amir.txt:376
+msgid ""
+"Opening the book reveals that it has been hollowed out. A gem is concealed "
+"inside."
+msgstr ""
+"Kirjan avaaminen paljastaa, että se on ontto. Jalokivi on piilotettu "
+"sisälle."
+
+#: ../maps/fort_amir.txt:380
+msgid "Book"
+msgstr "Kirja"
+
+#: ../maps/fort_amir.txt:405
+msgid ""
+"The statue is missing an eye. The sapphire fits securely in the statue's eye"
+" socket."
+msgstr ""
+"Patsaalta puuttuu silmä. Safiiri sopii patsaan silmäkuoppaan tukevasti."
+
+#: ../maps/fort_amir.txt:411
+msgid "Statue"
+msgstr "Patsas"
+
+#: ../maps/fort_amir.txt:433
+msgid "The statue is missing an eye."
+msgstr "Patsaalta puuttuu silmä."
+
+#: ../maps/fort_amir.txt:465
+msgid "The bookcase slides back and reveals a hidden path."
+msgstr "Kirjahylly liukuu taakse ja paljastaa piiloreitin."
+
+#: ../maps/fort_nasu.txt:1025
+msgid "Book Stand"
+msgstr "Kirjateline"
+
+#: ../maps/fort_nasu.txt:1064
+msgid "Altar"
+msgstr "Alttari"
+
+#: ../maps/fort_nasu.txt:1072
+msgid ""
+"As you enter the throne room, you see an Altar with a wooden figurine placed"
+" upon it."
+msgstr ""
+"Käydessäsi valtaistuinhuoneeseen näet alttarin, jolle on laitettu "
+"puufiguuri."
+
+#: ../maps/fort_nasu.txt:1102
+msgid "Strange Book"
+msgstr "Outo kirja"
+
+#: ../maps/goblin_camp.txt:11
+msgid "Goblin Camp"
+msgstr "Hiisileiri"
+
+#: ../maps/goblin_camp.txt:223
+msgid "Stonewood"
+msgstr "Kivmetsä"
+
+#: ../maps/goblin_camp.txt:402
+msgid "Merrimead Swamp"
+msgstr "Ilosiman suo"
+
+#: ../maps/goblin_camp.txt:411
+msgid "Goblin Cave"
+msgstr "Hiisiluola"
+
+#: ../maps/goblin_camp.txt:423
+msgid "Gravestone"
+msgstr "Hautakivi"
+
+#: ../maps/halls_of_infinity/halls_of_infinity_1.txt:11
+msgid "Halls of Infinity"
+msgstr "Äärettömyyden hallit"
+
+#: ../maps/halls_of_infinity/halls_of_infinity_7.txt:570
+msgid "Stalagmite Pillar"
+msgstr "Stalagmiittipylväs"
+
+#: ../maps/halls_of_infinity/halls_of_infinity_6.txt:341
+msgid "Mine Cart"
+msgstr "Kaivoskärry"
+
+#: ../maps/halls_of_infinity.txt:223
+msgid "Underworld Stronghold: Barracks"
+msgstr "Alamaailman linnoitus: kasarmi"
+
+#: ../maps/halls_of_infinity.txt:267
+msgid "The plaque reads: \"1\"."
+msgstr "Laatassa lukee: \"1\"."
+
+#: ../maps/halls_of_infinity.txt:269
+msgid "Plaque"
+msgstr "Laatta"
+
+#: ../maps/halls_of_infinity.txt:278
+msgid "The plaque reads: \"2\"."
+msgstr "Laatassa lukee: \"2\"."
+
+#: ../maps/halls_of_infinity.txt:289
+msgid "The plaque reads: \"3\"."
+msgstr "Laatassa lukee: \"3\"."
+
+#: ../maps/halls_of_infinity.txt:300
+msgid "The plaque reads: \"4\"."
+msgstr "Laatassa lukee: \"4\"."
+
+#: ../maps/halls_of_infinity.txt:311
+msgid "The altar is empty."
+msgstr "Alttari on tyhjä."
+
+#: ../maps/halls_of_infinity.txt:324
+msgid "You place the figure on the altar."
+msgstr "Laitat figuurin alttarille."
+
+#: ../maps/hyperspace.txt:196
+msgid "St. Maria: Catacombs"
+msgstr "Pyhä Maria: katakombit"
+
+#: ../maps/hyperspace.txt:218
+msgid "Stormrock Pass"
+msgstr "Myrskykallion sola"
+
+#: ../maps/hyperspace.txt:229
+msgid "Temple of Mez: Main Hall"
+msgstr "Mezin temppeli: päähalli"
+
+#: ../maps/hyperspace.txt:240
+msgid "Nazia Underground"
+msgstr "Nazian maanalainen"
+
+#: ../maps/hyperspace.txt:262
+msgid "Wizard's Tower: Research Chambers"
+msgstr "Velhon torni: tutkimuskammiot"
+
+#: ../maps/hyperspace.txt:273
+msgid "Underworld Catacombs"
+msgstr "Maanalaiset katakombit"
+
+#: ../maps/hyperspace.txt:388
+msgid "Cutscenes"
+msgstr "Välinäytökset"
+
+#: ../maps/lake_kuuma.txt:852
+msgid "Boat"
+msgstr "Vene"
+
+#: ../maps/lochport.txt:12
+msgid "Lochport"
+msgstr "Lochport"
+
+#: ../maps/lochport.txt:360
+msgid "St. Maria: Mausoleum"
+msgstr "Pyhä Maria: mausoleumi"
+
+#: ../maps/lochport_cemetery.txt:310
+msgid "Lochport Cemetery waypoint discovered."
+msgstr "Lochportin hautausmaan reittipiste löydetty."
+
+#: ../maps/mog_caverns.txt:11
+msgid "Mog Caverns"
+msgstr "Mogin onkalot"
+
+#: ../maps/mog_caverns.txt:292
+msgid "You found another note. Keep following the trail."
+msgstr "Olet löytänyt uuden viestin. Seuraa reittiä."
+
+#: ../maps/mog_caverns.txt:302
+msgid "Waterlogged Support Beam"
+msgstr "Vetinen tukipalkki"
+
+#: ../maps/mog_caverns.txt:319
+msgid "Moldy Rock"
+msgstr "Homeinen kivi"
+
+#: ../maps/mog_caverns.txt:336
+msgid "Pile of Bones"
+msgstr "Luukasa"
+
+#: ../maps/mog_caverns.txt:353
+msgid "Blocked Mine Cart"
+msgstr "Jumiutunut kaivoskärry"
+
+#: ../maps/nazia_highlands.txt:11
+msgid "Nazia Highlands"
+msgstr "Nazian ylämaat"
+
+#: ../maps/nazia_highlands.txt:383
+msgid "Nazia Mines"
+msgstr "Nazian kaivokset"
+
+#: ../maps/nazia_mines.txt:240
+msgid "Empty Mine Cart"
+msgstr "Tyhjä kaivoskärry"
+
+#: ../maps/nazia_mines.txt:291
+msgid "By itself, this mine cart can't break open the door."
+msgstr "Tämä kaivoskärry ei voi murtaa ovea auki yksinään."
+
+#: ../maps/nazia_mines.txt:428
+msgid "You found a door, but it appears to be barricaded from the inside."
+msgstr "Olet löytänyt oven, mutta se on näköjään teljetty sisäpuolelta."
+
+#: ../maps/nazia_mines.txt:433
+msgid "Locked Door"
+msgstr "Lukittu ovi"
+
+#: ../maps/nazia_underground.txt:260
+msgid "The switch won't budge."
+msgstr "Vipu ei hievahda."
+
+#: ../maps/nazia_underground.txt:379
+msgid "Nazia Underground waypoint discovered."
+msgstr "Nazian maanalainen reittipiste löydetty."
+
+#: ../maps/oasis.txt:12
+msgid "Oasis"
+msgstr "Keidas"
+
+#: ../maps/oasis.txt:520
+msgid "Underworld Mines"
+msgstr "Alamaailman kaivokset"
+
+#: ../maps/perdition_harbor.txt:171
+msgid "Stash"
+msgstr "Kätkö"
+
+#: ../maps/perdition_harbor.txt:269
+msgid "Perdition Harbor waypoint discovered."
+msgstr "Kadotuksen sataman reittipiste löydetty."
+
+#: ../maps/perdition_mines.txt:11
+msgid "Perdition Mines"
+msgstr "Kadotuksen kaivokset"
+
+#: ../maps/perdition_mines.txt:162
+msgid "Krolan's Chest"
+msgstr "Krolanin arkku"
+
+#: ../maps/st_maria_1.txt:355
+msgid "This door needs a key to be opened."
+msgstr "Tämä ovi tarvitsee avaimen auetakseen."
+
+#: ../maps/st_maria_2.txt:271
+msgid "St. Maria: Catacombs waypoint discovered."
+msgstr "Pyhä Maria: katakombien reittipiste löydetty."
+
+#: ../maps/st_maria_2.txt:471
+msgid "St. Maria: Crypt"
+msgstr "Pyhä Maria: krypta"
+
+#: ../maps/st_maria_3.txt:411
+msgid "The plaque reads: Grave of the Saints"
+msgstr "Laatassa lukee: pyhimysten hauta"
+
+#: ../maps/st_maria_3.txt:420
+msgid "You remove the gravebloom flower from the Altar."
+msgstr "Otit hautahärmeen kukan pois alttarilta."
+
+#: ../maps/st_maria_3.txt:441
+msgid "There is a gravebloom flower on the altar, but it is frozen in place."
+msgstr "Alttarilla on hautahärmeen kukka, mutta se on jäätynyt paikoilleen."
+
+#: ../maps/st_maria_3.txt:455
+msgid "The gravebloom flower laid upon the altar has thawed."
+msgstr "Alttarille asetettu hautahärmeen kukka on sulannut."
+
+#: ../maps/stonewood.txt:514
+msgid "Stonewood waypoint discovered."
+msgstr "Kivimetsän reittipiste löydetty."
+
+#: ../maps/stormrock_pass.txt:895
+msgid "Stormrock Pass waypoint discovered."
+msgstr "Myrskykallion solan reittipiste löydetty."
+
+#: ../maps/stormrock_pass.txt:1053
+msgid "Stormrock Ruins"
+msgstr "Myrskykallion rauniot"
+
+#: ../maps/temple_of_mez_2.txt:351
+msgid "Temple of Mez: Main Hall waypoint discovered."
+msgstr "Mezin temppeli: päähallin reittipiste löydetty."
+
+#: ../maps/temple_of_mez_2.txt:536
+msgid "The plaque reads: Red Altar"
+msgstr "Laatassa lukee: Punainen alttari"
+
+#: ../maps/temple_of_mez_2.txt:547
+msgid "Temple of Mez: Entrance"
+msgstr "Mezin temppeli: eteinen"
+
+#: ../maps/temple_of_mez_2.txt:555
+msgid ""
+"You cut into your arm with the Knife of Sacrifices. The pain is "
+"excruciating. Shaking, you manage to collect some of your blood in a small "
+"vial. The knife quickly raises in temperature until it disintegrates. Your "
+"wound then begins to close itself, leaving no trace at all besides a warm "
+"feeling throughout your body."
+msgstr ""
+"Leikkaat kättäsi Uhrausveitsellä. Kipu on sietämätön. Onnistut vapisten "
+"keräämään vähän vertasi pieneen pulloon. Pian veitsen lämpötila nousee "
+"kunnes se hajoaa. Sitten haavasi alkaa sulkeutua itsekseen eikä siitä jää "
+"jälkeäkään, paitsi lämmin tunne koko kehossasi."
+
+#: ../maps/temple_of_mez_2.txt:564
+msgid "Red Altar"
+msgstr "Punainen alttari"
+
+#: ../maps/temple_of_mez_2.txt:573
+msgid "Nothing happens."
+msgstr "Mitään ei tapahdu."
+
+#: ../maps/the_pit.txt:12
+msgid "The Pit"
+msgstr "Kuilu"
+
+#: ../maps/torture_chambers.txt:12
+msgid "Torture Chambers"
+msgstr "Kidutuskammiot"
+
+#: ../maps/torture_chambers.txt:343
+msgid "Underworld"
+msgstr "Alamaailma"
+
+#: ../maps/torture_chambers.txt:1237
+msgid "You disabled the barriers in the Torture Chambers."
+msgstr "Olet poistanut esteet kidutuskammioissa."
+
+#: ../maps/torture_chambers.txt:1276
+msgid "Bookstand"
+msgstr "Kirjateline"
+
+#: ../maps/torture_chambers.txt:1285
+msgid "You have returned the warden's notes. The traps are now disabled."
+msgstr ""
+"Olet palauttanut vankilanjohtajan muistiinpanot. Ansat ovat nyt pois "
+"käytöstä."
+
+#: ../maps/torture_chambers.txt:1306
+msgid "You successfully made it through the warden's traps."
+msgstr "Onnistuit pääsemään vankilanjohtajan ansoista läpi."
+
+#: ../maps/underworld_catacombs.txt:513
+msgid "Underworld Catacombs waypoint discovered."
+msgstr "Alamaailman katakombien reittipiste löydetty."
+
+#: ../maps/underworld_mines.txt:545
+msgid "Underworld Stronghold: Foyer"
+msgstr "Alamaailman linnoitus: aula"
+
+#: ../maps/underworld_stronghold_2.txt:341
+msgid "Underworld Stronghold: Barracks waypoint discovered."
+msgstr "Alamaailman linnoitus: kasarmin reittipiste löydetty."
+
+#: ../maps/wizards_tower_2.txt:364
+msgid "Wizard's Tower: Research Chambers waypoint discovered."
+msgstr "Velhon torni: tutkimuskammioiden reittipiste löydetty."
+
+#: ../maps/wizards_tower_2.txt:505
+msgid "Wizard's Tower: Laboratory"
+msgstr "Velhon torni: laboratorio"
+
+#: ../maps/wizards_tower_2.txt:513
+msgid "The plaque reads: Underworld Gate"
+msgstr "Laatassa lukee: Alamaailman portti"
+
+#: ../quests/0000_empyrean.txt:1
+msgid "Return to Empyrean"
+msgstr "Paluu Empyreaniin"
+
+#: ../quests/0000_empyrean.txt:7
+msgid ""
+"You found a chamber on the east side of Perdition Harbor that contains the "
+"Book of the Dead."
+msgstr ""
+"Olet löytänyt Kadotuksen sataman itäpuolelta kammion, jossa on Kuolleiden "
+"kirja."
+
+#: ../quests/0000_empyrean.txt:12
+msgid ""
+"The Book of the Dead states redemption is possible for those who sign their "
+"name in gravebloom ink. Florin in Perdition Harbor can tell you more."
+msgstr ""
+"Kuolleiden kirja mainitsee, että vapahdus on mahdollista niille, jotka "
+"allekirjoittavat nimensä hautahärmeen musteella. Florin osaa kertoa lisää "
+"Kadotuksen satamassa."
+
+#: ../quests/0000_empyrean.txt:17
+msgid ""
+"Before leaving St. Maria's Crypt, it would be wise to look for anything "
+"useful."
+msgstr ""
+"Olisi viisasta etsiä jotain hyödyllistä ennen lähtöä Pyhän Marian kryptasta."
+
+#: ../quests/0000_empyrean.txt:22
+msgid "Ask Florin about the Gravebloom flower."
+msgstr "Kysy Florinilta hautahärmeen kukasta."
+
+#: ../quests/0000_empyrean.txt:28
+msgid ""
+"You've found a gravebloom flower. It is a primary component in the creation "
+"of gravebloom ink."
+msgstr ""
+"Olet löytänyt hautahärmeen kukan. Se on pääosa hautahärmeen musteen "
+"luomisessa."
+
+#: ../quests/0000_empyrean.txt:33
+msgid ""
+"A strange black feather fell off of Mez. You should take it before leaving "
+"the Temple of Mez."
+msgstr ""
+"Outo musta höyhen putoaa Meziltä. Sinun kannattaisi ottaa se ennen lähtöä "
+"Mezin temppelistä."
+
+#: ../quests/0000_empyrean.txt:38
+msgid "Ask Florin about the Black Quill."
+msgstr "Kysy Florinilta Mustasta sulkakynästä."
+
+#: ../quests/0000_empyrean.txt:44
+msgid ""
+"The Black Quill you found is the only thing capable of holding gravebloom "
+"ink. It will be the only way to write in the Book of the Dead."
+msgstr ""
+"Hautahärmeen muste voi tarttua vain löytämääsi Mustaan sulkakynään. Se on "
+"ainoa keino kirjoittaa Kuolleiden kirjaan."
+
+#: ../quests/0000_empyrean.txt:49
+msgid ""
+"Before leaving the Wizard's Tower, you should take the knife that Metzger "
+"dropped."
+msgstr ""
+"Sinun kannattaisi ottaa Metzgerin pudottama veitsi ennen lähtöä Velhon "
+"tornista."
+
+#: ../quests/0000_empyrean.txt:54
+msgid "Ask Florin about the Knife of Sacrifices."
+msgstr "Kysy Florinilta Uhrausveitsestä."
+
+#: ../quests/0000_empyrean.txt:60
+msgid ""
+"Gravebloom ink requires a sample of your blood to be drawn with the Knife of"
+" Sacrifices. This must take place at the Red Altar in the Temple of Mez."
+msgstr ""
+"Hautahärmeen muste vaatii näytteen verestäsi, jota otetaan Uhrausveitsellä. "
+"Se täytyy tehdä Punaisella alttarilla Mezin temppelissä."
+
+#: ../quests/0000_empyrean.txt:66
+msgid ""
+"Having completed the ritual at the Red Altar, return to Florin to proceed "
+"with creating the gravebloom ink."
+msgstr ""
+"Kun rituaali Punaisella alttarilla on valmis, palaa Florinin luo, jotta "
+"hautahärmeen musteen luominen voi jatkua."
+
+#: ../quests/0000_empyrean.txt:71
+msgid ""
+"The time has come. Write your name in the Book of the Dead and gain entry to"
+" the Underworld."
+msgstr ""
+"Aika on koittanut. Kirjoita nimesi Kuolleiden kirjaan ja käy Alamaailmaan."
+
+#: ../quests/0000_empyrean.txt:76
+msgid ""
+"Make your way to the Underworld. A portal to the Underworld was located in "
+"the Wizard's Tower. Once you are there, search for a way to return to "
+"Empyrean."
+msgstr ""
+"Mene kohti Alamaailmaa. Portaali Alamaailmaan sijaitsi Velhon tornissa. Kun "
+"olet siellä, etsi keino palata Empyreaniin."
+
+#: ../quests/0000_empyrean.txt:81
+msgid ""
+"You've found a stronghold in the Underworld. If there is a way back to "
+"Empyrean, it is through here."
+msgstr ""
+"Olet löytänyt linnoituksen Alamaailmassa. Jos Empyreaniin on paluureitti, se"
+" menee tätä kautta."
+
+#: ../quests/0000_empyrean.txt:86
+msgid "Face what awaits you in The Pit."
+msgstr "Kohtaa se, mikä sinua odottaa Kuilussa."
+
+#: ../quests/0010_krolan.txt:1
+msgid "Krolan's Missing"
+msgstr "Krolan kadoksissa"
+
+#: ../quests/0010_krolan.txt:7
+msgid "Travel to the Perdition Mines and look for Krolan."
+msgstr "Matkusta Kadotuksen kaivoksiin ja etsi Krolan."
+
+#: ../quests/0010_krolan.txt:12
+msgid "Use Krolan's key to search his chest."
+msgstr "Tutki Krolanin arkku hänen avaimellaan."
+
+#: ../quests/0010_krolan.txt:17
+msgid "Return to Udana and inform her of Krolan's death."
+msgstr "Palaa Udanan luo ja kerro hänelle Krolanin kuolemasta."
+
+#: ../quests/0011_alchemy.txt:1
+msgid "Alchemy"
+msgstr "Alkemia"
+
+#: ../quests/0011_alchemy.txt:7
+msgid ""
+"Florin requested a sample of 3 ingredients: Aloe Vera, Mana Crystals, and "
+"Mushrooms."
+msgstr ""
+"Florin pyysi näytettä 3 ainesosasta: lääkeaaloeta, manakristalleja ja "
+"sieniä."
+
+#: ../quests/0011_alchemy.txt:13
+msgid "You've found some Aloe Vera."
+msgstr "Olet löytänyt lääkeaaloeta."
+
+#: ../quests/0011_alchemy.txt:19
+msgid "You've found a Mana Crystal."
+msgstr "Olet löytänyt manakristallin."
+
+#: ../quests/0011_alchemy.txt:25
+msgid "You've found some Mushrooms."
+msgstr "Olet löytänyt sieniä."
+
+#: ../quests/0011_alchemy.txt:31
+msgid "You've found all 3 ingredients. Return them to Florin."
+msgstr "Olet löytänyt kaikki 3 ainesosaa. Palauta ne Florinille."
+
+#: ../quests/0020_journal.txt:1
+msgid "The Merchant's Journal"
+msgstr "Kauppiaan lokikirja"
+
+#: ../quests/0020_journal.txt:8
+msgid "Find Abasi's journal. It is likely being carried by a nearby goblin."
+msgstr "Etsi Abasin lokikirja. Hiisi kantanee sitä lähistöllä."
+
+#: ../quests/0020_journal.txt:14
+msgid ""
+"Find Abasi's journal. He said that it was last seen near the Goblin Cave."
+msgstr ""
+"Etsi Abasin lokikirja. Hän sanoi, että se nähtiin viimeksi lähellä "
+"hiisiluolaa."
+
+#: ../quests/0020_journal.txt:19
+msgid "Return the journal to Abasi."
+msgstr "Palauta lokikirja Abasille."
+
+#: ../quests/0030_ardwen.txt:1
+msgid "Trapped in the Crypt"
+msgstr "Ansassa kryptassa"
+
+#: ../quests/0030_ardwen.txt:6
+msgid "Investigate the Family Crypt."
+msgstr "Tutki sukukryptaa."
+
+#: ../quests/0030_ardwen.txt:10
+msgid ""
+"You found a strange ring. It might have a use beyond its mundane magical "
+"properties."
+msgstr ""
+"Olet löytänyt oudon sormuksen. Sillä lienee käyttöä sen maallisten "
+"taikaominaisuuksiensa lisäksi."
+
+#: ../quests/0030_ardwen.txt:14
+msgid ""
+"You found another strange ring. Maybe this one will have a different effect."
+msgstr "Olet löytänyt toisenkin oudon sormuksen. Ehkä tällä on eri vaikutus."
+
+#: ../quests/0030_ardwen.txt:19
+msgid "Defeat Ardwen."
+msgstr "Kukista Ardwen."
+
+#: ../quests/0040_fort_amir.txt:1
+msgid "The One-Eyed Guardians"
+msgstr "Yksisilmäiset suojelijat"
+
+#: ../quests/0040_fort_amir.txt:7
+msgid "Investigate the statues in the Fort Amir throne room."
+msgstr "Tutki patsaita Amirin linnakkeen valtaistuinsalissa."
+
+#: ../quests/0040_fort_amir.txt:12
+msgid "You found a strange sapphire inside one of Fort Amir's books."
+msgstr "Olet löytänyt oudon safiirin yhdestä Amirin linnakkeen kirjoista."
+
+#: ../quests/0040_fort_amir.txt:17
+msgid "Gruzza dropped a strange sapphire."
+msgstr "Gruzza pudotti oudon safiirin."
+
+#: ../quests/0040_fort_amir.txt:22
+msgid ""
+"The bookcase in the Fort Amir throne room opened up, revealing a secret "
+"passage."
+msgstr "Kirjahylly aukesi ja paljasti salakäytävän Amirin linnakkeessa."
+
+#: ../quests/0050_ort.txt:1
+msgid "Brother?"
+msgstr "Veli?"
+
+#: ../quests/0050_ort.txt:7
+msgid ""
+"Ort gave you a ruby. It seemed like he wanted it delivered to someone he "
+"would call \"brother\"."
+msgstr ""
+"Ort on antanut sinulle rubiinin. Hän näköjään halusi sen toimitettavaksi "
+"jollekulle, jota hän kutsuisi \"veljeksi\"."
+
+#: ../quests/0060_stormrock.txt:1
+msgid "Locked Out"
+msgstr "Lukittuna ulos"
+
+#: ../quests/0060_stormrock.txt:7
+msgid ""
+"The door to the Stormrock Ruins is locked. There must be a way to unlock it."
+msgstr "Ovi Myrskykallion raunioille on lukossa. Täytyy olla keino avata se."
+
+#: ../quests/0060_stormrock.txt:12
+msgid ""
+"Aldwulf wants you to get the key to unlock the Stormrock Ruins. It should be"
+" hidden somewhere in the camp south of Stonewood."
+msgstr ""
+"Aldwulf haluaa, että haet avaimen, jolla pääsee Myrskykallion raunioille. "
+"Sen pitäisi olla piilossa jossain päin leiriä Kivimetsän eteläpuolella."
+
+#: ../quests/0060_stormrock.txt:17
+msgid ""
+"You found the key to the Stormrock Ruins. You should return there and speak "
+"to Aldwulf."
+msgstr ""
+"Olet löytänyt avaimen Myrskykallion raunioille. Sinun pitäisi palata sinne "
+"ja puhua Aldwulfille."
+
+#: ../quests/0070_nazia_mines.txt:1
+msgid "The Buried Fortress"
+msgstr "Haudattu linnoitus"
+
+#: ../quests/0070_nazia_mines.txt:7
+msgid ""
+"The excavation of the mines has revealed man-made structures. Perhaps this "
+"is more than just a cave."
+msgstr ""
+"Kaivoslouhinta on paljastanut ihmistekoisia rakennelmia. Ehkäpä tämä on "
+"enemmänkin kuin pelkkä luola."
+
+#: ../quests/0070_nazia_mines.txt:17
+msgid ""
+"You found a satchel of Blast Powder. Maybe an alchemist like Florin would "
+"know how to make this into something more effective?"
+msgstr ""
+"Olet löytänyt laukun räjähdyspulveria. Kenties Florinin tapainen alkemisti "
+"voisi tietää, miten tehdä siitä jotain tehokkaampaa?"
+
+#: ../quests/0070_nazia_mines.txt:22
+msgid ""
+"Mixing the Blast Powder with some shavings of a Mana Crystal has created "
+"Dynamite. This could be useful."
+msgstr ""
+"Räjähdyspulverin sekoittaminen manakristallien lastuihin on luonut "
+"dynamiittia. Tämä lienee hyödyllistä."
+
+#: ../quests/0070_nazia_mines.txt:27
+msgid ""
+"You successfully destroyed the previously barricaded door and can further "
+"explore the Nazia Mines."
+msgstr ""
+"Onnistuit tuhoamaan aiemmin teljetyn oven ja voit jatkaa Nazian kaivosten "
+"tutkimista."
+
+#: ../quests/0080_mog.txt:1
+msgid "The Lost Soul of the Mog Caverns"
+msgstr "Mogin onkaloiden kadonnut sielu"
+
+#: ../quests/0080_mog.txt:7
+msgid ""
+"You found a mysterious note in the Mog Caverns. Maybe its directions will "
+"lead to treasure?"
+msgstr ""
+"Olet löytänyt salaperäisen muistiinpanon Mogin onkaloissa. Ehkäpä sen ohjeet"
+" johtavat aarteen luo?"
+
+#: ../quests/0080_mog.txt:17
+msgid "A secret passage has been unveiled."
+msgstr "Salakäytävä on paljastettu."
+
+#: ../quests/0090_nasu.txt:1
+msgid "An Unusual Name..."
+msgstr "Epätavallinen nimi..."
+
+#: ../quests/0090_nasu.txt:7
+msgid "Discover a way to open the entrance door in Fort Nasu."
+msgstr "Löydä keino avata ulko-ovi Nasun linnakkeeseen."
+
+#: ../quests/0090_nasu.txt:12
+msgid "Discover a way to open the library door in Fort Nasu."
+msgstr "Löydä keino avata kirjaston ovi Nasun linnakkeessa."
+
+#: ../quests/0090_nasu.txt:17
+msgid "Discover a way to open the pit room door in Fort Nasu."
+msgstr "Löydä keino avata kuiluhuoneen ovi Nasun linnakkeessa."
+
+#: ../quests/0090_nasu.txt:22
+msgid "Discover a way to open the final door in Fort Nasu."
+msgstr "Löydä keino avata viimeinen ovi Nasun linnakkeessa."
+
+#: ../quests/0090_nasu.txt:27
+msgid "Defeat Buchi."
+msgstr "Kukista Buchi."
+
+#: ../quests/0100_torture.txt:1
+msgid "Warden's Notes"
+msgstr "Vankilanjohtajan muistiinpanot"
+
+#: ../quests/0100_torture.txt:7
+msgid "Find a way to get to the treasure in the Torture Chambers."
+msgstr "Löydä keino päästä aarteen luo kidutuskammioissa."
+
+#: ../quests/0100_torture.txt:12
+msgid "You found some notes belonging to the prison warden."
+msgstr "Olet löytänyt muistiinpanoja, jotka kuuluvat vankilanjohtajalle."
+
+#: ../quests/0110_martigan.txt:1
+msgid "Fallen Comrades"
+msgstr "Kaatuneet taistelutoverit"
+
+#: ../quests/0110_martigan.txt:7
+msgid ""
+"Martigan has asked you to destroy the undead corpses of his former "
+"companions. He has also asked that you return with proof that you have done "
+"so."
+msgstr ""
+"Martigan on pyytänyt tuhoamaan hänen entisten kumppaneidensa epäkuolleet "
+"ruumiit. Hän on myös pyytänyt, että palaat mukanasi todiste siitä, että olet"
+" tehnyt niin."
+
+#: ../quests/0110_martigan.txt:12
+msgid "You have slain Lorund and recovered his sword."
+msgstr "Olet surmannut Lorundin ja ottanut hänen miekkansa."
+
+#: ../quests/0110_martigan.txt:17
+msgid "You have slain Nerin and recovered her bow."
+msgstr "Olet surmannut Nerinin ja ottanut hänen jousensa."
+
+#: ../quests/0110_martigan.txt:22
+msgid "You have slain Kayl and recovered her staff."
+msgstr "Olet surmannut Kaylin ja ottanut hänen sauvansa."
+
+#: ../npcs/aldwulf.txt:1
+msgid "Aldwulf, Treasure Hunter"
+msgstr "Aldwulf, aarteenmetsästäjä"
+
+#: ../npcs/aldwulf.txt:10
+msgid "Talk"
+msgstr "Puhu"
+
+#: ../npcs/aldwulf.txt:12
+msgid ""
+"Greetings wanderer. I did not expect to meet anyone in a place like this."
+msgstr ""
+"Tervehdys, kulkija. Enpä odottanut tapaavani ketään tällaisessa paikassa."
+
+#: ../npcs/aldwulf.txt:13
+msgid ""
+"I'm in a bit of a predicament. I wanted to come here in search of treasure, "
+"but my partner disagreed with my intentions."
+msgstr ""
+"Olen vähän pulassa. Halusin tulla tänne etsimään aarretta, mutta kumppanini "
+"oli eri mieltä aikomuksistani."
+
+#: ../npcs/aldwulf.txt:14
+msgid ""
+"In an effort to stop me, he stole the key we found that supposedly opened "
+"the door up ahead."
+msgstr ""
+"Minua estääkseen hän varasti löytämämme avaimen, joka oletettavasti avaa "
+"oven edessäpäin."
+
+#: ../npcs/aldwulf.txt:15
+msgid ""
+"Regardless, I took my chances and left our camp south of Stonewood, hoping I"
+" could break through without the key. As you might be able to tell, that "
+"hasn't worked out in my favor."
+msgstr ""
+"Otin joka tapauksessa riskin ja jätin leirimme Kivimetsän eteläpuolella "
+"siinä toivossa, että voisin murtautua ilman avainta. Kuten voit kai todeta, "
+"ettei se toiminut edukseni."
+
+#: ../npcs/aldwulf.txt:16
+msgid ""
+"If you come across my partner in your travels, do what you must to get that "
+"key from him and bring it to me. Do that, and I'll split whatever we find in"
+" these ruins with you."
+msgstr ""
+"Jos törmäät kumppaniini matkallasi, tee mitä täytyy, jotta saat sen avaimen "
+"häneltä, ja tuo se minulle. Tee se, niin minä jaan kanssasi sen, mitä "
+"löydämmekin näistä raunioista."
+
+#: ../npcs/aldwulf.txt:23
+msgid ""
+"Have you gotten the key yet? My partner likely has it hidden somewhere in "
+"the camp south of Stonewood."
+msgstr ""
+"Joko sinulla on se avain? Kumppanini lienee piilottanut sen jonnekin päin "
+"leiriä Kivimetsän eteläpuolella."
+
+#: ../npcs/ardwens_coffin.txt:12
+msgid ""
+"A finger-sized post is protruding from the lid of the coffin. It looks as "
+"though something is missing."
+msgstr ""
+"Sormenkokoinen tolppa törröttää arkun kannesta. Näyttää tosin siltä, että "
+"jotain puuttuu."
+
+#: ../npcs/ardwens_coffin.txt:17
+msgid "Place the Gold Family Ring on the coffin"
+msgstr "Laita kultainen sukusormus arkun päälle"
+
+#: ../npcs/ardwens_coffin.txt:22
+msgid "The ring dissolved into nothing!"
+msgstr "Sormus hajosi olemattomiin!"
+
+#: ../npcs/ardwens_coffin.txt:30
+msgid "Place the Silver Family Ring on the coffin"
+msgstr "Laita hopeinen sukusormus arkun päälle"
+
+#: ../npcs/ardwens_coffin.txt:42
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: ../npcs/bakat.txt:1
+msgid "Bakat, Goblin Packrat"
+msgstr "Bakat, hiisikeräilijä"
+
+#: ../npcs/bakat.txt:20
+msgid "Goblin's Ruby"
+msgstr "Hiiden rubiini"
+
+#: ../npcs/bakat.txt:24
+msgid "..."
+msgstr ""
+
+#: ../npcs/bakat.txt:31
+msgid "(You show Bakat the ruby you received from Ort.)"
+msgstr "(Näytät Bakatille rubiinia, jonka olet saanut Ortilta.)"
+
+#: ../npcs/bakat.txt:32
+msgid "(Bakat snatches the jewel from your grasp.)"
+msgstr "(Bakat nappaa jalokiven otteestasi.)"
+
+#: ../npcs/bakat.txt:33
+msgid "(He holds the ruby up into the light and examines it closely.)"
+msgstr "(Hän pitelee rubiinia valoa vasten ja tutkii sitä lähemmin.)"
+
+#: ../npcs/bakat.txt:34
+msgid ""
+"(Looking satisfied, he reaches into his bag and hands you a wooden bear "
+"figurine.)"
+msgstr ""
+"(Tyytyväisen näköisenä hän kurottautuu reppuunsa ja ojentaa sinulle puisen "
+"karhufiguurin.)"
+
+#: ../npcs/base/infinity_obelisk.txt:1
+msgid "Infinity Obelisk"
+msgstr "Äärettömyyden obeliski"
+
+#: ../npcs/base/infinity_obelisk.txt:8
+msgid "(You touch the obelisk, but nothing happens.)"
+msgstr "(Kosketat obeliskia, mutta mitään ei tapahdu.)"
+
+#: ../npcs/base/infinity_obelisk.txt:11
+msgid "Continue through the Halls of Infinity"
+msgstr "Jatka Äärettömyyden hallien läpi"
+
+#: ../npcs/base/infinity_obelisk.txt:18
+msgid "Return to Underworld Stronghold"
+msgstr "Palaa Alamaailman linnoitukseen"
+
+#: ../npcs/base/dev_tome/reset_quests.txt:2
+msgid "Reset quests"
+msgstr "Nollaa etsinnät"
+
+#: ../npcs/base/dev_tome/reset_quests.txt:22
+msgid "Reset quest: \"Return to Empyrean\""
+msgstr "Nollaa etsintä: \"Paluu Empyreaniin\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:28
+msgid "Reset quest: \"Krolan's Missing\""
+msgstr "Nollaa etsintä: \"Kadonnut Krolan\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:34
+msgid "Reset quest: \"Alchemy\""
+msgstr "Nollaa etsintä: \"Alkemia\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:40
+msgid "Reset quest: \"The Merchant's Journal\""
+msgstr "Nollaa etsintä: \"Kauppiaan lokikirja\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:46
+msgid "Reset quest: \"Trapped in the Crypt\""
+msgstr "Nollaa etsintä: \"Ansassa kryptassa\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:52
+msgid "Reset quest: \"The One-Eyed Guardians\""
+msgstr "Nollaa etsintä: \"Yksisilmäiset suojelijat\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:58
+msgid "Reset quest: \"Brother?\""
+msgstr "Nollaa etsintä: \"Veli?\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:64
+msgid "Reset quest: \"Locked Out\""
+msgstr "Nollaa etsintä: \"Lukittuna ulos\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:70
+msgid "Reset quest: \"The Buried Fortress\""
+msgstr "Nollaa etsintä: \"Haudattu linnoitus\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:76
+msgid "Reset quest: \"The Lost Soul of the Mog Caverns\""
+msgstr "Nollaa etsintä: \"Mogin onkaloiden kadonnut sielu\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:82
+msgid "Reset quest: \"An Unusual Name...\""
+msgstr "Nollaa etsintä: \"Epätavallinen nimi...\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:88
+msgid "Reset quest: \"Warden's Notes\""
+msgstr "Nollaa etsintä: \"Vankilanjohtajan muistiinpanot\""
+
+#: ../npcs/base/dev_tome/reset_quests.txt:94
+msgid "Reset quest: \"Fallen Comrades\""
+msgstr "Nollaa etsintä: \"Kaatuneet taistelutoverit\""
+
+#: ../npcs/base/dev_tome/respec.txt:2
+msgid "Respec"
+msgstr "Nollaus"
+
+#: ../npcs/base/dev_tome/respec.txt:12
+msgid "Reset power points"
+msgstr "Nollaa voimapisteet"
+
+#: ../npcs/base/dev_tome/respec.txt:18
+msgid "Reset stat points"
+msgstr "Nollaa statsipisteet"
+
+#: ../npcs/base/dev_tome/respec.txt:24
+msgid "Reset level"
+msgstr "Nollaa taso"
+
+#: ../npcs/base/dev_tome/respec.txt:51
+msgid "Level 1"
+msgstr "Taso 1"
+
+#: ../npcs/base/dev_tome/respec.txt:57
+msgid "Level 2"
+msgstr "Taso 2"
+
+#: ../npcs/base/dev_tome/respec.txt:64
+msgid "Level 3"
+msgstr "Taso 3"
+
+#: ../npcs/base/dev_tome/respec.txt:71
+msgid "Level 4"
+msgstr "Taso 4"
+
+#: ../npcs/base/dev_tome/respec.txt:85
+msgid "Level 5"
+msgstr "Taso 5"
+
+#: ../npcs/base/dev_tome/respec.txt:92
+msgid "Level 6"
+msgstr "Taso 6"
+
+#: ../npcs/base/dev_tome/respec.txt:99
+msgid "Level 7"
+msgstr "Taso 7"
+
+#: ../npcs/base/dev_tome/respec.txt:106
+msgid "Level 8"
+msgstr "Taso 8"
+
+#: ../npcs/base/dev_tome/respec.txt:113
+msgid "Level 9"
+msgstr "Taso 9"
+
+#: ../npcs/base/dev_tome/respec.txt:120
+msgid "Level 10"
+msgstr "Taso 10"
+
+#: ../npcs/base/dev_tome/respec.txt:127
+msgid "Level 11"
+msgstr "Taso 11"
+
+#: ../npcs/base/dev_tome/respec.txt:134
+msgid "Level 12"
+msgstr "Taso 12"
+
+#: ../npcs/base/dev_tome/respec.txt:141
+msgid "Level 13"
+msgstr "Taso 13"
+
+#: ../npcs/base/dev_tome/respec.txt:148
+msgid "Level 14"
+msgstr "Taso 14"
+
+#: ../npcs/base/dev_tome/respec.txt:155
+msgid "Level 15"
+msgstr "Taso 15"
+
+#: ../npcs/base/dev_tome/respec.txt:162
+msgid "Level 16"
+msgstr "Taso 16"
+
+#: ../npcs/base/dev_tome/respec.txt:169
+msgid "Level 17"
+msgstr "Taso 17"
+
+#: ../npcs/base/dev_tome/respec.txt:176
+msgid "Level 18"
+msgstr "Taso 18"
+
+#: ../npcs/base/dev_tome/respec.txt:183
+msgid "Level 19"
+msgstr "Taso 19"
+
+#: ../npcs/base/dev_tome/respec.txt:190
+msgid "Level 20"
+msgstr "Taso 20"
+
+#: ../npcs/base/dev_tome/teleport.txt:17
+msgid "Introduction"
+msgstr "Johdanto"
+
+#: ../npcs/base/dev_tome/teleport.txt:29
+msgid "Region 1: Salted Field -> St. Maria"
+msgstr "Seutu 1: Suolakenttä -> Pyhä Maria"
+
+#: ../npcs/base/dev_tome/teleport.txt:48
+msgid "Region 2: Lake Kuuma -> Temple of Mez"
+msgstr "Seutu 2: Kuumajärvi -> Mezin temppeli"
+
+#: ../npcs/base/dev_tome/teleport.txt:67
+msgid "Region 3: Nazia Highlands -> Wizard's Tower"
+msgstr "Seutu 3: Nazian ylämaat -> Velhon torni"
+
+#: ../npcs/base/dev_tome/teleport.txt:86
+msgid "Region 4: Underworld"
+msgstr "Seutu 4: Alamaailma"
+
+#: ../npcs/base/dev_tome/teleport.txt:419
+msgid "Halls of Infinity: 1"
+msgstr "Äärettömyyden hallit: 1"
+
+#: ../npcs/base/dev_tome/teleport.txt:425
+msgid "Halls of Infinity: 2"
+msgstr "Äärettömyyden hallit: 2"
+
+#: ../npcs/base/dev_tome/teleport.txt:431
+msgid "Halls of Infinity: 3"
+msgstr "Äärettömyyden hallit: 3"
+
+#: ../npcs/base/dev_tome/teleport.txt:437
+msgid "Halls of Infinity: 4"
+msgstr "Äärettömyyden hallit: 4"
+
+#: ../npcs/base/dev_tome/teleport.txt:443
+msgid "Halls of Infinity: 5"
+msgstr "Äärettömyyden hallit: 5"
+
+#: ../npcs/base/dev_tome/teleport.txt:449
+msgid "Halls of Infinity: 6"
+msgstr "Äärettömyyden hallit: 6"
+
+#: ../npcs/base/dev_tome/teleport.txt:455
+msgid "Halls of Infinity: 7"
+msgstr "Äärettömyyden hallit: 7"
+
+#: ../npcs/base/dev_tome/teleport.txt:461
+msgid "Halls of Infinity: 8"
+msgstr "Äärettömyyden hallit: 8"
+
+#: ../npcs/base/dev_tome/teleport.txt:467
+msgid "Halls of Infinity: 9"
+msgstr "Äärettömyyden hallit: 9"
+
+#: ../npcs/base/dev_tome/teleport.txt:473
+msgid "Halls of Infinity: 10"
+msgstr "Äärettömyyden hallit: 10"
+
+#: ../npcs/base/dev_tome/items.txt:2
+msgid "Give items"
+msgstr "Anna esineitä"
+
+#: ../npcs/base/dev_tome/items.txt:20
+msgid "Potions"
+msgstr "Taikajuomia"
+
+#: ../npcs/base/dev_tome/items.txt:33
+msgid "Health Potion"
+msgstr "Terveysjuoma"
+
+#: ../npcs/base/dev_tome/items.txt:39
+msgid "Mana Potion"
+msgstr "Manajuoma"
+
+#: ../npcs/base/dev_tome/items.txt:51
+msgid "Restoration Potion"
+msgstr "Palautusjuoma"
+
+#: ../npcs/base/dev_tome/items.txt:69
+msgid "Scrolls"
+msgstr "Kääröt"
+
+#: ../npcs/base/dev_tome/items.txt:84
+msgid "Summon Zombie Scroll"
+msgstr "Kutsu Zombi -käärö"
+
+#: ../npcs/base/dev_tome/items.txt:90
+msgid "Perdition Scroll"
+msgstr "Kadotuksen käärö"
+
+#: ../npcs/base/dev_tome/items.txt:96
+msgid "Shield Scroll"
+msgstr "Suojakäärö"
+
+#: ../npcs/base/dev_tome/items.txt:114
+msgid "Haste Scroll"
+msgstr "Nopeutuskäärö"
+
+#: ../npcs/base/dev_tome/items.txt:120
+msgid "Immunity Scroll"
+msgstr "Immuniteettikäärö"
+
+#: ../npcs/base/dev_tome/items.txt:126
+msgid "Reflection Scroll"
+msgstr "Heijastuskäärö"
+
+#: ../npcs/base/dev_tome/items.txt:132
+msgid "Underworld Set (with rings)"
+msgstr "Alamaailman setti (sormuksilla)"
+
+#: ../npcs/base/abasi/quest_intro1.txt:5
+msgid "Be careful on these roads. Those goblins are nothing but trouble."
+msgstr "Ole varovainen näillä teillä. Noista hiiseistä on vain harmia."
+
+#: ../npcs/base/abasi/quest_intro1.txt:6
+msgid "Thanks for the warning."
+msgstr "Kiitos varoituksesta."
+
+#: ../npcs/base/abasi/quest_intro1.txt:7
+msgid "It's the least I can do."
+msgstr "Se on vähintä, mitä voin tehdä."
+
+#: ../npcs/base/abasi/quest_intro1.txt:8
+msgid ""
+"When I awoke this morning, my journal was missing. No doubt one of those "
+"filthy green creatures stole it from me."
+msgstr ""
+"Kun heräsin tänä aamuna, lokikirjani oli hukassa. Nuo likaiset vihreät "
+"otukset varastivat sen minulta epäilemättä."
+
+#: ../npcs/base/abasi/quest_intro1.txt:9
+msgid "If you come across my journal in your travels, please return it to me."
+msgstr "Jos törmäät lokikirjaani matkallasi, palautathan sen minulle."
+
+#: ../npcs/base/abasi/common.txt:1
+msgid "Abasi, Traveling Merchant"
+msgstr "Abasi, kulkukauppias"
+
+#: ../npcs/base/abasi/quest_common.txt:2
+msgid "Journal"
+msgstr "Lokikirja"
+
+#: ../npcs/base/abasi/quest_common.txt:5
+msgid "Any luck finding my journal?"
+msgstr "Onnistaako lokikirjani löytyminen?"
+
+#: ../npcs/base/abasi/quest_common.txt:6
+msgid "Not yet."
+msgstr "Ei vielä."
+
+#: ../npcs/base/abasi/quest_common.txt:13
+msgid "Here is your journal."
+msgstr "Tässä on lokikirjasi."
+
+#: ../npcs/base/abasi/quest_common.txt:14
+msgid "Wonderful! I had considered it forever lost at this point."
+msgstr "Ihmeellistä! Olin jo pitänyt sitä iäksi kadonneena."
+
+#: ../npcs/base/abasi/quest_common.txt:15
+msgid "I am in your debt. Please take this as a reward for your trouble."
+msgstr "Olen sinulle velkaa. Ole hyvä ja ota tämä palkintona vaivannäöstäsi."
+
+#: ../npcs/base/abasi/quest_common.txt:27
+msgid "Show no mercy for those thieving goblins."
+msgstr "Älä anna armoa noille varasteleville hiiseille."
+
+#: ../npcs/base/abasi/quest_intro2.txt:5
+msgid "Greetings, wanderer."
+msgstr "Tervehdys, vaeltaja."
+
+#: ../npcs/base/abasi/quest_intro2.txt:6
+msgid ""
+"Judging from your appearance, you're no stranger to a long journey. For that"
+" reason, I ask that you keep an eye out for my missing journal."
+msgstr ""
+"Ulkonäöstäsi päätellen et vierasta pitkiä matkoja. Siksipä pyydän, että "
+"pidät silmällä minun kadonnutta lokikirjaani."
+
+#: ../npcs/base/abasi/quest_intro2.txt:7
+msgid ""
+"I first noticed it was missing after a night of camping near the Goblin "
+"Cave. I searched for a while, but ultimately decided it was best to move on."
+msgstr ""
+"Huomasin sen kadonneen leiriyön jälkeen lähellä hiisiluolaa. Etsin sitä "
+"tovin, mutta lopulta päätin, että oli parasta jatkaa eteenpäin."
+
+#: ../npcs/dev_tome.txt:23
+msgid "Player"
+msgstr "Pelaaja"
+
+#: ../npcs/dev_tome.txt:34
+msgid "Campaign"
+msgstr "Kampanja"
+
+#: ../npcs/dev_tome.txt:49
+msgid "Restore HP/MP/status"
+msgstr "Palauta OP/MP/tila"
+
+#: ../npcs/dev_tome.txt:56
+msgid "Save game at current position"
+msgstr "Tallenna peli nykysijainnissa"
+
+#: ../npcs/dev_tome.txt:63
+msgid "Waypoints"
+msgstr "Reittipisteet"
+
+#: ../npcs/dev_tome.txt:72
+msgid "Lock all Hyperspace waypoints"
+msgstr "Lukitse kaikki hyperavaruuden reittipisteet"
+
+#: ../npcs/dev_tome.txt:78
+msgid "Unlock all Hyperspace waypoints"
+msgstr "Avaa kaikki hyperavaruuden reittipisteet"
+
+#: ../npcs/florin.txt:1
+msgid "Florin, Apothecary"
+msgstr "Florin, apteekkari"
+
+#: ../npcs/florin.txt:27
+msgid "What can you tell me about the Book of the Dead?"
+msgstr "Mitä voit kertoa minulle Kuolleiden kirjasta?"
+
+#: ../npcs/florin.txt:28
+msgid ""
+"The Book of the Dead tells of redemption for those who sign their name in "
+"gravebloom ink. Your sins will be washed away, and you will be able to "
+"return to wherever you were banished from."
+msgstr ""
+"Kuolleiden kirja kertoo vapahduksesta niille, jotka allekirjoittavat nimensä"
+" hautahärmeen musteella. Syntisi huuhtoutuvat pois, ja voit palata takaisin "
+"sinne, mistä sinut karkotettiinkaan."
+
+#: ../npcs/florin.txt:29
+msgid "So, where can I find gravebloom ink?"
+msgstr "Eli mistä voin löytää hautahärmeen mustetta?"
+
+#: ../npcs/florin.txt:30
+msgid ""
+"Gravebloom ink is not something you find. You must make it yourself. Besides"
+" the Gravebloom flower, you will need to sacrifice your own blood with a "
+"special blade."
+msgstr ""
+"Hautahärmeen muste ei ole jotain, jonka voi löytää. Sitä on valmistettava "
+"itse. Hautahärmeen kukan lisäksi pitää uhrata omaa verta erityisellä "
+"terällä."
+
+#: ../npcs/florin.txt:31
+msgid ""
+"Even if you can create some gravebloom ink, you won't be able to write with "
+"just anything. The ink won't stick to a normal quill. You will need to find "
+"something capable of holding the gravebloom ink."
+msgstr ""
+"Vaikka hautahärmeen mustetta osaisi valmistaa, sillä ei voi kirjoittaa millä"
+" tahansa. Muste ei tartu tavalliseen sulkakynään. Sinun pitää löytää jotain,"
+" jossa hautahärmeen muste pysyy kiinni."
+
+#: ../npcs/florin.txt:32
+msgid ""
+"If you can perform the ritual to make gravebloom ink and find a suitable "
+"writing utensil, redemption may be yours."
+msgstr ""
+"Jos suoritat rituaalin, jolla hautahärmeen muste tehdään, ja löydät sopivan "
+"kirjoitusvälineen, vapahdus voi olla sinun."
+
+#: ../npcs/florin.txt:35
+msgid "Gravebloom"
+msgstr "Hautahärme"
+
+#: ../npcs/florin.txt:39
+msgid ""
+"Ah yes, that is most certainly a gravebloom flower. It is the primary "
+"component in the creation of gravebloom ink."
+msgstr ""
+"Kyllä, tämä totisesti on hautahärmeen kukka. Se on pääosanen hautakukan "
+"musteen luomisessa."
+
+#: ../npcs/florin.txt:42
+msgid "Black Quill"
+msgstr "Musta sulkakynä"
+
+#: ../npcs/florin.txt:45
+msgid "Do you think this quill is capable of holding gravebloom ink?"
+msgstr "Luuletko, että hautahärmeen muste pysyy tässä sulkakynässä?"
+
+#: ../npcs/florin.txt:46
+msgid "It's certainly no normal quill. I've never seen anything like it."
+msgstr ""
+"Se ei totisesti ole tavallinen sulkakynä. En olekaan ennen nähnyt sellaista."
+
+#: ../npcs/florin.txt:48
+msgid ""
+"If anything is capable of writing with gravebloom ink, it is that quill."
+msgstr ""
+"Jos millään niin juuri tuolla sulalla voi kirjoittaa hautahärmeen musteella."
+
+#: ../npcs/florin.txt:51
+msgid "Knife of Sacrifices"
+msgstr "Uhrausveitsi"
+
+#: ../npcs/florin.txt:54
+msgid "Do you know anything about this knife?"
+msgstr "Tiedätkö mitään tästä veitsestä?"
+
+#: ../npcs/florin.txt:56
+msgid ""
+"The Knife of Sacrifices. This must be the blade you will need to draw your "
+"blood for the gravebloom ink. From what I've read, this must be done at the "
+"\"Red Altar\"."
+msgstr ""
+"Uhrausveitsi. Tämän täytyy olla se teräase, jota tarvitaan ottamaan vertasi "
+"hautahärmeen mustetta varten. Se tulee tehdä \"Punaisella alttarilla\" "
+"lukemani perusteella."
+
+#: ../npcs/florin.txt:57
+msgid "I recall such an altar from the Temple of Mez."
+msgstr "Muistan moisen alttarin Mezin temppelissä."
+
+#: ../npcs/florin.txt:58
+msgid ""
+"I don't know why this blade in particular is required to make the ink. Once "
+"it pierces your skin, there is no telling what effect it will have on you. "
+"Please keep this in mind."
+msgstr ""
+"En tiedä, miksi juuri tätä teräasetta tarvitaan musteen tekemiseen. Kun se "
+"läpäisee ihosi, ei voi tietää, miten se vaikuttaa sinuun. Pidäthän tämän "
+"mielessäsi."
+
+#: ../npcs/florin.txt:61
+msgid "Vial of Blood"
+msgstr "Veren näytepullo"
+
+#: ../npcs/florin.txt:66
+msgid "I completed the ritual at the Red Altar. What now?"
+msgstr "Olen suorittanut rituaalin Punaisella alttarilla. Mitä nyt?"
+
+#: ../npcs/florin.txt:67
+msgid ""
+"I can create a small amount of gravebloom ink for you, but I require a "
+"Gravebloom flower accomplish this. Return to me with both the flower and the"
+" blood."
+msgstr ""
+"Minä voin luoda sinulle pienen määrän hautahärmeen mustetta, mutta tarvitsen"
+" hautahärmeen kukan sitä varten. Palaa luokseni sekä kukan että veren "
+"kanssa."
+
+#: ../npcs/florin.txt:75
+msgid ""
+"We are ready to create a small amount of gravebloom ink. Allow me to perform"
+" the mixing."
+msgstr ""
+"Olemme valmiit luomaan pienen määrän hautahärmeen mustetta. Anna kun teen "
+"seoksen."
+
+#: ../npcs/florin.txt:76
+msgid ""
+"The correct ratio of Gravebloom to blood is important. Too much Gravebloom "
+"will cause the ink to eat through the paper. Too little Gravebloom and the "
+"ink won't adhere to the quill."
+msgstr ""
+"Hautahärmeen oikea suhde vereen on tärkeä. Liian paljon hautahärmettä, niin "
+"muste syöpyy paperista läpi. Liian vähän hautahärmettä. niin muste ei tartu "
+"sulkakynään."
+
+#: ../npcs/florin.txt:77
+msgid ""
+"(Florin carefully mixes the two elements into a small inkwell, alternating "
+"the additions of Gravebloom and blood.)"
+msgstr ""
+"(Florin sekoittaa varovaisesti kaksi ainesosaa pieneen mustepulloon lisäten "
+"hautahärmettä ja verta vuorotellen.)"
+
+#: ../npcs/florin.txt:82
+msgid ""
+"Finished! I don't want my work to go to waste, so move now to the Book of "
+"the Dead chamber."
+msgstr ""
+"Valmista! En halua työni menevän hukkaan, joten mene nyt Kuolleiden kirjan "
+"kammioon."
+
+#: ../npcs/florin.txt:88
+msgid "The ritual is complete. The Underworld is open to you."
+msgstr "Rituaali on suoritettu. Alamaailma on nyt sinulle avoin."
+
+#: ../npcs/florin.txt:89
+msgid ""
+"There was a portal to the Underworld in the Wizard's Tower. I shall return "
+"there."
+msgstr "Velhon tornissa oli portaali Alamaailmaan. Palaan sinne."
+
+#: ../npcs/florin.txt:94
+msgid ""
+"If you plan on venturing further, you'll need to learn how to use the "
+"resources that you come across."
+msgstr ""
+"Jos aiot tohtia pidemmälle, sinun on opittava, miten käyttää resursseja, "
+"joihin törmäät."
+
+#: ../npcs/florin.txt:95
+msgid ""
+"I can show you how to mix potions, but I don't have any ingredients on hand."
+msgstr ""
+"Minä voin näyttää, miten juomia sekoitetaan, mutta minulla ei ole aineksia."
+
+#: ../npcs/florin.txt:96
+msgid ""
+"Can I ask you to procure some elements for me? I require one each of the "
+"following: Aloe Vera, Mana Crystal, and Mushrooms."
+msgstr ""
+"Voinko pyytää sinua hankkimaan vähän aineksia minulle? Tarvitsen kutakin "
+"seuraavista: lääkeaaloeta, manakristallia ja sieniä."
+
+#: ../npcs/florin.txt:97
+msgid "I can do that."
+msgstr "Sen voin tehdä."
+
+#: ../npcs/florin.txt:99
+msgid ""
+"Then return to me with these items, and I will make it worth your time."
+msgstr ""
+"Palaa sitten luokseni näiden esineiden kanssa, niin teen siitä aikasi "
+"arvoista."
+
+#: ../npcs/florin.txt:107
+msgid "Have you gotten those ingredients yet?"
+msgstr "Oletko vielä saanut ne ainesosat?"
+
+#: ../npcs/florin.txt:112
+msgid "Yes"
+msgstr "Kyllä"
+
+#: ../npcs/florin.txt:119
+msgid "Here are the ingredients you asked for."
+msgstr "Tässä on pyytämäsi ainesosat."
+
+#: ../npcs/florin.txt:120
+msgid ""
+"Thank you. I was able to find some Aloe Vera on my own, so you can keep what"
+" you found."
+msgstr "Kiitos. Löysin vähän lääkeaaloeta itse, joten voit pitää löytämäsi."
+
+#: ../npcs/florin.txt:121
+msgid ""
+"Also, take these empty bottles along with this mortar and pestle. You can "
+"use the mortar and pestle with that Aloe Vera you found to make a fine "
+"healing potion."
+msgstr ""
+"Ota myös nämä tyhjät pullot tämän morttelin ja survimen kera. Voit valmistaa"
+" hienoa parannusjuomaa morttelilla ja survimella löytämäsi lääkeaaloen "
+"kanssa."
+
+#: ../npcs/florin.txt:122
+msgid ""
+"If you ever lose that mortar and pestle, you can always speak to me if you "
+"want some potions made."
+msgstr ""
+"Jos milloinkaan kadotat morttelin ja survimen, voit aina puhua minulle, jos "
+"haluat valmistettuja juomia."
+
+#: ../npcs/florin.txt:127
+msgid "No"
+msgstr "Ei"
+
+#: ../npcs/florin.txt:137
+msgid "Blast Powder"
+msgstr "Räjähdyspulveri"
+
+#: ../npcs/florin.txt:139
+msgid ""
+"Blast powder? With a little bit of Mana Crystal, you can make quite the "
+"explosion with that stuff."
+msgstr ""
+"Räjähdyspulveriako? Sillä saa aikamoisen räjähdyksen aikaan pienellä "
+"manakristallimäärällä."
+
+#: ../npcs/florin.txt:140
+msgid "The process is fairly volatile, so allow me to do the mixing."
+msgstr "Prosessi on hiukan räjähdysherkkää, joten anna minun tehdä seos."
+
+#: ../npcs/florin.txt:147
+msgid "There. Now be careful with that."
+msgstr "Noin. Olehan varovainen sen kanssa."
+
+#: ../npcs/glowing_obelisk_1.txt:1
+msgid "Glowing Obelisk"
+msgstr "Hohtava obeliski"
+
+#: ../npcs/loren.txt:1
+msgid "Loren, Undead Trader"
+msgstr "Loren, epäkuollut kauppias"
+
+#: ../npcs/martigan.txt:1
+msgid "Martigan"
+msgstr ""
+
+#: ../npcs/martigan.txt:19
+msgid ""
+"You there! I need your help. I'm the last of my group, and want nothing more"
+" than to leave this place."
+msgstr ""
+"Sinä siinä! Tarvitsen apuasi. Olen ryhmäni viimeinen, enkä halua mitään "
+"muuta kuin lähteä tästä paikasta."
+
+#: ../npcs/martigan.txt:20
+msgid ""
+"Yet I have one remaining task. I wish to visit the graves of my three fallen"
+" partners one last time."
+msgstr ""
+"Minulla on enää yksi tehtävä jäljellä. Haluan käydä kolmen kaatuneen "
+"kumppanini haudoilla vielä kerran."
+
+#: ../npcs/martigan.txt:21
+msgid ""
+"To my disadvantage, their bodies have been taken by the soil here. They "
+"tried to attack me when I got near."
+msgstr ""
+"Epäedukseni maaperä vei heidän ruumiinsa täällä. He yrittivät hyökätä "
+"kimppuuni, kun pääsin lähelle."
+
+#: ../npcs/martigan.txt:22
+msgid ""
+"If you can prove to me that they are free from their cursed form, I will be "
+"in your debt."
+msgstr ""
+"Jos voit todistaa minulle, että he ovat vapaat kirotuista muodoistaan, olen "
+"sinulle velkaa."
+
+#: ../npcs/martigan.txt:23
+msgid "I can't assist you myself, but I can offer some of my wares."
+msgstr "En voi avittaa sinua itse, mutta voin tarjota kauppatavaroitani."
+
+#: ../npcs/martigan.txt:29
+msgid "Zombies"
+msgstr "Zombit"
+
+#: ../npcs/martigan.txt:39
+msgid ""
+"Indeed, these items belonged to my companions. I want you to take this as a "
+"reward."
+msgstr ""
+"Aivan, nämä esineet kuuluivat kumppaneilleni. Haluan, että otat tämän "
+"palkintona."
+
+#: ../npcs/ort.txt:1
+msgid "Ort, Goblin Packrat"
+msgstr "Ort, hiisikerääjä"
+
+#: ../npcs/ort.txt:29
+msgid "... Bro-ther... g-give..."
+msgstr "... Ve-li... a-anna..."
+
+#: ../npcs/ort.txt:30
+msgid "(Ort grabs your hand and places a red gem in it.)"
+msgstr "(Ort tartuu käteesi ja laittaa siihen punaisen jalokiven.)"
+
+#: ../npcs/tutorial.txt:1
+msgid "Skeleton with note"
+msgstr "Luuranko, jolla on muistiinpano"
+
+#: ../npcs/tutorial.txt:9
+msgid "Tutorial"
+msgstr "Tutoriaali"
+
+#: ../npcs/tutorial.txt:11
+msgid ""
+"Welcome to the lands of the exiled. Allow me to go over a few things. Click "
+"on the arrow to continue."
+msgstr ""
+"Tervetuloa karkotetun maille. Salli minun käydä muutama asia läpi. Jatka "
+"napsauttamalla nuolta."
+
+#: ../npcs/tutorial.txt:12
+msgid ""
+"Your health, mana, and experience points are displayed in the top left of "
+"the screen."
+msgstr ""
+"Terveytesi, manasi ja kokemuspisteesi näkyvät ylävasemmalla kuvaruudussa."
+
+#: ../npcs/tutorial.txt:13
+msgid "In the top right is a map of your current location."
+msgstr "Yläoikealla on kartta nykyisestä sijainnistasi."
+
+#: ../npcs/tutorial.txt:14
+msgid ""
+"On the bottom of the screen is your action bar. Here, you have quick access "
+"to your most used abilities."
+msgstr ""
+"Kuvaruudun alalaidassa on toimintapalkki. Tässä pääset nopeasti eniten "
+"käyttämiisi kykyihin."
+
+#: ../npcs/tutorial.txt:15
+msgid ""
+"In addition, you can access the Character, Inventory, Powers, and Log menus "
+"from the action bar."
+msgstr ""
+"Lisäksi pääset hahmo-, tavaraluettelo-, voimat- ja lokivalikkoon "
+"toimintapalkista."
+
+#: ../npcs/tutorial.txt:16
+msgid ""
+"${INPUT_MOVEMENT} will allow you to move around. ${INPUT_ATTACK} will use "
+"your primary attack."
+msgstr ""
+"${INPUT_MOVEMENT} liikuttaa sinua ympäriinsä. ${INPUT_ATTACK} käyttää "
+"ensisijaista hyökkäystäsi."
+
+#: ../npcs/tutorial.txt:17
+msgid "Good luck!"
+msgstr "Onnea matkaan!"
+
+#: ../npcs/udana.txt:1
+msgid "Udana, Metalworker"
+msgstr "Udana, metallityöläinen"
+
+#: ../npcs/udana.txt:27
+msgid ""
+"Greetings stranger. It's not often that we have people come here from the "
+"west."
+msgstr "Tervehdys, muukalainen. Meillä ei usein käy väkeä lännestä."
+
+#: ../npcs/udana.txt:28
+msgid ""
+"I see that you're carrying a weapon. Would you be interested in helping us?"
+msgstr "Näen, että kannat asetta. Kiinnostaisiko sinua auttaa meitä?"
+
+#: ../npcs/udana.txt:29
+msgid "Go on."
+msgstr "Jatka."
+
+#: ../npcs/udana.txt:30
+msgid ""
+"One of our encampment's residents, Krolan, works in the nearby mines. He "
+"supplies me with various gems that I craft into jewelery."
+msgstr ""
+"Yksi leirimme asukkaista, Krolan, työskentelee läheisessä kaivoksessa. Hän "
+"toimittaa minulle erilaisia jalokiviä, joista teen koruja."
+
+#: ../npcs/udana.txt:31
+msgid ""
+"Krolan has not returned in some time, and I am starting to think the worst."
+msgstr "Krolan ei ole palannut vähään aikaan, ja alan ajatella pahinta."
+
+#: ../npcs/udana.txt:32
+msgid ""
+"Could you please travel to the mines and look for Krolan? I will find some "
+"way to reward you for your trouble."
+msgstr ""
+"Voisitko matkata kaivokselle ja etsiä Krolania? Keksin kyllä jonkin tavan "
+"palkita sinua vaivannäöstäsi."
+
+#: ../npcs/udana.txt:41
+msgid ""
+"Please hurry to find Krolan. The Perdition Mines are located near the Salted"
+" Field."
+msgstr ""
+"Ole kiltti ja etsi Krolan pian. Kadotuksen kaivokset sijaitsevat lähellä "
+"Suolakenttää."
+
+#: ../npcs/udana.txt:57
+msgid "I have found Krolan, but he was no longer of this world."
+msgstr "Olen löytänyt Krolanin, mutta hän ei ollut enää tässä maailmassa."
+
+#: ../npcs/udana.txt:58
+msgid ""
+"This is terrible news. Our camp is already small, so this is a devastating "
+"loss."
+msgstr "Kamalia uutisia. Leirimme on jo pieni, joten tämä on tuhoisa menetys."
+
+#: ../npcs/udana.txt:59
+msgid ""
+"If it's any solace, I have his key and this emerald. Mementos to remember "
+"him by."
+msgstr ""
+"Jos lohduttaa, minulla on hänen avaimensa ja tämä smaragdi. Muistoja "
+"hänestä."
+
+#: ../npcs/udana.txt:60
+msgid ""
+"The key is enough of a memento. For your invaluable help, I can at least "
+"make you a ring with this emerald."
+msgstr ""
+"Tämä avain riittää muistoksi. Korvaamattomasta avustasi voin ainakin tehdä "
+"sinulle sormuksen tästä smaragdista."
+
+#: ../npcs/udana.txt:73
+msgid "Thank you again for your help."
+msgstr "Kiitos vielä avustasi."
+
+#: ../npcs/yora.txt:1
+msgid "Yora, Enchanter"
+msgstr "Yora, lumooja"
+
+#: ../cutscenes/backstory.txt:7
+msgid ""
+"Empyrean, the city in the sky. It is a majestic fortress and the last "
+"bastion of humankind."
+msgstr ""
+"Empyrean, kaupunki taivaalla, on majesteettinen linnoitus ja ihmiskunnan "
+"viimeinen linnake."
+
+#: ../cutscenes/backstory.txt:9
+msgid ""
+"At the height of the kingdom's power the city was a beacon of peace and law."
+msgstr "Kuningaskunnan vallan huipulla kaupunki oli rauhan ja lain majakka."
+
+#: ../cutscenes/backstory.txt:11
+msgid ""
+"When darkness invaded the world in the last age people abandoned the "
+"surface. Empyrean was their only refuge."
+msgstr ""
+"Kun pimeys valtasi maailman viimeisellä aikakaudella, ihmiset jättivät "
+"maanpinnan. Empyrean oli heidän ainoa pakopaikkansa."
+
+#: ../cutscenes/backstory.txt:13
+msgid ""
+"Now the Age of Humanity is ending. Empyrean is crumbling. Scarcity and "
+"political infighting have consumed the city."
+msgstr ""
+"Nyt ihmisten aika on päättymässä. Empyrean murenee. Niukkuus ja poliittiset "
+"valtataistelut ovat kuluttaneet kaupunkia."
+
+#: ../cutscenes/backstory.txt:16
+msgid ""
+"Some, in desperation, flee to the surface hoping to survive without the "
+"protection of the city."
+msgstr ""
+"Jotkut epätoivossaan pakenivat maanpinnalle toivoen selviytyvänsä ilman "
+"kaupungin suojelua."
+
+#: ../cutscenes/backstory.txt:18
+msgid ""
+"But no one returns from the surface. Most die or go missing. A few hide and "
+"survive, for a while."
+msgstr ""
+"Mutta kukaan ei palaa maanpinnalta. Useimmat kuolevat tai katoavat. Muutamat"
+" piiloutuvat ja selviytyvät jonkin aikaa."
+
+#: ../cutscenes/backstory.txt:20
+msgid ""
+"Surface dwellers cling to hope. Hope that they'll return to Empyrean some "
+"day. Hope that a hero will fight back against the darkness."
+msgstr ""
+"Maanpinnan asukkaat elättävät toivoa. Toivoa, että he vielä palaisivat "
+"Empyreaniin jonain päivänä. Toivoa, että sankari taistelisi pimeyttä "
+"vastaan."
+
+#: ../cutscenes/backstory.txt:22
+msgid ""
+"There is always hope. But not for everyone: not for you. Not for the Exiled."
+msgstr "Aina on toivoa. Mutta ei kaikille: ei sinulle. Ei karkotetulle."
+
+#: ../cutscenes/credits_empyrean.txt:5
+msgid "Flare Game Credits - empyrean_campaign"
+msgstr "Flare Game -tekijät - empyrean_campaign"
+
+#: ../cutscenes/credits_empyrean.txt:8
+msgid "Lead Content Designers"
+msgstr "Johtavat sisällönsuunnittelijat"
+
+#: ../cutscenes/credits_empyrean.txt:14
+msgid "Visual Artists"
+msgstr "Visuaaliset artistit"
+
+#: ../cutscenes/credits_empyrean.txt:25
+msgid "Foley Artists"
+msgstr "Foley-artistit"
+
+#: ../cutscenes/credits_empyrean.txt:31
+msgid "Translators"
+msgstr "Kääntäjät"
+
+#: ../cutscenes/ending.txt:7
+msgid ""
+"At long last, your journey across the surface and into the Underworld has "
+"come to an end."
+msgstr ""
+"Lopultakin matkasi pitkin maanpintaa ja Alamaailmaan asti on tullut "
+"päätökseen."
+
+#: ../cutscenes/ending.txt:9
+msgid "Upon entering The Pit, a glowing obelisk shined in the distance."
+msgstr "Kuiluun astuessasi hohtava obeliski loisti kaukaa."
+
+#: ../cutscenes/ending.txt:11
+msgid ""
+"Guarding the obelisk was Lezaith, a formidable opponent, yet no match for "
+"Exiled who faced her."
+msgstr ""
+"Lezaith, vaikuttava vastustaja, vahti obeliskia eikä hänestä silti ollut "
+"vastusta kohtaamalleen karkotetulle."
+
+#: ../cutscenes/ending.txt:13
+msgid "With Lezaith's defeat, the path to the obelisk was clear."
+msgstr "Kun Lezaith oli lyöty, reitti obeliskin luo oli selvä."
+
+#: ../cutscenes/ending.txt:16
+msgid ""
+"Not a moment after Lezaith crumbles into a pile of bones, a bolt of "
+"lightning strikes the obelisk."
+msgstr ""
+"Hetkeä myöhemmin kun Lezaith hajosi luupinoksi, salama iskee obeliskiin."
+
+#: ../cutscenes/ending.txt:18
+msgid ""
+"Did Lezaith cast a spell on the obelisk with her dying breath? Had Empyrean "
+"finally collapsed?"
+msgstr ""
+"Tekikö Lezaith taian obeliskiin kuolinhenkäyksellään? Onko Empyrean "
+"lopultakin sortunut?"
+
+#: ../cutscenes/ending.txt:21
+msgid ""
+"Maybe it's true what they say. No one returns from the surface. Most die or "
+"go missing. A few hide and survive, for a while."
+msgstr ""
+"Ehkä on totta mitä sanotaan. Kukaan ei palaa maanpinnalta. Useimmat kuolevat"
+" tai katoavat. Muutamat piiloutuvat ja selviytyvät jonkin aikaa."
+
+#: ../cutscenes/ending.txt:23
+msgid "Even the Exiled."
+msgstr "Jopa karkotettukin."
+
+#: ../cutscenes/ending.txt:29
+msgid "And a very special thanks to..."
+msgstr "Ja tosi erityiskiitos..."
+
+#: ../cutscenes/ending.txt:30
+msgid "You!"
+msgstr "Sinulle!"
+
+#: ../cutscenes/ending.txt:34
+msgid "The End"
+msgstr "Loppu"
+
+#: ../books/book_of_the_dead.txt:13
+msgid ""
+"Those whose names are written here in gravebloom ink are admitted passage to"
+" the trail of redemption."
+msgstr ""
+"Vapahduksen tielle hyväksytään ne, joiden nimet on kirjoitettu tähän "
+"hautahärmeen musteella."
+
+#: ../books/book_of_the_dead.txt:20
+msgid "${AVATAR_NAME}"
+msgstr ""
+
+#: ../books/crafting_alchemy.txt:23
+msgid "Reset"
+msgstr "Tyhjennä"
+
+#: ../books/crafting_alchemy.txt:29
+msgid "Craft"
+msgstr "Valmista"
+
+#: ../books/crafting_alchemy.txt:48
+msgid "Empty Bottle"
+msgstr "Tyhjä pullo"
+
+#: ../books/crafting_alchemy.txt:65
+msgid "Aloe Vera"
+msgstr "Lääkeaaloe"
+
+#: ../books/crafting_alchemy.txt:82
+msgid "Mana Crystal"
+msgstr "Manakristalli"
+
+#: ../books/crafting_alchemy.txt:99
+msgid "Mushrooms"
+msgstr "Sieniä"
+
+#: ../books/crafting_alchemy.txt:287
+msgid "Dynamite"
+msgstr "Dynamiitti"
+
+#: ../books/crafting_alchemy.txt:300
+msgid "Super Health Potion"
+msgstr "Superterveysjuoma"
+
+#: ../books/crafting_alchemy.txt:313
+msgid "Ultra Health Potion"
+msgstr "Ultraterveysjuoma"
+
+#: ../books/crafting_alchemy.txt:326
+msgid "Super Mana Potion"
+msgstr "Supermanajuoma"
+
+#: ../books/crafting_alchemy.txt:339
+msgid "Ultra Mana Potion"
+msgstr "Ultramanajuoma"
+
+#: ../books/cutscene_list.txt:21
+msgid "Ending"
+msgstr "Lopetus"
+
+#: ../books/merchants_journal.txt:13
+msgid "1472/9/27"
+msgstr ""
+
+#: ../books/merchants_journal.txt:18
+msgid "-1  Dagger"
+msgstr "-1 Tikari"
+
+#: ../books/merchants_journal.txt:23
+msgid "100"
+msgstr ""
+
+#: ../books/merchants_journal.txt:28
+msgid "+1  Cloth Shirt"
+msgstr "+1 Kangaspaita"
+
+#: ../books/merchants_journal.txt:33
+msgid "-18"
+msgstr ""
+
+#: ../books/merchants_journal.txt:38
+msgid "+1  Gold Ring"
+msgstr "+1 Kultasormus"
+
+#: ../books/merchants_journal.txt:43
+msgid "-50"
+msgstr ""
+
+#: ../books/merchants_journal.txt:49
+msgid "1472/9/28"
+msgstr ""
+
+#: ../books/merchants_journal.txt:54
+msgid "-2  Health Potion"
+msgstr "-2 Terveysjuoma"
+
+#: ../books/merchants_journal.txt:59
+msgid "120"
+msgstr ""
+
+#: ../books/merchants_journal.txt:64
+msgid "+1  Dagger"
+msgstr "+1 Tikari"
+
+#: ../books/merchants_journal.txt:69
+msgid "-25"
+msgstr ""
+
+#: ../books/mog_1.txt:12
+msgid "On the waterlogged support beam"
+msgstr "Vetisellä tukipalkilla"
+
+#: ../books/mog_2.txt:12
+msgid "Beneath a rock on the moldy peninsula"
+msgstr "Kiven alla homeisella niemellä"
+
+#: ../books/mog_3.txt:12
+msgid "In the pile of bones near the three submerged pillars"
+msgstr "Luukasassa lähellä kolmea uponnutta pilaria"
+
+#: ../books/mog_4.txt:12
+msgid "Inside the blocked off mine cart"
+msgstr "Jumiutetun kaivoskärryn sisällä"
+
+#: ../books/mog_5.txt:12
+msgid "Press the switch on the top of the middle boulder"
+msgstr "Vedä vivusta keskimmäisen lohkareen huipulla"
+
+#: ../books/nasu_sketchbook.txt:23
+msgid "-K"
+msgstr ""
+
+#: ../books/wardens_notes.txt:13
+msgid "1468/7/9"
+msgstr ""
+
+#: ../books/wardens_notes.txt:18
+msgid ""
+"Another subject asked to take the test. I can't remember the last time "
+"anyone made it through, but they always want to try. I gave them the same "
+"advice as with all the subjects:"
+msgstr ""
+"Toinen testattava pyysi tekemään testin. En voi muistaa viime kertaa, "
+"jolloin kukaan olisi päässyt läpi, mutta he aina haluavat yrittää. Annoin "
+"heille saman neuvon kuin kaikille testattaville:"
+
+#: ../books/wardens_notes.txt:24
+msgid "East at the first symbol."
+msgstr "Itään ensimmäisellä symbolilla."
+
+#: ../books/wardens_notes.txt:29
+msgid "South at the next."
+msgstr "Etelään seuraavalla."
+
+#: ../books/wardens_notes.txt:34
+msgid "West two times, then carry on from there."
+msgstr "Länteen kaksi kertaa, sitten jatka siitä."
+
+#: ../books/wardens_notes_2.txt:13
+msgid ""
+"The other subjects had been very eager, so I invited a few to watch today's "
+"challenger."
+msgstr ""
+"Muut testattavat ovat olleet hyvin innokkaita, joten kutsuin muutaman "
+"katsomaan tämän päivän haastajaa."
+
+#: ../books/wardens_notes_2.txt:18
+msgid ""
+"The entertainment didn't last long. The subject immediately went south."
+msgstr "Hupi ei kestänyt kauan. Testattava meni välittömästi etelään."
+
+#: ../books/wardens_notes_2.txt:24
+msgid "1468/7/10"
+msgstr ""
+
+#: ../books/wardens_notes_2.txt:29
+msgid "No subjects asked to take the test today."
+msgstr "Kukaan testattavista ei pyytänyt testiä tänään."
+
+#: ../items/categories/level_14.txt:5
+msgid "Fighting Plate Helmet"
+msgstr "Taistelijan levykypärä"
+
+#: ../items/categories/level_14.txt:17
+msgid "Recon Plate Helmet"
+msgstr "Tiedustelijan levykypärä"
+
+#: ../items/categories/level_14.txt:29
+msgid "Sorcerer Velvet Hood"
+msgstr "Taikurin samettihuppu"
+
+#: ../items/categories/level_14.txt:41
+msgid "Fighting Plate Cuirass"
+msgstr "Taistelijan levyhaarniska"
+
+#: ../items/categories/level_14.txt:53
+msgid "Recon Plate Cuirass"
+msgstr "Tiedustelijan levyhaarniska"
+
+#: ../items/categories/level_14.txt:65
+msgid "Sorcerer Velvet Vest"
+msgstr "Taikurin samettiliivit"
+
+#: ../items/categories/level_14.txt:77
+msgid "Fighting Plate Greaves"
+msgstr "Taistelijan levysäärystimet"
+
+#: ../items/categories/level_14.txt:89
+msgid "Recon Plate Greaves"
+msgstr "Tiedustelijan levysäärystimet"
+
+#: ../items/categories/level_14.txt:101
+msgid "Sorcerer Velvet Skirt"
+msgstr "Taikurin samettihame"
+
+#: ../items/categories/level_14.txt:113
+msgid "Fighting Plate Boots"
+msgstr "Taistelijan levysaappaat"
+
+#: ../items/categories/level_14.txt:125
+msgid "Recon Plate Boots"
+msgstr "Tiedustelijan levysaappaat"
+
+#: ../items/categories/level_14.txt:137
+msgid "Sorcerer Velvet Boots"
+msgstr "Taikurin samettijalkineet"
+
+#: ../items/categories/level_14.txt:149
+msgid "Fighting Plate Gauntlets"
+msgstr "Taistelijan levyhanskat"
+
+#: ../items/categories/level_14.txt:161
+msgid "Recon Plate Gauntlets"
+msgstr "Tiedustelijan levyhanskat"
+
+#: ../items/categories/level_14.txt:173
+msgid "Sorcerer Velvet Sleeves"
+msgstr "Taikurin samettihihat"
+
+#: ../items/categories/level_14.txt:185
+msgid "Wandering Warlord Leather Belt"
+msgstr "Vaeltavan sotaherran nahkavyö"
+
+#: ../items/categories/level_14.txt:196
+msgid "Wandering Sniper Pendant"
+msgstr "Vaeltavan tarkka-ampujan riipus"
+
+#: ../items/categories/level_14.txt:207
+msgid "Wandering Archwizard Spellbook"
+msgstr "Vaeltavan arkkivelhon loitsukirja"
+
+#: ../items/categories/level_14.txt:218
+msgid "Fighting Greatsword"
+msgstr "Taistelijan suurmiekka"
+
+#: ../items/categories/level_14.txt:230
+msgid "Recon Greatbow"
+msgstr "Tiedustelijan suurjousi"
+
+#: ../items/categories/level_14.txt:242
+msgid "Sorcerer Greatstaff"
+msgstr "Taikurin suursauva"
+
+#: ../items/categories/level_14.txt:254
+msgid "Keeper Tower Shield"
+msgstr "Vartijan tornikilpi"
+
+#: ../items/categories/level_14.txt:265
+msgid "Wandering Inferno Ring"
+msgstr "Vaeltajan hornasormus"
+
+#: ../items/categories/level_14.txt:275
+msgid "Wandering Glacial Ring"
+msgstr "Vaeltajan hyinen sormus"
+
+#: ../items/categories/level_14.txt:285
+msgid "Wandering Volt Ring"
+msgstr "Vaeltajan volttisormus"
+
+#: ../items/categories/level_14.txt:295
+msgid "Wandering Void Ring"
+msgstr "Vaeltajan tyhjiösormus"
+
+#: ../items/categories/level_14.txt:305
+msgid "Wandering Scholar Ring"
+msgstr "Vaeltajan tutkintosormus"
+
+#: ../items/categories/level_14.txt:315
+msgid "Wandering Affluence Ring"
+msgstr "Vaeltajan vauraussormus"
+
+#: ../items/categories/level_14.txt:325
+msgid "Wandering Relic Ring"
+msgstr "Vaeltajan reliikkisormus"
+
+#: ../items/categories/level_5.txt:5
+msgid "Leather Hood"
+msgstr "Nahkahuppu"
+
+#: ../items/categories/level_5.txt:14
+msgid "Leather Tunic"
+msgstr "Nahkatunika"
+
+#: ../items/categories/level_5.txt:23
+msgid "Leather Pants"
+msgstr "Nahkahousut"
+
+#: ../items/categories/level_5.txt:32
+msgid "Leather Boots"
+msgstr "Nahkasaappaat"
+
+#: ../items/categories/level_5.txt:41
+msgid "Leather Gloves"
+msgstr "Nahkahanskat"
+
+#: ../items/categories/level_5.txt:50
+msgid "Wool Hood"
+msgstr "Villahuppu"
+
+#: ../items/categories/level_5.txt:59
+msgid "Wool Vest"
+msgstr "Villaliivit"
+
+#: ../items/categories/level_5.txt:68
+msgid "Wool Skirt"
+msgstr "Villahame"
+
+#: ../items/categories/level_5.txt:77
+msgid "Wool Boots"
+msgstr "Villajalkineet"
+
+#: ../items/categories/level_5.txt:86
+msgid "Wool Sleeves"
+msgstr "Villahihat"
+
+#: ../items/categories/level_5.txt:95
+msgid "Shortsword"
+msgstr "Lyhytmiekka"
+
+#: ../items/categories/level_5.txt:104
+msgid "Shortbow"
+msgstr "Lyhytjousi"
+
+#: ../items/categories/level_5.txt:113
+msgid "Rod"
+msgstr "Vitsa"
+
+#: ../items/categories/level_5.txt:122
+msgid "Iron Buckler"
+msgstr "Pieni rautakilpi"
+
+#: ../items/categories/level_16.txt:5
+msgid "Warlord Plate Helmet"
+msgstr "Sotaherran levykypärä"
+
+#: ../items/categories/level_16.txt:17
+msgid "Sniper Plate Helmet"
+msgstr "Tarkka-ampujan levykypärä"
+
+#: ../items/categories/level_16.txt:29
+msgid "Archwizard Velvet Hood"
+msgstr "Arkkivelhon samettihuppu"
+
+#: ../items/categories/level_16.txt:41
+msgid "Warlord Plate Cuirass"
+msgstr "Sotaherran levyhaarniska"
+
+#: ../items/categories/level_16.txt:53
+msgid "Sniper Plate Cuirass"
+msgstr "Tarkka-ampujan levyhaarniska"
+
+#: ../items/categories/level_16.txt:65
+msgid "Archwizard Velvet Vest"
+msgstr "Arkkivelhon samettiliivit"
+
+#: ../items/categories/level_16.txt:77
+msgid "Warlord Plate Greaves"
+msgstr "Sotaherran levysäärystimet"
+
+#: ../items/categories/level_16.txt:89
+msgid "Sniper Plate Greaves"
+msgstr "Tarkka-ampujan levysäärystimet"
+
+#: ../items/categories/level_16.txt:101
+msgid "Archwizard Velvet Skirt"
+msgstr "Arkkivelhon samettihame"
+
+#: ../items/categories/level_16.txt:113
+msgid "Warlord Plate Boots"
+msgstr "Sotaherran levysaappaat"
+
+#: ../items/categories/level_16.txt:125
+msgid "Sniper Plate Boots"
+msgstr "Tarkka-ampujan levysaappaat"
+
+#: ../items/categories/level_16.txt:137
+msgid "Archwizard Velvet Boots"
+msgstr "Arkkivelhon samettijalkineet"
+
+#: ../items/categories/level_16.txt:149
+msgid "Warlord Plate Gauntlets"
+msgstr "Sotaherran levyhanskat"
+
+#: ../items/categories/level_16.txt:161
+msgid "Sniper Plate Gauntlets"
+msgstr "Tarkka-ampujan levyhanskat"
+
+#: ../items/categories/level_16.txt:173
+msgid "Archwizard Velvet Sleeves"
+msgstr "Arkkivelhon samettihihat"
+
+#: ../items/categories/level_16.txt:185
+msgid "Master Warlord Leather Belt"
+msgstr "Mestarisotaherran nahkavyö"
+
+#: ../items/categories/level_16.txt:196
+msgid "Master Sniper Pendant"
+msgstr "Mestaritarkka-ampujan riipus"
+
+#: ../items/categories/level_16.txt:207
+msgid "Master Archwizard Spellbook"
+msgstr "Mestariarkkivelhon loitsukirja"
+
+#: ../items/categories/level_16.txt:218
+msgid "Warlord Greatsword"
+msgstr "Sotaherran suurmiekka"
+
+#: ../items/categories/level_16.txt:230
+msgid "Sniper Greatbow"
+msgstr "Tarkka-ampujan suurjousi"
+
+#: ../items/categories/level_16.txt:242
+msgid "Archwizard Greatstaff"
+msgstr "Arkkivelhon suursauva"
+
+#: ../items/categories/level_16.txt:254
+msgid "Templar Tower Shield"
+msgstr "Temppeliritarin tornikilpi"
+
+#: ../items/categories/level_16.txt:265
+msgid "Master Inferno Ring"
+msgstr "Mestarin hornasormus"
+
+#: ../items/categories/level_16.txt:275
+msgid "Master Glacial Ring"
+msgstr "Mestarin hyinen sormus"
+
+#: ../items/categories/level_16.txt:285
+msgid "Master Volt Ring"
+msgstr "Mestarin volttisormus"
+
+#: ../items/categories/level_16.txt:295
+msgid "Master Void Ring"
+msgstr "Mestarin tyhjiösormus"
+
+#: ../items/categories/level_16.txt:305
+msgid "Master Scholar Ring"
+msgstr "Mestarin tutkintosormus"
+
+#: ../items/categories/level_16.txt:315
+msgid "Master Affluence Ring"
+msgstr "Mestarin vauraussormus"
+
+#: ../items/categories/level_16.txt:325
+msgid "Master Relic Ring"
+msgstr "Mestarin reliikkisormus"
+
+#: ../items/categories/level_13.txt:5
+msgid "Plate Helmet"
+msgstr "Levykypärä"
+
+#: ../items/categories/level_13.txt:14
+msgid "Plate Cuirass"
+msgstr "Levyhaarniska"
+
+#: ../items/categories/level_13.txt:23
+msgid "Plate Greaves"
+msgstr "Levysäärystimet"
+
+#: ../items/categories/level_13.txt:32
+msgid "Plate Boots"
+msgstr "Levysaappaat"
+
+#: ../items/categories/level_13.txt:41
+msgid "Plate Gauntlets"
+msgstr "Levyhanskat"
+
+#: ../items/categories/level_13.txt:50
+msgid "Velvet Hood"
+msgstr "Samettihuppu"
+
+#: ../items/categories/level_13.txt:59
+msgid "Velvet Vest"
+msgstr "Samettiliivit"
+
+#: ../items/categories/level_13.txt:68
+msgid "Velvet Skirt"
+msgstr "Samettihame"
+
+#: ../items/categories/level_13.txt:77
+msgid "Velvet Boots"
+msgstr "Samettijalkineet"
+
+#: ../items/categories/level_13.txt:86
+msgid "Velvet Sleeves"
+msgstr "Samettihihat"
+
+#: ../items/categories/level_13.txt:95
+msgid "Greatsword"
+msgstr "Suurmiekka"
+
+#: ../items/categories/level_13.txt:104
+msgid "Greatbow"
+msgstr "Suurjousi"
+
+#: ../items/categories/level_13.txt:113
+msgid "Greatstaff"
+msgstr "Suursauva"
+
+#: ../items/categories/level_13.txt:122
+msgid "Tower Shield"
+msgstr "Tornikilpi"
+
+#: ../items/categories/level_12.txt:5
+msgid "Warlord Chain Coif"
+msgstr "Sotaherran ketjuhuppu"
+
+#: ../items/categories/level_12.txt:17
+msgid "Sniper Chain Coif"
+msgstr "Tarkka-ampujan ketjuhuppu"
+
+#: ../items/categories/level_12.txt:29
+msgid "Archwizard Silk Hood"
+msgstr "Arkkivelhon silkkihuppu"
+
+#: ../items/categories/level_12.txt:41
+msgid "Warlord Chain Cuirass"
+msgstr "Sotaherran ketjupanssari"
+
+#: ../items/categories/level_12.txt:53
+msgid "Sniper Chain Cuirass"
+msgstr "Tarkka-ampujan ketjupanssari"
+
+#: ../items/categories/level_12.txt:65
+msgid "Archwizard Silk Vest"
+msgstr "Arkkivelhon silkkiliivit"
+
+#: ../items/categories/level_12.txt:77
+msgid "Warlord Chain Greaves"
+msgstr "Sotaherran ketjusäärystimet"
+
+#: ../items/categories/level_12.txt:89
+msgid "Sniper Chain Greaves"
+msgstr "Tarkka-ampujan ketjusäärystimet"
+
+#: ../items/categories/level_12.txt:101
+msgid "Archwizard Silk Skirt"
+msgstr "Arkkivelhon silkkihame"
+
+#: ../items/categories/level_12.txt:113
+msgid "Warlord Chain Boots"
+msgstr "Sotaherran ketjusaappaat"
+
+#: ../items/categories/level_12.txt:125
+msgid "Sniper Chain Boots"
+msgstr "Tarkka-ampujan ketjusaappaat"
+
+#: ../items/categories/level_12.txt:137
+msgid "Archwizard Silk Boots"
+msgstr "Arkkivelhon silkkijalkineet"
+
+#: ../items/categories/level_12.txt:149
+msgid "Warlord Chain Gloves"
+msgstr "Sotaherran ketjuhanskat"
+
+#: ../items/categories/level_12.txt:161
+msgid "Sniper Chain Gloves"
+msgstr "Tarkka-ampujan ketjuhanskat"
+
+#: ../items/categories/level_12.txt:173
+msgid "Archwizard Silk Sleeves"
+msgstr "Arkkivelhon silkkihihat"
+
+#: ../items/categories/level_12.txt:185
+msgid "Master Warrior Leather Belt"
+msgstr "Mestarisoturin nahkavyö"
+
+#: ../items/categories/level_12.txt:196
+msgid "Master Ranger Pendant"
+msgstr "Mestarisamoojan riipus"
+
+#: ../items/categories/level_12.txt:207
+msgid "Master Wizard Spellbook"
+msgstr "Mestarivelhon loitsukirja"
+
+#: ../items/categories/level_12.txt:218
+msgid "Warlord Longsword"
+msgstr "Sotaherran pitkämiekka"
+
+#: ../items/categories/level_12.txt:230
+msgid "Sniper Longbow"
+msgstr "Tarkka-ampujan pitkäjousi"
+
+#: ../items/categories/level_12.txt:242
+msgid "Archwizard Staff"
+msgstr "Arkkivelhon sauva"
+
+#: ../items/categories/level_12.txt:254
+msgid "Templar Crest Shield"
+msgstr "Temppeliritarin vaakunakilpi"
+
+#: ../items/categories/level_12.txt:265
+msgid "Master Blaze Ring"
+msgstr "Mestarin loimusormus"
+
+#: ../items/categories/level_12.txt:275
+msgid "Master Freeze Ring"
+msgstr "Mestarin jähmetyssormus"
+
+#: ../items/categories/level_12.txt:285
+msgid "Master Shock Ring"
+msgstr "Mestarin shokkisormus"
+
+#: ../items/categories/level_12.txt:295
+msgid "Master Gloom Ring"
+msgstr "Mestarin hämysormus"
+
+#: ../items/categories/level_12.txt:305
+msgid "Master Intellectual Ring"
+msgstr "Mestarin älysormus"
+
+#: ../items/categories/level_12.txt:315
+msgid "Master Lucrative Ring"
+msgstr "Mestarin vauraussormus"
+
+#: ../items/categories/level_12.txt:325
+msgid "Master Artifact Ring"
+msgstr "Mestarin artefaktisormus"
+
+#: ../items/categories/level_4_unique.txt:3
+msgid "Krolan's Hammer"
+msgstr "Krolanin vasara"
+
+#: ../items/categories/level_4_unique.txt:4
+msgid "An essential tool for any blacksmith."
+msgstr "Ensiarvoinen työkalu kenelle tahansa sepälle."
+
+#: ../items/categories/level_4_unique.txt:19
+msgid "Goblin Branch"
+msgstr "Hiiden oksa"
+
+#: ../items/categories/level_4_unique.txt:20
+msgid "Mana flows inside its primitive exterior."
+msgstr "Mana virtaa sen alkukantaisen ulkokuoren sisällä."
+
+#: ../items/categories/level_4_unique.txt:36
+msgid "Ardwen's Gloves"
+msgstr "Ardwenin käsineet"
+
+#: ../items/categories/level_4_unique.txt:37
+msgid "These hands built a village."
+msgstr "Nämä kädet rakensivat kylän."
+
+#: ../items/categories/level_4_unique.txt:53
+msgid "Blood Tunic"
+msgstr "Veritunika"
+
+#: ../items/categories/level_4_unique.txt:54
+msgid "When worn, this shirt heats the wearers veins."
+msgstr "Tämä paita kuumentaa käyttäjän suonet päälle puettuna."
+
+#: ../items/categories/level_4_unique.txt:69
+msgid "Dark Steppers"
+msgstr "Synkät askeleet"
+
+#: ../items/categories/level_4_unique.txt:70
+msgid "Dancing through the shadows."
+msgstr "Tanssien läpi varjojen."
+
+#: ../items/categories/level_4_unique.txt:84
+msgid "Seagate's Tri-pants"
+msgstr "Seagaten kolmihousut"
+
+#: ../items/categories/level_4_unique.txt:85
+msgid ""
+"These ragged trousers are covered in scorch marks, yet are cold to the "
+"touch."
+msgstr ""
+"Näissä repaleisissa housuissa on palamisjälkiä, mutta ne ovat silti kylmiä "
+"koskettaa."
+
+#: ../items/categories/level_4_unique.txt:101
+msgid "Ardwen's Ring"
+msgstr "Ardwenin sormus"
+
+#: ../items/categories/level_4_unique.txt:102
+msgid "Lochport's finest."
+msgstr "Lochportin hienoin."
+
+#: ../items/categories/level_11.txt:5
+msgid "Warrior Chain Coif"
+msgstr "Soturin ketjuhuppu"
+
+#: ../items/categories/level_11.txt:17
+msgid "Ranger Chain Coif"
+msgstr "Samoojan ketjuhuppu"
+
+#: ../items/categories/level_11.txt:29
+msgid "Wizard Silk Hood"
+msgstr "Velhon silkkihuppu"
+
+#: ../items/categories/level_11.txt:41
+msgid "Warrior Chain Cuirass"
+msgstr "Soturin ketjupanssari"
+
+#: ../items/categories/level_11.txt:53
+msgid "Ranger Chain Cuirass"
+msgstr "Samoojan ketjupanssari"
+
+#: ../items/categories/level_11.txt:65
+msgid "Wizard Silk Vest"
+msgstr "Velhon silkkiliivit"
+
+#: ../items/categories/level_11.txt:77
+msgid "Warrior Chain Greaves"
+msgstr "Soturin ketjusäärystimet"
+
+#: ../items/categories/level_11.txt:89
+msgid "Ranger Chain Greaves"
+msgstr "Samoojan ketjusäärystimet"
+
+#: ../items/categories/level_11.txt:101
+msgid "Wizard Silk Skirt"
+msgstr "Velhon silkkihame"
+
+#: ../items/categories/level_11.txt:113
+msgid "Warrior Chain Boots"
+msgstr "Soturin ketjusaappaat"
+
+#: ../items/categories/level_11.txt:125
+msgid "Ranger Chain Boots"
+msgstr "Samoojan ketjusaappaat"
+
+#: ../items/categories/level_11.txt:137
+msgid "Wizard Silk Boots"
+msgstr "Velhon silkkijalkineet"
+
+#: ../items/categories/level_11.txt:149
+msgid "Warrior Chain Gloves"
+msgstr "Soturin ketjuhanskat"
+
+#: ../items/categories/level_11.txt:161
+msgid "Ranger Chain Gloves"
+msgstr "Samoojan ketjuhanskat"
+
+#: ../items/categories/level_11.txt:173
+msgid "Wizard Silk Sleeves"
+msgstr "Velhon silkkihihat"
+
+#: ../items/categories/level_11.txt:185
+msgid "Adventurer Warrior Leather Belt"
+msgstr "Seikkailevan soturin nahkavyö"
+
+#: ../items/categories/level_11.txt:196
+msgid "Adventurer Ranger Pendant"
+msgstr "Seikkailevan samoojan riipus"
+
+#: ../items/categories/level_11.txt:207
+msgid "Adventurer Wizard Spellbook"
+msgstr "Seikkailevan velhon loitsukirja"
+
+#: ../items/categories/level_11.txt:218
+msgid "Warrior Longsword"
+msgstr "Soturin pitkämiekka"
+
+#: ../items/categories/level_11.txt:230
+msgid "Ranger Longbow"
+msgstr "Samoojan pitkäjousi"
+
+#: ../items/categories/level_11.txt:242
+msgid "Wizard Staff"
+msgstr "Velhon sauva"
+
+#: ../items/categories/level_11.txt:254
+msgid "Paladin Crest Shield"
+msgstr "Paladiinin vaakunakilpi"
+
+#: ../items/categories/level_11.txt:265
+msgid "Adventurer Blaze Ring"
+msgstr "Seikkailijan loimusormus"
+
+#: ../items/categories/level_11.txt:275
+msgid "Adventurer Freeze Ring"
+msgstr "Seikkailijan jähmetyssormus"
+
+#: ../items/categories/level_11.txt:285
+msgid "Adventurer Shock Ring"
+msgstr "Seikkailijan shokkisormus"
+
+#: ../items/categories/level_11.txt:295
+msgid "Adventurer Gloom Ring"
+msgstr "Seikkailijan hämysormus"
+
+#: ../items/categories/level_11.txt:305
+msgid "Adventurer Intellectual Ring"
+msgstr "Seikkailijan älysormus"
+
+#: ../items/categories/level_11.txt:315
+msgid "Adventurer Lucrative Ring"
+msgstr "Seikkailijan vauraussormus"
+
+#: ../items/categories/level_11.txt:325
+msgid "Adventurer Artifact Ring"
+msgstr "Seikkailijan artefaktisormus"
+
+#: ../items/categories/level_2.txt:5
+msgid "Fighting Cloth Shirt"
+msgstr "Taistelijan kangaspaita"
+
+#: ../items/categories/level_2.txt:15
+msgid "Recon Cloth Shirt"
+msgstr "Tiedustelijan kangaspaita"
+
+#: ../items/categories/level_2.txt:25
+msgid "Sorcerer Cloth Shirt"
+msgstr "Taikurin kangaspaita"
+
+#: ../items/categories/level_2.txt:35
+msgid "Fighting Cloth Pants"
+msgstr "Taistelijan kangashousut"
+
+#: ../items/categories/level_2.txt:45
+msgid "Recon Cloth Pants"
+msgstr "Tiedustelijan kangashousut"
+
+#: ../items/categories/level_2.txt:55
+msgid "Sorcerer Cloth Pants"
+msgstr "Taikurin kangashousut"
+
+#: ../items/categories/level_2.txt:64
+msgid "Fighting Cloth Sandals"
+msgstr "Taistelijan kangassandaalit"
+
+#: ../items/categories/level_2.txt:74
+msgid "Recon Cloth Sandals"
+msgstr "Tiedustelijan kangassandaalit"
+
+#: ../items/categories/level_2.txt:83
+msgid "Sorcerer Cloth Sandals"
+msgstr "Taikurin kangassandaalit"
+
+#: ../items/categories/level_2.txt:92
+msgid "Fighting Cloth Gloves"
+msgstr "Taistelijan kangashanskat"
+
+#: ../items/categories/level_2.txt:102
+msgid "Recon Cloth Gloves"
+msgstr "Tiedustelijan kangashanskat"
+
+#: ../items/categories/level_2.txt:111
+msgid "Sorcerer Cloth Gloves"
+msgstr "Taikurin kangashanskat"
+
+#: ../items/categories/level_2.txt:120
+msgid "Wandering Leather Belt"
+msgstr "Nahkainen vaellusvyö"
+
+#: ../items/categories/level_2.txt:129
+msgid "Wandering Pendant"
+msgstr "Vaellusriipus"
+
+#: ../items/categories/level_2.txt:138
+msgid "Wandering Spellbook"
+msgstr "Vaeltajan loitsukirja"
+
+#: ../items/categories/level_2.txt:147
+msgid "Fighting Dagger"
+msgstr "Taistelutikari"
+
+#: ../items/categories/level_2.txt:159
+msgid "Recon Slingshot"
+msgstr "Tiedusteluritsa"
+
+#: ../items/categories/level_2.txt:171
+msgid "Sorcerer Wand"
+msgstr "Taikurin varpu"
+
+#: ../items/categories/level_2.txt:183
+msgid "Keeper Wood Buckler"
+msgstr "Vartijan pieni puukilpi"
+
+#: ../items/categories/level_2.txt:193
+msgid "Wandering Fire Ring"
+msgstr "Vaeltajan tulisormus"
+
+#: ../items/categories/level_2.txt:202
+msgid "Wandering Ice Ring"
+msgstr "Vaeltajan jääsormus"
+
+#: ../items/categories/level_2.txt:211
+msgid "Wandering Lightning Ring"
+msgstr "Vaeltajan salamasormus"
+
+#: ../items/categories/level_2.txt:220
+msgid "Wandering Dark Ring"
+msgstr "Vaeltajan pimeyssormus"
+
+#: ../items/categories/level_2.txt:229
+msgid "Wandering Experience Ring"
+msgstr "Vaeltajan kokemussormus"
+
+#: ../items/categories/level_2.txt:238
+msgid "Wandering Wealth Ring"
+msgstr "Vaeltajan vauraussormus"
+
+#: ../items/categories/level_2.txt:247
+msgid "Wandering Treasure Ring"
+msgstr "Vaeltajan aarresormus"
+
+#: ../items/categories/level_10.txt:5
+msgid "Fighting Chain Coif"
+msgstr "Taistelijan ketjuhuppu"
+
+#: ../items/categories/level_10.txt:17
+msgid "Recon Chain Coif"
+msgstr "Tiedustelijan ketjuhuppu"
+
+#: ../items/categories/level_10.txt:29
+msgid "Sorcerer Silk Hood"
+msgstr "Taikurin silkkihuppu"
+
+#: ../items/categories/level_10.txt:41
+msgid "Fighting Chain Cuirass"
+msgstr "Taistelijan ketjupanssari"
+
+#: ../items/categories/level_10.txt:53
+msgid "Recon Chain Cuirass"
+msgstr "Tiedustelijan ketjupanssari"
+
+#: ../items/categories/level_10.txt:65
+msgid "Sorcerer Silk Vest"
+msgstr "Taikurin silkkiliivit"
+
+#: ../items/categories/level_10.txt:77
+msgid "Fighting Chain Greaves"
+msgstr "Taistelijan ketjusäärystimet"
+
+#: ../items/categories/level_10.txt:89
+msgid "Recon Chain Greaves"
+msgstr "Tiedustelijan ketjusäärystimet"
+
+#: ../items/categories/level_10.txt:101
+msgid "Sorcerer Silk Skirt"
+msgstr "Taikurin silkkihame"
+
+#: ../items/categories/level_10.txt:113
+msgid "Fighting Chain Boots"
+msgstr "Taistelijan ketjusaappaat"
+
+#: ../items/categories/level_10.txt:125
+msgid "Recon Chain Boots"
+msgstr "Tiedustelijan ketjusaappaat"
+
+#: ../items/categories/level_10.txt:137
+msgid "Sorcerer Silk Boots"
+msgstr "Taikurin silkkijalkineet"
+
+#: ../items/categories/level_10.txt:149
+msgid "Fighting Chain Gloves"
+msgstr "Taistelijan ketjuhanskat"
+
+#: ../items/categories/level_10.txt:161
+msgid "Recon Chain Gloves"
+msgstr "Tiedustelijan ketjuhanskat"
+
+#: ../items/categories/level_10.txt:173
+msgid "Sorcerer Silk Sleeves"
+msgstr "Taikurin silkkihihat"
+
+#: ../items/categories/level_10.txt:185
+msgid "Wandering Warrior Leather Belt"
+msgstr "Vaeltavan soturin nahkavyö"
+
+#: ../items/categories/level_10.txt:196
+msgid "Wandering Ranger Pendant"
+msgstr "Vaeltavan samoojan riipus"
+
+#: ../items/categories/level_10.txt:207
+msgid "Wandering Wizard Spellbook"
+msgstr "Vaeltavan velhon loitsukirja"
+
+#: ../items/categories/level_10.txt:218
+msgid "Fighting Longsword"
+msgstr "Taistelijan pitkämiekka"
+
+#: ../items/categories/level_10.txt:230
+msgid "Recon Longbow"
+msgstr "Tiedustelijan pitkäjousi"
+
+#: ../items/categories/level_10.txt:242
+msgid "Sorcerer Staff"
+msgstr "Taikurin sauva"
+
+#: ../items/categories/level_10.txt:254
+msgid "Keeper Crest Shield"
+msgstr "Vartijan vaakunakilpi"
+
+#: ../items/categories/level_10.txt:265
+msgid "Wandering Blaze Ring"
+msgstr "Vaeltajan loimusormus"
+
+#: ../items/categories/level_10.txt:275
+msgid "Wandering Freeze Ring"
+msgstr "Vaeltajan jähemtyssormus"
+
+#: ../items/categories/level_10.txt:285
+msgid "Wandering Shock Ring"
+msgstr "Vaeltajan shokkisormus"
+
+#: ../items/categories/level_10.txt:295
+msgid "Wandering Gloom Ring"
+msgstr "Vaeltajan hämysormus"
+
+#: ../items/categories/level_10.txt:305
+msgid "Wandering Intellectual Ring"
+msgstr "Vaeltajan älysormus"
+
+#: ../items/categories/level_10.txt:315
+msgid "Wandering Lucrative Ring"
+msgstr "Vaeltajan vauraussormus"
+
+#: ../items/categories/level_10.txt:325
+msgid "Wandering Artifact Ring"
+msgstr "Vaeltajan artefaktisormus"
+
+#: ../items/categories/quest.txt:3
+msgid "Krolan's Key"
+msgstr "Krolanin avain"
+
+#: ../items/categories/quest.txt:13
+msgid "Krolan's Emerald"
+msgstr "Krolanin smaragdi"
+
+#: ../items/categories/quest.txt:23
+msgid "Abasi's Journal"
+msgstr "Abasin lokikirja"
+
+#: ../items/categories/quest.txt:34
+msgid "Gold Family Ring"
+msgstr "Kultainen sukusormus"
+
+#: ../items/categories/quest.txt:45
+msgid "St. Maria Mausoleum Key"
+msgstr "Pyhän Marian mausoleumin avain"
+
+#: ../items/categories/quest.txt:55
+msgid "St. Maria Catacombs Key"
+msgstr "Pyhän Marian katakombien avain"
+
+#: ../items/categories/quest.txt:65
+msgid "Strange Sapphire A"
+msgstr "Outo safiiri A"
+
+#: ../items/categories/quest.txt:75
+msgid "Strange Sapphire B"
+msgstr "Outo safiiri B"
+
+#: ../items/categories/quest.txt:95
+msgid "Bear Figurine"
+msgstr "Karhufiguuri"
+
+#: ../items/categories/quest.txt:98
+msgid "Wood sculpture of a bear. A \"1\" is carved into the bottom."
+msgstr "Puinen veistos karhusta. Sen pohjaan on kaiverrettu \"1\"."
+
+#: ../items/categories/quest.txt:108
+msgid "Owl Figurine"
+msgstr "Pöllöfiguuri"
+
+#: ../items/categories/quest.txt:111
+msgid "Wood sculpture of an owl. A \"2\" is carved into the bottom."
+msgstr "Puinen veistos pöllöstä. Sen pohjaan on kaiverrettu \"2\"."
+
+#: ../items/categories/quest.txt:121
+msgid "Cat Figurine"
+msgstr "Kissafiguuri"
+
+#: ../items/categories/quest.txt:124
+msgid "Wood sculpture of a cat. A \"3\" is carved into the bottom."
+msgstr "Puinen veistos kissasta. Sen pohjaan on kaiverrettu \"3\"."
+
+#: ../items/categories/quest.txt:134
+msgid "Turtle Figurine"
+msgstr "Kilpikonnafiguuri"
+
+#: ../items/categories/quest.txt:137
+msgid "Wood sculpture of a turtle. A \"4\" is carved into the bottom."
+msgstr "Puinen veistos kilpikonnasta. Sen pohjaan on kaiverrettu \"4\"."
+
+#: ../items/categories/quest.txt:147
+msgid "Stormrock Key"
+msgstr "Myrskykallion avain"
+
+#: ../items/categories/quest.txt:157
+msgid "Temple of Mez Basement Key"
+msgstr "Mezin temppelin kellariavain"
+
+#: ../items/categories/quest.txt:167
+msgid "Temple of Mez Main Hall Key"
+msgstr "Mezin temppelin päähallin avain"
+
+#: ../items/categories/quest.txt:187
+msgid "Worn Note #1"
+msgstr "Kulunut muistiinpano #1"
+
+#: ../items/categories/quest.txt:198
+msgid "Worn Note #2"
+msgstr "Kulunut muistiinpano #2"
+
+#: ../items/categories/quest.txt:209
+msgid "Worn Note #3"
+msgstr "Kulunut muistiinpano #3"
+
+#: ../items/categories/quest.txt:220
+msgid "Worn Note #4"
+msgstr "Kulunut muistiinpano #4"
+
+#: ../items/categories/quest.txt:231
+msgid "Worn Note #5"
+msgstr "Kulunut muistiinpano #5"
+
+#: ../items/categories/quest.txt:242
+msgid "Wizard's Tower Entrance Key"
+msgstr "Velhon tornin sisäänkäyntiavain"
+
+#: ../items/categories/quest.txt:252
+msgid "Wizard's Tower Research Hall Key"
+msgstr "Velhon tornin tutkimushallin avain"
+
+#: ../items/categories/quest.txt:273
+msgid "Lorund's Sword"
+msgstr "Lorundin miekka"
+
+#: ../items/categories/quest.txt:285
+msgid "Nerin's Bow"
+msgstr "Nerinin jousi"
+
+#: ../items/categories/quest.txt:297
+msgid "Kayl's Staff"
+msgstr "Kaylin sauva"
+
+#: ../items/categories/quest.txt:309
+msgid "Underworld Stronghold Foyer Key"
+msgstr "Alamaailman linnoituksen aulan avain"
+
+#: ../items/categories/quest.txt:319
+msgid "Underworld Stronghold Barracks Key"
+msgstr "Alamaailman linnoituksen kasarmin avain"
+
+#: ../items/categories/quest.txt:329
+msgid "Treasure Chest Key"
+msgstr "Aarrearkun avain"
+
+#: ../items/categories/quest.txt:339
+msgid "Silver Family Ring"
+msgstr "Hopeinen sukusormus"
+
+#: ../items/categories/quest.txt:365
+msgid ""
+"An odor of iron and its abrasive petals make this rare plant easy to "
+"identify."
+msgstr ""
+"Tämän harvinaisen kasvin tunnistaa helposti raudan hajusta ja hankaavista "
+"terälehdistä."
+
+#: ../items/categories/quest.txt:376
+msgid ""
+"This mysterious black feather has a very sharp follicle, making it a "
+"suitable writing utensil."
+msgstr ""
+"Tällä salaperäisellä mustalla sulalla on hyvin terävä tyvi, mikä tekee siitä"
+" sopivan kirjoitusvälineen."
+
+#: ../items/categories/quest.txt:387
+msgid "A dark, magical energy flows through the tip of this small blade."
+msgstr "Synkkä, maaginen energia virtaa tämän pienen teräaseen kärjestä."
+
+#: ../items/categories/quest.txt:395
+msgid "Vial of Your Blood"
+msgstr "Veresi näytepullo"
+
+#: ../items/categories/quest.txt:398
+msgid "Spoils of the Red Altar ritual."
+msgstr "Punaisen alttarin rituaalin tuotos."
+
+#: ../items/categories/quest.txt:406
+msgid "Blood Inkwell"
+msgstr "Verimustepullo"
+
+#: ../items/categories/quest.txt:409
+msgid ""
+"According to Florin, this is the only ink capable of being used in the Book "
+"of the Dead."
+msgstr ""
+"Florinin mukaan tämä on ainoa muste, jota voi käyttää Kuolleiden kirjaan."
+
+#: ../items/categories/level_3.txt:5
+msgid "Warrior Cloth Shirt"
+msgstr "Soturin kangaspaita"
+
+#: ../items/categories/level_3.txt:15
+msgid "Ranger Cloth Shirt"
+msgstr "Samoojan kangaspaita"
+
+#: ../items/categories/level_3.txt:25
+msgid "Wizard Cloth Shirt"
+msgstr "Velhon kangaspaita"
+
+#: ../items/categories/level_3.txt:35
+msgid "Warrior Cloth Pants"
+msgstr "Soturin kangashousut"
+
+#: ../items/categories/level_3.txt:45
+msgid "Ranger Cloth Pants"
+msgstr "Samoojan kangashousut"
+
+#: ../items/categories/level_3.txt:55
+msgid "Wizard Cloth Pants"
+msgstr "Velhon kangashousut"
+
+#: ../items/categories/level_3.txt:65
+msgid "Warrior Cloth Sandals"
+msgstr "Soturin kangassandaalit"
+
+#: ../items/categories/level_3.txt:75
+msgid "Ranger Cloth Sandals"
+msgstr "Samoojan kangassandaalit"
+
+#: ../items/categories/level_3.txt:85
+msgid "Wizard Cloth Sandals"
+msgstr "Velhon kangassandaalit"
+
+#: ../items/categories/level_3.txt:94
+msgid "Warrior Cloth Gloves"
+msgstr "Soturin kangashanskat"
+
+#: ../items/categories/level_3.txt:104
+msgid "Ranger Cloth Gloves"
+msgstr "Samoojan kangashanskat"
+
+#: ../items/categories/level_3.txt:114
+msgid "Wizard Cloth Gloves"
+msgstr "Velhon kangashanskat"
+
+#: ../items/categories/level_3.txt:123
+msgid "Adventurer Leather Belt"
+msgstr "Seikkailijan nahkavyö"
+
+#: ../items/categories/level_3.txt:132
+msgid "Adventurer Pendant"
+msgstr "Seikkailijan riipus"
+
+#: ../items/categories/level_3.txt:141
+msgid "Adventurer Spellbook"
+msgstr "Seikkailijan loitsukirja"
+
+#: ../items/categories/level_3.txt:150
+msgid "Warrior Dagger"
+msgstr "Soturin tikari"
+
+#: ../items/categories/level_3.txt:162
+msgid "Ranger Slingshot"
+msgstr "Samoojan ritsa"
+
+#: ../items/categories/level_3.txt:174
+msgid "Wizard Wand"
+msgstr "Velhon vitsa"
+
+#: ../items/categories/level_3.txt:186
+msgid "Paladin Wood Buckler"
+msgstr "Paladiinin pieni puukilpi"
+
+#: ../items/categories/level_3.txt:197
+msgid "Adventurer Fire Ring"
+msgstr "Seikkailijan tulisormus"
+
+#: ../items/categories/level_3.txt:206
+msgid "Adventurer Ice Ring"
+msgstr "Seikkailijan jääsormus"
+
+#: ../items/categories/level_3.txt:215
+msgid "Adventurer Lightning Ring"
+msgstr "Seikkailijan salamasormus"
+
+#: ../items/categories/level_3.txt:224
+msgid "Adventurer Dark Ring"
+msgstr "Seikkailijan pimeyssormus"
+
+#: ../items/categories/level_3.txt:233
+msgid "Adventurer Experience Ring"
+msgstr "Seikkailijan kokemussormus"
+
+#: ../items/categories/level_3.txt:242
+msgid "Adventurer Wealth Ring"
+msgstr "Seikkailijan vauraussormus"
+
+#: ../items/categories/level_3.txt:251
+msgid "Adventurer Treasure Ring"
+msgstr "Seikkailijan aarresormus"
+
+#: ../items/categories/level_7.txt:5
+msgid "Warrior Leather Hood"
+msgstr "Soturin nahkahuppu"
+
+#: ../items/categories/level_7.txt:17
+msgid "Ranger Leather Hood"
+msgstr "Samoojan nahkahuppu"
+
+#: ../items/categories/level_7.txt:29
+msgid "Wizard Wool Hood"
+msgstr "Velhon villahuppu"
+
+#: ../items/categories/level_7.txt:41
+msgid "Warrior Leather Tunic"
+msgstr "Soturin nahkatunika"
+
+#: ../items/categories/level_7.txt:53
+msgid "Ranger Leather Tunic"
+msgstr "Samoojan nahkatunika"
+
+#: ../items/categories/level_7.txt:65
+msgid "Wizard Wool Vest"
+msgstr "Velhon villaliivit"
+
+#: ../items/categories/level_7.txt:77
+msgid "Warrior Leather Pants"
+msgstr "Soturin nahkahousut"
+
+#: ../items/categories/level_7.txt:89
+msgid "Ranger Leather Pants"
+msgstr "Samoojan nahkahousut"
+
+#: ../items/categories/level_7.txt:101
+msgid "Wizard Wool Skirt"
+msgstr "Velhon villahame"
+
+#: ../items/categories/level_7.txt:113
+msgid "Warrior Leather Boots"
+msgstr "Soturin nahkasaappaat"
+
+#: ../items/categories/level_7.txt:125
+msgid "Ranger Leather Boots"
+msgstr "Samoojan nahkasaappaat"
+
+#: ../items/categories/level_7.txt:137
+msgid "Wizard Wool Boots"
+msgstr "Velhon villajalkineet"
+
+#: ../items/categories/level_7.txt:149
+msgid "Warrior Leather Gloves"
+msgstr "Soturin nahkahanskat"
+
+#: ../items/categories/level_7.txt:161
+msgid "Ranger Leather Gloves"
+msgstr "Samoojan nahkahanskat"
+
+#: ../items/categories/level_7.txt:173
+msgid "Wizard Wool Sleeves"
+msgstr "Velhon villahihat"
+
+#: ../items/categories/level_7.txt:185
+msgid "Adventurer Fighting Leather Belt"
+msgstr "Seikkailijan nahkainen taisteluvyö"
+
+#: ../items/categories/level_7.txt:196
+msgid "Adventurer Recon Pendant"
+msgstr "Seikkailijan tiedusteluriipus"
+
+#: ../items/categories/level_7.txt:207
+msgid "Adventurer Sorcerer Spellbook"
+msgstr "Seikkailevan taikurin loitsukirja"
+
+#: ../items/categories/level_7.txt:218
+msgid "Warrior Shortsword"
+msgstr "Soturin lyhytmiekka"
+
+#: ../items/categories/level_7.txt:230
+msgid "Ranger Shortbow"
+msgstr "Samoojan lyhytjousi"
+
+#: ../items/categories/level_7.txt:242
+msgid "Wizard Rod"
+msgstr "Velhon vitsa"
+
+#: ../items/categories/level_7.txt:254
+msgid "Paladin Iron Buckler"
+msgstr "Paladiinin pieni rautakilpi"
+
+#: ../items/categories/level_7.txt:265
+msgid "Adventurer Burn Ring"
+msgstr "Seikkailijan poltesormus"
+
+#: ../items/categories/level_7.txt:275
+msgid "Adventurer Frost Ring"
+msgstr "Seikkailijan pakkassormus"
+
+#: ../items/categories/level_7.txt:285
+msgid "Adventurer Electric Ring"
+msgstr "Seikkailijan sähkösormus"
+
+#: ../items/categories/level_7.txt:295
+msgid "Adventurer Shadow Ring"
+msgstr "Seikkailijan varjosormus"
+
+#: ../items/categories/level_7.txt:305
+msgid "Adventurer Knowledge Ring"
+msgstr "Seikkailijan tietosormus"
+
+#: ../items/categories/level_7.txt:315
+msgid "Adventurer Prosperity Ring"
+msgstr "Seikkailijan menestyssormus"
+
+#: ../items/categories/level_7.txt:325
+msgid "Adventurer Loot Ring"
+msgstr "Seikkailijan saalissormus"
+
+#: ../items/categories/scrolls.txt:8
+msgid "Use: Summon a zombie to fight for you"
+msgstr "Käyttö: kutsu zombi taistelemaan puolestasi"
+
+#: ../items/categories/scrolls.txt:19
+msgid "Use: Teleport to Perdition Harbor"
+msgstr "Käyttö: kaukosiirry Kadotuksen satamaan"
+
+#: ../items/categories/scrolls.txt:30
+msgid "Use: Create a magical shield that absorbs damage"
+msgstr "Käyttö: luo taikasuojus, joka vaimentaa vahinkoa"
+
+#: ../items/categories/scrolls.txt:41
+msgid "Use: Shoot a fireball"
+msgstr "Käyttö: ammu tulipallo"
+
+#: ../items/categories/scrolls.txt:52
+msgid "Use: Shoot an ice bolt"
+msgstr "Käyttö: ammu jäänuoli"
+
+#: ../items/categories/scrolls.txt:63
+msgid "Use: Move at an increased speed for a limited time"
+msgstr "Käyttö: liiku nopeammin rajoitetun ajan"
+
+#: ../items/categories/scrolls.txt:74
+msgid "Use: Remove debuffs and become immune to debuffs for a limited time"
+msgstr ""
+"Käyttö: poista heikennykset ja muutu immuuniksi heikennyksille rajoitetun "
+"ajan"
+
+#: ../items/categories/scrolls.txt:85
+msgid ""
+"Use: Creates a magical shield that reflects projectiles and damage for a "
+"limited time"
+msgstr ""
+"Käyttö: luo taikasuojus, joka heijastaa ammuksia ja vahinkoa rajoitetun ajan"
+
+#: ../items/categories/scrolls.txt:93
+msgid "Tome of Second Chances"
+msgstr "Toisen mahdollisuuden opus"
+
+#: ../items/categories/scrolls.txt:95
+msgid "Use: Resets all stat and power points"
+msgstr "Käyttö: nollaa kaikki statiikat ja voimapisteet"
+
+#: ../items/categories/crafting.txt:38
+msgid "Mortar and Pestle"
+msgstr "Mortteli ja survin"
+
+#: ../items/categories/crafting.txt:39
+msgid "Use empty bottles and various ingredients to create potions."
+msgstr "Luo taikajuomia tyhjillä pulloilla ja erilaisilla ainesosilla."
+
+#: ../items/categories/level_9.txt:5
+msgid "Chain Coif"
+msgstr "Ketjuhuppu"
+
+#: ../items/categories/level_9.txt:14
+msgid "Chain Cuirass"
+msgstr "Ketjupanssari"
+
+#: ../items/categories/level_9.txt:23
+msgid "Chain Greaves"
+msgstr "Ketjusäärystimet"
+
+#: ../items/categories/level_9.txt:32
+msgid "Chain Boots"
+msgstr "Ketjusaappaat"
+
+#: ../items/categories/level_9.txt:41
+msgid "Chain Gloves"
+msgstr "Ketjuhanskat"
+
+#: ../items/categories/level_9.txt:50
+msgid "Silk Hood"
+msgstr "Silkkihuppu"
+
+#: ../items/categories/level_9.txt:59
+msgid "Silk Vest"
+msgstr "Silkkiliivit"
+
+#: ../items/categories/level_9.txt:68
+msgid "Silk Skirt"
+msgstr "Silkkihame"
+
+#: ../items/categories/level_9.txt:77
+msgid "Silk Boots"
+msgstr "Silkkijalkineet"
+
+#: ../items/categories/level_9.txt:86
+msgid "Silk Sleeves"
+msgstr "Silkkihihat"
+
+#: ../items/categories/level_9.txt:95
+msgid "Longsword"
+msgstr "Pitkämiekka"
+
+#: ../items/categories/level_9.txt:104
+msgid "Longbow"
+msgstr "Pitkäjousi"
+
+#: ../items/categories/level_9.txt:113
+msgid "Staff"
+msgstr "Sauva"
+
+#: ../items/categories/level_9.txt:122
+msgid "Crest Shield"
+msgstr "Vaakunakilpi"
+
+#: ../items/categories/level_8.txt:5
+msgid "Warlord Leather Hood"
+msgstr "Sotaherran nahkahuppu"
+
+#: ../items/categories/level_8.txt:17
+msgid "Sniper Leather Hood"
+msgstr "Tarkka-ampujan nahkahuppu"
+
+#: ../items/categories/level_8.txt:29
+msgid "Archwizard Wool Hood"
+msgstr "Arkkivelhon villahuppu"
+
+#: ../items/categories/level_8.txt:41
+msgid "Warlord Leather Tunic"
+msgstr "Sotaherran nahkatunika"
+
+#: ../items/categories/level_8.txt:53
+msgid "Sniper Leather Tunic"
+msgstr "Tarkka-ampujan nahkatunika"
+
+#: ../items/categories/level_8.txt:65
+msgid "Archwizard Wool Vest"
+msgstr "Arkkivelhon villaliivit"
+
+#: ../items/categories/level_8.txt:77
+msgid "Warlord Leather Pants"
+msgstr "Sotaherran nahkahousut"
+
+#: ../items/categories/level_8.txt:89
+msgid "Sniper Leather Pants"
+msgstr "Tarkka-ampujan nahkahousut"
+
+#: ../items/categories/level_8.txt:101
+msgid "Archwizard Wool Skirt"
+msgstr "Arkkivelhon villahame"
+
+#: ../items/categories/level_8.txt:113
+msgid "Warlord Leather Boots"
+msgstr "Sotaherran nahkasaappaat"
+
+#: ../items/categories/level_8.txt:125
+msgid "Sniper Leather Boots"
+msgstr "Tarkka-ampujan nahkasaappaat"
+
+#: ../items/categories/level_8.txt:137
+msgid "Archwizard Wool Boots"
+msgstr "Arkkivelhon villajalkineet"
+
+#: ../items/categories/level_8.txt:149
+msgid "Warlord Leather Gloves"
+msgstr "Sotaherran nahkahanskat"
+
+#: ../items/categories/level_8.txt:161
+msgid "Sniper Leather Gloves"
+msgstr "Tarkka-ampujan nahkahanskat"
+
+#: ../items/categories/level_8.txt:173
+msgid "Archwizard Wool Sleeves"
+msgstr "Arkkivelhon villahihat"
+
+#: ../items/categories/level_8.txt:185
+msgid "Master Fighting Leather Belt"
+msgstr "Mestarin nahkainen taisteluvyö"
+
+#: ../items/categories/level_8.txt:196
+msgid "Master Recon Pendant"
+msgstr "Mestarin tiedusteluriipus"
+
+#: ../items/categories/level_8.txt:207
+msgid "Master Sorcerer Spellbook"
+msgstr "Mestaritaikurin loitsukirja"
+
+#: ../items/categories/level_8.txt:218
+msgid "Warlord Shortsword"
+msgstr "Sotaherran lyhytmiekka"
+
+#: ../items/categories/level_8.txt:230
+msgid "Sniper Shortbow"
+msgstr "Tarkka-ampujan lyhytjousi"
+
+#: ../items/categories/level_8.txt:242
+msgid "Archwizard Rod"
+msgstr "Arkkivelhon taikasauva"
+
+#: ../items/categories/level_8.txt:254
+msgid "Templar Iron Buckler"
+msgstr "Temppeliritarin pieni rautakilpi"
+
+#: ../items/categories/level_8.txt:265
+msgid "Master Burn Ring"
+msgstr "Mestarin poltesormus"
+
+#: ../items/categories/level_8.txt:275
+msgid "Master Frost Ring"
+msgstr "Mestarin pakkassormus"
+
+#: ../items/categories/level_8.txt:285
+msgid "Master Electric Ring"
+msgstr "Mestarin sähkösormus"
+
+#: ../items/categories/level_8.txt:295
+msgid "Master Shadow Ring"
+msgstr "Mestarin varjosormus"
+
+#: ../items/categories/level_8.txt:305
+msgid "Master Knowledge Ring"
+msgstr "Mestarin tietosormus"
+
+#: ../items/categories/level_8.txt:315
+msgid "Master Prosperity Ring"
+msgstr "Mestarin menestyssormus"
+
+#: ../items/categories/level_8.txt:325
+msgid "Master Loot Ring"
+msgstr "Mestarin saalissormus"
+
+#: ../items/categories/level_6.txt:5
+msgid "Fighting Leather Hood"
+msgstr "Taistelijan nahkahuppu"
+
+#: ../items/categories/level_6.txt:17
+msgid "Recon Leather Hood"
+msgstr "Tiedustelijan nahkahuppu"
+
+#: ../items/categories/level_6.txt:29
+msgid "Sorcerer Wool Hood"
+msgstr "Taikurin villahuppu"
+
+#: ../items/categories/level_6.txt:41
+msgid "Fighting Leather Tunic"
+msgstr "Taistelijan nahkatunika"
+
+#: ../items/categories/level_6.txt:53
+msgid "Recon Leather Tunic"
+msgstr "Tiedustelijan nahkatunika"
+
+#: ../items/categories/level_6.txt:65
+msgid "Sorcerer Wool Vest"
+msgstr "Taikurin villaliivit"
+
+#: ../items/categories/level_6.txt:77
+msgid "Fighting Leather Pants"
+msgstr "Taistelijan nahkahousut"
+
+#: ../items/categories/level_6.txt:89
+msgid "Recon Leather Pants"
+msgstr "Tiedustelijan nahkahousut"
+
+#: ../items/categories/level_6.txt:101
+msgid "Sorcerer Wool Skirt"
+msgstr "Taikurin villahame"
+
+#: ../items/categories/level_6.txt:113
+msgid "Fighting Leather Boots"
+msgstr "Taistelijan nahkasaappaat"
+
+#: ../items/categories/level_6.txt:125
+msgid "Recon Leather Boots"
+msgstr "Tiedustelijan nahkasaappaat"
+
+#: ../items/categories/level_6.txt:137
+msgid "Sorcerer Wool Boots"
+msgstr "Taikurin villajalkineet"
+
+#: ../items/categories/level_6.txt:149
+msgid "Fighting Leather Gloves"
+msgstr "Taistelijan nahkahanskat"
+
+#: ../items/categories/level_6.txt:161
+msgid "Recon Leather Gloves"
+msgstr "Tiedustelijan nahkahanskat"
+
+#: ../items/categories/level_6.txt:173
+msgid "Sorcerer Wool Sleeves"
+msgstr "Taikurin villahihat"
+
+#: ../items/categories/level_6.txt:185
+msgid "Wandering Fighting Leather Belt"
+msgstr "Vaeltavan taistelijan nahkavyö"
+
+#: ../items/categories/level_6.txt:196
+msgid "Wandering Recon Pendant"
+msgstr "Vaeltajan tiedusteluriipus"
+
+#: ../items/categories/level_6.txt:207
+msgid "Wandering Sorcerer Spellbook"
+msgstr "Vaeltavan taikurin loitsukirja"
+
+#: ../items/categories/level_6.txt:218
+msgid "Fighting Shortsword"
+msgstr "Taistelijan lyhytmiekka"
+
+#: ../items/categories/level_6.txt:230
+msgid "Recon Shortbow"
+msgstr "Tiedustelijan lyhytjousi"
+
+#: ../items/categories/level_6.txt:242
+msgid "Sorcerer Rod"
+msgstr "Taikurin vitsa"
+
+#: ../items/categories/level_6.txt:254
+msgid "Keeper Iron Buckler"
+msgstr "Vartijan pieni rautakilpi"
+
+#: ../items/categories/level_6.txt:265
+msgid "Wandering Burn Ring"
+msgstr "Vaeltajan poltesormus"
+
+#: ../items/categories/level_6.txt:275
+msgid "Wandering Frost Ring"
+msgstr "Vaeltajan pakkassormus"
+
+#: ../items/categories/level_6.txt:285
+msgid "Wandering Electric Ring"
+msgstr "Vaeltajan sähkösormus"
+
+#: ../items/categories/level_6.txt:295
+msgid "Wandering Shadow Ring"
+msgstr "Vaeltajan varjosormus"
+
+#: ../items/categories/level_6.txt:305
+msgid "Wandering Knowledge Ring"
+msgstr "Vaeltajan tietosormus"
+
+#: ../items/categories/level_6.txt:315
+msgid "Wandering Prosperity Ring"
+msgstr "Vaeltajan menestyssormus"
+
+#: ../items/categories/level_6.txt:325
+msgid "Wandering Loot Ring"
+msgstr "Vaeltajan saalissormus"
+
+#: ../items/categories/level_15.txt:5
+msgid "Warrior Plate Helmet"
+msgstr "Soturin levykypärä"
+
+#: ../items/categories/level_15.txt:17
+msgid "Ranger Plate Helmet"
+msgstr "Samoojan levykypärä"
+
+#: ../items/categories/level_15.txt:29
+msgid "Wizard Velvet Hood"
+msgstr "Velhon samettihuppu"
+
+#: ../items/categories/level_15.txt:41
+msgid "Warrior Plate Cuirass"
+msgstr "Soturin levyhaarniska"
+
+#: ../items/categories/level_15.txt:53
+msgid "Ranger Plate Cuirass"
+msgstr "Samoojan levyhaarniska"
+
+#: ../items/categories/level_15.txt:65
+msgid "Wizard Velvet Vest"
+msgstr "Velhon samettiliivit"
+
+#: ../items/categories/level_15.txt:77
+msgid "Warrior Plate Greaves"
+msgstr "Soturin levysäärystimet"
+
+#: ../items/categories/level_15.txt:89
+msgid "Ranger Plate Greaves"
+msgstr "Samoojan levysäärystimet"
+
+#: ../items/categories/level_15.txt:101
+msgid "Wizard Velvet Skirt"
+msgstr "Velhon samettihame"
+
+#: ../items/categories/level_15.txt:113
+msgid "Warrior Plate Boots"
+msgstr "Soturin levysaappaat"
+
+#: ../items/categories/level_15.txt:125
+msgid "Ranger Plate Boots"
+msgstr "Samoojan levysaappat"
+
+#: ../items/categories/level_15.txt:137
+msgid "Wizard Velvet Boots"
+msgstr "Velhon samettijalkineet"
+
+#: ../items/categories/level_15.txt:149
+msgid "Warrior Plate Gauntlets"
+msgstr "Soturin levyhanskat"
+
+#: ../items/categories/level_15.txt:161
+msgid "Ranger Plate Gauntlets"
+msgstr "Samoojan levyhanskat"
+
+#: ../items/categories/level_15.txt:173
+msgid "Wizard Velvet Sleeves"
+msgstr "Velhon samettihihat"
+
+#: ../items/categories/level_15.txt:185
+msgid "Adventurer Warlord Leather Belt"
+msgstr "Seikkailevan sotaherran nahkavyö"
+
+#: ../items/categories/level_15.txt:196
+msgid "Adventurer Sniper Pendant"
+msgstr "Seikkailevan tarkka-ampujan riipus"
+
+#: ../items/categories/level_15.txt:207
+msgid "Adventurer Archwizard Spellbook"
+msgstr "Seikkailevan arkkivelhon loitsukirja"
+
+#: ../items/categories/level_15.txt:218
+msgid "Warrior Greatsword"
+msgstr "Soturin suurmiekka"
+
+#: ../items/categories/level_15.txt:230
+msgid "Ranger Greatbow"
+msgstr "Samoojan suurjousi"
+
+#: ../items/categories/level_15.txt:242
+msgid "Wizard Greatstaff"
+msgstr "Velhon suursauva"
+
+#: ../items/categories/level_15.txt:254
+msgid "Paladin Tower Shield"
+msgstr "Paladiinin tornikilpi"
+
+#: ../items/categories/level_15.txt:265
+msgid "Adventurer Inferno Ring"
+msgstr "Seikkailijan hornasormus"
+
+#: ../items/categories/level_15.txt:275
+msgid "Adventurer Glacial Ring"
+msgstr "Seikkailijan hyinen sormus"
+
+#: ../items/categories/level_15.txt:285
+msgid "Adventurer Volt Ring"
+msgstr "Seikkailijan volttisormus"
+
+#: ../items/categories/level_15.txt:295
+msgid "Adventurer Void Ring"
+msgstr "Seikkailijan tyhjiösormus"
+
+#: ../items/categories/level_15.txt:305
+msgid "Adventurer Scholar Ring"
+msgstr "Seikkailijan tutkintosormus"
+
+#: ../items/categories/level_15.txt:315
+msgid "Adventurer Affluence Ring"
+msgstr "Seikkailijan rikkaussormus"
+
+#: ../items/categories/level_15.txt:325
+msgid "Adventurer Relic Ring"
+msgstr "Seikkailijan reliikkisormus"
+
+#: ../items/categories/level_1.txt:5
+msgid "Cloth Shirt"
+msgstr "Kangashame"
+
+#: ../items/categories/level_1.txt:12
+msgid "Cloth Pants"
+msgstr "Kangashousut"
+
+#: ../items/categories/level_1.txt:19
+msgid "Cloth Sandals"
+msgstr "Kangassandaalit"
+
+#: ../items/categories/level_1.txt:26
+msgid "Cloth Gloves"
+msgstr "Kangashanskat"
+
+#: ../items/categories/level_1.txt:33
+msgid "Dagger"
+msgstr "Tikari"
+
+#: ../items/categories/level_1.txt:42
+msgid "Slingshot"
+msgstr "Ritsa"
+
+#: ../items/categories/level_1.txt:51
+msgid "Wand"
+msgstr "Varpu"
+
+#: ../items/categories/level_1.txt:60
+msgid "Wood Buckler"
+msgstr "Pieni puukilpi"
+
+#: ../items/categories/level_8_unique.txt:3
+msgid "Amir Blade"
+msgstr "Amirin miekka"
+
+#: ../items/categories/level_8_unique.txt:4
+msgid "A remnant of those who guarded Fort Amir."
+msgstr "Jäänne Amirin linnaketta vartioivista."
+
+#: ../items/categories/level_8_unique.txt:19
+msgid "Huntsman Bow"
+msgstr "Jahtimiehen jousi"
+
+#: ../items/categories/level_8_unique.txt:20
+msgid "Compact enough to be deadly at all ranges of combat."
+msgstr "Tarpeeksi kompakti ollakseen tappava kaikenlaiseen taisteluun."
+
+#: ../items/categories/level_8_unique.txt:36
+msgid "Greed Cowl"
+msgstr "Ahneuden huppu"
+
+#: ../items/categories/level_8_unique.txt:37
+msgid "Riches fit for a queen."
+msgstr "Kuningattarelle sopivia rikkauksia."
+
+#: ../items/categories/level_8_unique.txt:52
+msgid "Battle Leathers"
+msgstr "Taistelunahat"
+
+#: ../items/categories/level_8_unique.txt:53
+msgid "Designed to keep its wearer moving forward."
+msgstr "Suunniteltu pitämään käyttäjänsä liikkeessä."
+
+#: ../items/categories/level_8_unique.txt:68
+msgid "Escape Boots"
+msgstr "Pakosaappaat"
+
+#: ../items/categories/level_8_unique.txt:69
+msgid "Running away doesn't mean the battle is lost."
+msgstr "Karkuun juokseminen ei tarkoita, että taistelu on menetetty."
+
+#: ../items/categories/level_8_unique.txt:84
+msgid "Mez's Wraps"
+msgstr "Mezin kääreet"
+
+#: ../items/categories/level_8_unique.txt:85
+msgid "With its layers of reptilian skin, not much can penetrate this armor."
+msgstr ""
+"Sen matelijanahkakerrosten ansiosta tätä panssaria ei läpäise juuri mikään."
+
+#: ../items/categories/level_16_unique.txt:4
+msgid "Fleshband"
+msgstr "Lihanauha"
+
+#: ../items/categories/level_16_unique.txt:6
+msgid ""
+"Smooth to the touch. Upon wearing it, it tightens itself around the finger."
+msgstr "Sileä koskettaa. Puettuna se kiristyy itsekseen sormen ympärille."
+
+#: ../items/categories/level_16_unique.txt:21
+msgid "Soulband"
+msgstr "Sielunauha"
+
+#: ../items/categories/level_16_unique.txt:23
+msgid ""
+"Glowing when worn, it clears the wearer's mind and allows them to deeply "
+"focus."
+msgstr "Hohtaa puettuna. Selkeyttää pukijan mielen ja antaa keskittyä täysin."
+
+#: ../items/categories/level_16_unique.txt:38
+msgid "Underworld Cloak"
+msgstr "Alamaailman viitta"
+
+#: ../items/categories/level_16_unique.txt:51
+msgid "Underworld Platemail"
+msgstr "Alamaailman levyhaarniska"
+
+#: ../items/categories/level_16_unique.txt:64
+msgid "Underworld Boots"
+msgstr "Alamaailman saappaat"
+
+#: ../items/categories/level_16_unique.txt:77
+msgid "Underworld Armguards"
+msgstr "Alamaailman käsivarsisuojat"
+
+#: ../items/categories/level_16_unique.txt:90
+msgid "Underworld Greaves"
+msgstr "Alamaailman säärystimet"
+
+#: ../items/categories/level_16_unique.txt:103
+msgid "Underworld Tome"
+msgstr "Alamaailman opus"
+
+#: ../items/categories/level_16_unique.txt:115
+msgid "Underworld Blade"
+msgstr "Alamaailman miekka"
+
+#: ../items/categories/level_16_unique.txt:128
+msgid "Underworld Bow"
+msgstr "Alamaailman jousi"
+
+#: ../items/categories/level_16_unique.txt:141
+msgid "Underworld Sceptre"
+msgstr "Alamaailman valtikka"
+
+#: ../items/categories/potions.txt:8
+msgid "Restore 25% of maximum HP"
+msgstr "Palauttaa maksimi OP:tä 25 %"
+
+#: ../items/categories/potions.txt:19
+msgid "Restore 25% of maximum MP"
+msgstr "Palauttaa maksimi MP:tä 25 %"
+
+#: ../items/categories/potions.txt:31
+msgid "Temporarily increase regeneration and movement speed"
+msgstr "Lisää palautumista ja liikkumisnopeutta väliaikaisesti"
+
+#: ../items/categories/potions.txt:43
+msgid "Restore 25% of both HP and MP"
+msgstr "Palauttaa sekä OP:tä että MP:tä 25 %"
+
+#: ../items/categories/potions.txt:55
+msgid "Temporarily increases the ability to find items and gold"
+msgstr "Lisää kykyä löytää esineitä ja kultaa väliaikaisesti"
+
+#: ../items/categories/potions.txt:67
+msgid "Temporarily increases the resistance to all forms of magic by 50%"
+msgstr "Lisää kaikenlaisen taikuuden vastustusta 50 %:lla väliaikaisesti"
+
+#: ../items/categories/potions.txt:79
+msgid "Restore 50% of maximum HP"
+msgstr "Palauttaa enimmäis-OP:tä 50 %"
+
+#: ../items/categories/potions.txt:91
+msgid "Restore 75% of maximum HP"
+msgstr "Palauttaa enimmäis-MP:tä 75 %"
+
+#: ../items/categories/potions.txt:103
+msgid "Restore 50% of maximum MP"
+msgstr "Palauttaa enimmäis-MP:tä 50 %"
+
+#: ../items/categories/potions.txt:115
+msgid "Restore 75% of maximum MP"
+msgstr "Palauttaa enimmäis-MP:tä 75 %"
+
+#: ../items/categories/level_12_unique.txt:5
+msgid "Lost Totem"
+msgstr "Kadonnut toteemi"
+
+#: ../items/categories/level_12_unique.txt:6
+msgid "The ancient scripture contained appears to be some sort of magic."
+msgstr ""
+"Muinainen sisällytetty kirjoitus vaikuttaa olevan jonkinlaista taikuutta."
+
+#: ../items/categories/level_12_unique.txt:22
+msgid "Mog's Axe"
+msgstr "Mogin kirves"
+
+#: ../items/categories/level_12_unique.txt:23
+msgid "Not as sleek as an arrow, but just as effective."
+msgstr "Ei yhtä sulavalinjeinen kuin nuoli, mutta ihan yhtä tehokas."
+
+#: ../items/categories/level_12_unique.txt:38
+msgid "Guardsman Cuirass"
+msgstr "Vartijan kyrassi"
+
+#: ../items/categories/level_12_unique.txt:39
+msgid "A royal mail with a 'K' engraved on the breast."
+msgstr "Ylväs panssari, jossa on 'K' kaiverrettuna rintaan."
+
+#: ../items/categories/level_12_unique.txt:56
+msgid "Inferno Pendant"
+msgstr "Hornariipus"
+
+#: ../items/categories/level_12_unique.txt:57
+msgid "Hot. Hot. Hot."
+msgstr "Kuuma. Kuuma. Kuuma."
+
+#: ../items/categories/level_12_unique.txt:73
+msgid "Alchemist's Skirt"
+msgstr "Alkemistin paita"
+
+#: ../items/categories/level_12_unique.txt:74
+msgid "Knowledge of formulating many concoctions bestows its wearer."
+msgstr "Sen käyttäjä saa tiedon monien seosten laatimisesta."
+
+#: ../items/categories/level_12_unique.txt:91
+msgid "Drinking potions may create another potion of the same type."
+msgstr "Taikajuomien nauttiminen voi luoda toisen samantyyppisen juoman."
+
+#: ../items/categories/level_12_unique.txt:101
+msgid "Metzger's Battlemace"
+msgstr "Metzgerin taistelunuija"
+
+#: ../items/categories/level_12_unique.txt:102
+msgid "Swinging this mace around leaves a clouded trail of dark smoke."
+msgstr "Tämän nuijan heilautus jättää tumman ja sumean savuvanan."
+
+#: ../items/categories/level_4.txt:5
+msgid "Warlord Cloth Shirt"
+msgstr "Sotaherran kangaspaita"
+
+#: ../items/categories/level_4.txt:17
+msgid "Sniper Cloth Shirt"
+msgstr "Tarkka-ampujan kangaspaita"
+
+#: ../items/categories/level_4.txt:29
+msgid "Archwizard Cloth Shirt"
+msgstr "Arkkivelhon kangaspaita"
+
+#: ../items/categories/level_4.txt:41
+msgid "Warlord Cloth Pants"
+msgstr "Sotaherran kangashousut"
+
+#: ../items/categories/level_4.txt:53
+msgid "Sniper Cloth Pants"
+msgstr "Tarkka-ampujan kangashousut"
+
+#: ../items/categories/level_4.txt:65
+msgid "Archwizard Cloth Pants"
+msgstr "Arkkivelhon kangashousut"
+
+#: ../items/categories/level_4.txt:77
+msgid "Warlord Cloth Sandals"
+msgstr "Sotaherran kangassandaalit"
+
+#: ../items/categories/level_4.txt:89
+msgid "Sniper Cloth Sandals"
+msgstr "Tarkka-ampujan kangassandaalit"
+
+#: ../items/categories/level_4.txt:101
+msgid "Archwizard Cloth Sandals"
+msgstr "Arkkivelhon kangassandaalit"
+
+#: ../items/categories/level_4.txt:113
+msgid "Warlord Cloth Gloves"
+msgstr "Sotaherran kangashanskat"
+
+#: ../items/categories/level_4.txt:125
+msgid "Sniper Cloth Gloves"
+msgstr "Tarkka-ampujan kangashanskat"
+
+#: ../items/categories/level_4.txt:137
+msgid "Archwizard Cloth Gloves"
+msgstr "Arkkivelhon kangashanskat"
+
+#: ../items/categories/level_4.txt:149
+msgid "Master Leather Belt"
+msgstr "Mestarin nahkavyö"
+
+#: ../items/categories/level_4.txt:160
+msgid "Master Pendant"
+msgstr "Mestarin riipus"
+
+#: ../items/categories/level_4.txt:171
+msgid "Master Spellbook"
+msgstr "Mestarin loitsukirja"
+
+#: ../items/categories/level_4.txt:182
+msgid "Warlord Dagger"
+msgstr "Sotaherran tikari"
+
+#: ../items/categories/level_4.txt:194
+msgid "Sniper Slingshot"
+msgstr "Tarkka-ampujan ritsa"
+
+#: ../items/categories/level_4.txt:206
+msgid "Archwizard Wand"
+msgstr "Arkkivelhon taikasauva"
+
+#: ../items/categories/level_4.txt:218
+msgid "Templar Wood Buckler"
+msgstr "Temppeliritarin pieni puukilpi"
+
+#: ../items/categories/level_4.txt:229
+msgid "Master Fire Ring"
+msgstr "Mestarin tulisormus"
+
+#: ../items/categories/level_4.txt:239
+msgid "Master Ice Ring"
+msgstr "Mestarin jääsormus"
+
+#: ../items/categories/level_4.txt:249
+msgid "Master Lightning Ring"
+msgstr "Mestarin salamasormus"
+
+#: ../items/categories/level_4.txt:259
+msgid "Master Dark Ring"
+msgstr "Mestarin pimeyssormus"
+
+#: ../items/categories/level_4.txt:269
+msgid "Master Experience Ring"
+msgstr "Mestarin kokemussormus"
+
+#: ../items/categories/level_4.txt:279
+msgid "Master Wealth Ring"
+msgstr "Mestarin vauraussormus"
+
+#: ../items/categories/level_4.txt:289
+msgid "Master Treasure Ring"
+msgstr "Mestarin aarresormus"
+
+#: ../powers/base/ranger/caltrops.txt:1
+msgid "Caltrops"
+msgstr "Jalkapiikit"
+
+#: ../powers/base/ranger/caltrops.txt:2
+msgid ""
+"This trap deals reduced ranged weapon damage and slows the target. Can "
+"affect multiple targets."
+msgstr ""
+"Tämä ansa tekee vähennettyä kantama-aseen vahinkoa ja hidastaa kohteen. "
+"Vaikuttaa useaan kohteeseen."
+
+#: ../powers/base/ranger/piercing_shot.txt:1
+msgid "Piercing Shot"
+msgstr "Läpäisevä laukaus"
+
+#: ../powers/base/ranger/piercing_shot.txt:2
+msgid "Fire a shot that ignores armor and goes through multiple enemies."
+msgstr ""
+"Ammu laukaus, joka ohittaa panssarin ja menee monesta vihollisesta läpi."
+
+#: ../powers/base/ranger/shoot.txt:1
+msgid "Shoot"
+msgstr "Ammu"
+
+#: ../powers/base/ranger/shoot.txt:4
+msgid "Basic ranged attack."
+msgstr "Kaukotaistelun perushyökkäys."
+
+#: ../powers/base/ranger/wolfs_eye.txt:1
+msgid "Wolf's Eye"
+msgstr "Suden silmä"
+
+#: ../powers/base/ranger/wolfs_eye.txt:2
+msgid "Improves the ability to hit and critically wound enemies."
+msgstr "Parantaa kykyä osua ja vahingoittaa vihollisia kriittisesti."
+
+#: ../powers/base/ranger/haste.txt:3
+msgid "Move at an increased speed for a limited time."
+msgstr "Liiku nopeammin rajoitetun ajan."
+
+#: ../powers/base/ranger/multishot.txt:1
+msgid "Multishot"
+msgstr "Monilaukaus"
+
+#: ../powers/base/ranger/multishot.txt:2
+msgid "Shoot multiple projectiles in an arc simultaneously."
+msgstr "Ammu monta ammusta kaaressa samanaikaisesti."
+
+#: ../powers/base/ranger/bear_trap.txt:1
+msgid "Bear Trap"
+msgstr "Karhuansa"
+
+#: ../powers/base/ranger/bear_trap.txt:2
+msgid ""
+"This trap deals extra ranged weapon damage and immobilizes the target. Has a"
+" chance to inflict bleeding."
+msgstr ""
+"Tämä ansa tekee lisättyä kantama-aseen vahinkoa ja pysäyttää kohteen. "
+"Mahdollisuus aiheuttaa verenvuoto."
+
+#: ../powers/base/ranger/ember_shot.txt:1
+msgid "Ember Shot"
+msgstr "Kekälelaukaus"
+
+#: ../powers/base/ranger/ember_shot.txt:2
+msgid ""
+"Fire a spray of burning embers at close range. Effective against armored "
+"enemies. Inflicts a burn that makes enemies weaker to fire damage."
+msgstr ""
+"Ammu polttavien kekäleiden roiske lähietäisyydeltä. Tehokas panssaroituja "
+"vihollisia vastaan. Aiheuttaa poltteen, joka heikentää viholliset "
+"tulivahingolle."
+
+#: ../powers/base/ranger/rapid_fire.txt:1
+msgid "Rapid Fire"
+msgstr "Pikatulitus"
+
+#: ../powers/base/ranger/rapid_fire.txt:2
+msgid "Fire five low power missiles in quick succession."
+msgstr "Ammu viisi heikkotehoista ammusta nopeasti peräkkäin."
+
+#: ../powers/base/magician/burn.txt:1
+msgid "Burn"
+msgstr "Polte"
+
+#: ../powers/base/magician/burn.txt:4
+msgid ""
+"Blast multiple enemies in a distant area with fire. Has a chance to inflict "
+"a severe burn that makes enemies very weak to fire damage."
+msgstr ""
+"Räjäytä useita vihollisia tulella kaukaa. Mahdollisuus aiheuttaa vakava "
+"polte, joka tekee viholliset hyvin heikoiksi tulivahingolle."
+
+#: ../powers/base/magician/energy_flow.txt:1
+msgid "Energy Flow"
+msgstr "Energiavirta"
+
+#: ../powers/base/magician/energy_flow.txt:2
+msgid "Mana reserves are increased and regenerate faster."
+msgstr "Manavarannot ovat suuremmat ja palautuvat nopeammin."
+
+#: ../powers/base/magician/shield.txt:4
+msgid "Create a force field that absorbs damage."
+msgstr "Luo voimakenttä, joka vaimentaa vahinkoa."
+
+#: ../powers/base/magician/shock.txt:1
+msgid "Shock"
+msgstr "Sähköisku"
+
+#: ../powers/base/magician/shock.txt:2
+msgid ""
+"Shoot a ball of electricity that is extra effective against movement-"
+"impaired enemies."
+msgstr ""
+"Ammu sähköpallo, joka on erittäin tehoas liikuntarajoitteisia vihollisia "
+"vastaan."
+
+#: ../powers/base/magician/freeze.txt:1
+msgid "Freeze"
+msgstr "Jäädytys"
+
+#: ../powers/base/magician/freeze.txt:4
+msgid ""
+"Create a ray of several piercing cold shards that slow enemies. Shards have "
+"a chance of shattering into a cloud of frost that makes enemies weak to ice "
+"damage."
+msgstr ""
+"Luo säde läpäiseviä kylmäsirpaleita, jotka hidastavat vihollisia. "
+"Sirpaleilla on mahdollisuus hajota jääpilveksi, joka heikentää viholliset "
+"jäävahingolle."
+
+#: ../powers/base/magician/ice_bolt.txt:1
+msgid "Ice Bolt"
+msgstr "Jäänuoli"
+
+#: ../powers/base/magician/ice_bolt.txt:2
+msgid "Launch a chunk of ice that slows enemies."
+msgstr "Sinkoa jääkimpale, joka hidastaa vihollisia."
+
+#: ../powers/base/magician/thunderstrike.txt:1
+msgid "Thunderstrike"
+msgstr "Ukkosisku"
+
+#: ../powers/base/magician/thunderstrike.txt:4
+msgid ""
+"Lightning strikes from the sky with a high chance to critically damage "
+"movement-impaired enemies. Upon striking an enemy, releases a wave of energy"
+" that has a chance of stunning other enemies."
+msgstr ""
+"Salama iskee taivaalta suurella mahdollisuudella vahingoittaa "
+"liikuntarajoitteisia vihollisia kriittisesti. Viholliseen iskeytyessä "
+"päästää energia-aallon, jolla on mahdollisuus tyrmätä muita vihollisia."
+
+#: ../powers/base/magician/fireball.txt:1
+msgid "Fireball"
+msgstr "Tulipallo"
+
+#: ../powers/base/magician/fireball.txt:2
+msgid "Launch a ball of fire that does extra mental damage."
+msgstr "Sinkoa tulipallo, joka tekee lisättyä mentaalivahinkoa."
+
+#: ../powers/base/warrior/throw_knife.txt:1
+msgid "Throw Knife"
+msgstr "Heitä veitsi"
+
+#: ../powers/base/warrior/throw_knife.txt:2
+msgid ""
+"Throw a knife to deal reduced melee weapon damage. High accuracy and "
+"critical rate."
+msgstr ""
+"Heitä veitsi ja tee vähennettyä lyömäaseen vahinkoa. Suuri tarkkuus ja "
+"kriittinen määrä."
+
+#: ../powers/base/warrior/blood_strike.txt:1
+msgid "Blood Strike"
+msgstr "Veri-isku"
+
+#: ../powers/base/warrior/blood_strike.txt:2
+msgid "Deal a powerful blow that inflicts a bleeding wound."
+msgstr "Tee voimakas isku, joka aiheuttaa vertavuotavan vamman."
+
+#: ../powers/base/warrior/warcry.txt:1
+msgid "Warcry"
+msgstr "Sotahuuto"
+
+#: ../powers/base/warrior/warcry.txt:4
+msgid "Remove debuffs and become immune to debuffs for a limited time."
+msgstr ""
+"Poista heikennykset ja muutu immuuniksi heikennyksille rajoitetun ajan."
+
+#: ../powers/base/warrior/cleave.txt:1
+msgid "Cleave"
+msgstr "Halkaisu"
+
+#: ../powers/base/warrior/cleave.txt:2
+msgid "Attack all enemies in a wide arc."
+msgstr "Hyökkää kaikkia vihollisia laajassa kaaressa."
+
+#: ../powers/base/warrior/throw_axe.txt:1
+msgid "Throw Axe"
+msgstr "Heitä kirves"
+
+#: ../powers/base/warrior/throw_axe.txt:2
+msgid "Throw an axe to deal extra melee weapon damage."
+msgstr "Heitä kirves ja tee lisättyä lyömäaseen vahinkoa."
+
+#: ../powers/base/warrior/shield_bash.txt:1
+msgid "Shield Bash"
+msgstr "Kilpi-isku"
+
+#: ../powers/base/warrior/shield_bash.txt:2
+msgid "Dash into enemies, crushing them with sheer force."
+msgstr "Syöksy vihollisia päin ja murskaa ne suoralla voimalla."
+
+#: ../powers/base/warrior/quake.txt:1
+msgid "Quake"
+msgstr "Järistys"
+
+#: ../powers/base/warrior/quake.txt:4
+msgid "Knock back nearby enemies with a chance to stun."
+msgstr "Sysää läheisiä vihollisia taaksepäin tyrmäysmahdollisuudella."
+
+#: ../powers/base/warrior/stone_wall.txt:1
+msgid "Stone Wall"
+msgstr "Kivimuuri"
+
+#: ../powers/base/warrior/stone_wall.txt:2
+msgid "Withstand stronger attacks with more health and absorption."
+msgstr ""
+"Kestä vahvempia hyökkäyksiä suuremmalla terveydellä ja vaimennuksella."
+
+#: ../powers/categories/magician.txt:7
+msgid "Channel"
+msgstr "Kanavoi"
+
+#: ../powers/categories/magician.txt:10
+msgid "Basic magic attack."
+msgstr "Maaginen perushyökkäys"
+
+#: ../powers/categories/quest.txt:4
+msgid ""
+"Performing the ritual at the Red Altar has granted you faster regeneration."
+msgstr ""
+"Rituaalin suoritus Punaisella alttarilla antoi sinulle nopeamman "
+"palautumisen."
+
+#: ../powers/categories/items.txt:67
+msgid ""
+"Use: Shoot a fireball. For a brief time, additional fireballs can be shot by"
+" performing a basic attack."
+msgstr ""
+"Käyttö: ammu tulipallo. Lisää tulipalloja voidaan ampua perushyökkäyksellä "
+"lyhyen aikaa."
+
+#: ../powers/categories/items.txt:76
+msgid ""
+"Use: Shoot an ice bolt. For a brief time, additional ice bolts can be shot "
+"by performing a basic attack."
+msgstr ""
+"Käyttö: ammu jäänuoli. Lisää jäänuolia voidaan ampua perushyökkäyksellä "
+"lyhyen aikaa."
+
+#: ../powers/categories/warrior.txt:7
+msgid "Swing"
+msgstr "Huitaisu"
+
+#: ../powers/categories/warrior.txt:10
+msgid "Basic melee attack."
+msgstr "Lähitaistelun perushyökkäys"
+
+#: ../powers/trees/default.txt:11
+msgid "Magician"
+msgstr "Maagikko"
+
+#: ../scripts/dev/waypoints_lock.txt:14
+msgid "Locked all waypoints"
+msgstr "Kaikki reittipisteet lukittu"
+
+#: ../scripts/dev/waypoints_unlock.txt:14
+msgid "Unlocked all waypoints"
+msgstr "Kaikki reittipisteet avattu"
+
+#: ../scripts/maps/the_pit/locked_chest.txt:4
+msgid "It's locked."
+msgstr "Se on lukossa."
+
+#: ../scripts/maps/the_pit/locked_chest.txt:10
+msgid "You try to unlock the chest, but it's sealed by an unknown power."
+msgstr "Yrität avata arkun, mutta se on suljettu tuntemattomalla voimalla."
+
+#: ../scripts/powers/goblin_steal.txt:107
+msgid "Goblin Thief stole a potion!"
+msgstr "Hiisivaras anasti juoman!"
+
+#: ../scripts/powers/respec_tome.txt:7
+msgid "All stat and power points have been reset."
+msgstr "Kaikki statiikat ja voimapisteet palautettiin."

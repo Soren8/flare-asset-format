@@ -1,0 +1,17 @@
+[header]
+width=3
+height=2
+tileset=tilesetdefs/test.txt
+hero_pos=1,1
+
+[layer]
+type=background
+data=
+1,2,1,
+2,1,2,
+
+[layer]
+type=collision
+data=
+0,1,0,
+0,0,0,

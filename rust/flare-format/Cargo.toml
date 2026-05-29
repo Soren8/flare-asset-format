@@ -1,0 +1,21 @@
+[package]
+name = "flare-format"
+version = "0.1.0"
+edition = "2021"
+description = "Engine-agnostic parser and runtime helpers for the FLARE art/map/animation format"
+license = "CC-BY-SA-3.0"
+repository = "https://github.com/flareteam/flare-asset-format"
+readme = "README.md"
+keywords = ["flare", "game", "tilemap", "animation", "parser"]
+categories = ["game-development", "parser-implementations"]
+
+[features]
+default = []
+serde = ["dep:serde"]
+
+[dependencies]
+thiserror = "2"
+serde = { version = "1", optional = true, features = ["derive"] }
+
+[dev-dependencies]
+serde_json = "1"

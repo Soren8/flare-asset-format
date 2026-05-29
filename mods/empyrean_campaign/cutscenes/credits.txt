@@ -1,0 +1,4 @@
+APPEND
+
+INCLUDE cutscenes/credits_empyrean.txt
+

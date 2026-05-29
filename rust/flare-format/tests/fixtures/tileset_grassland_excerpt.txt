@@ -1,0 +1,7 @@
+
+img=images/tilesets/tileset_grassland.png
+
+tile=16,288,649,64,32,32,16
+tile=17,788,336,64,32,32,16
+tile=265,406,290,64,32,32,16
+animation=265,406,290,66ms,367,354,66ms,367,418,66ms,367,482,66ms

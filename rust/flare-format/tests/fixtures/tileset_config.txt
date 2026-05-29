@@ -1,0 +1,2 @@
+orientation=isometric
+tile_size=64,32
