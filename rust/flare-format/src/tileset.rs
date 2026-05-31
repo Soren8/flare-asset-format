@@ -116,7 +116,9 @@ impl TileSet {
                     );
                 }
                 "animation" => {
-                    let mut rest = entry.value.as_str();
+                    // flare-game exports sometimes use ';' between frame tuples while tiles use ','.
+                    let normalized = entry.value.replace(';', ",");
+                    let mut rest = normalized.as_str();
                     let index = parse_int(&pop_first_token(&mut rest).ok_or_else(|| {
                         FlareError::Other("animation line missing index".into())
                     })?)? as u32;
