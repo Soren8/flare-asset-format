@@ -109,6 +109,25 @@ def _world_bounds(objects: list[bpy.types.Object]) -> tuple[Vector, Vector]:
     return mins, maxs
 
 
+def _platform_bounds(armature: bpy.types.Object, platform: bpy.types.Object) -> tuple[Vector, Vector]:
+    """Bounds in RenderPlatform-local coordinates."""
+    mins = Vector((1.0e9, 1.0e9, 1.0e9))
+    maxs = Vector((-1.0e9, -1.0e9, -1.0e9))
+    platform_inverse = platform.matrix_world.inverted()
+
+    for obj in _character_objects(armature):
+        for corner in obj.bound_box:
+            local = platform_inverse @ (obj.matrix_world @ Vector(corner))
+            mins.x = min(mins.x, local.x)
+            mins.y = min(mins.y, local.y)
+            mins.z = min(mins.z, local.z)
+            maxs.x = max(maxs.x, local.x)
+            maxs.y = max(maxs.y, local.y)
+            maxs.z = max(maxs.z, local.z)
+
+    return mins, maxs
+
+
 def _center_character_on_platform(armature: bpy.types.Object) -> tuple[Vector, Vector]:
     bpy.context.view_layer.update()
     mins, maxs = _world_bounds(_character_objects(armature))
@@ -116,6 +135,31 @@ def _center_character_on_platform(armature: bpy.types.Object) -> tuple[Vector, V
     armature.location.x -= center.x
     armature.location.y -= center.y
     armature.location.z -= mins.z
+    bpy.context.view_layer.update()
+    return _world_bounds(_character_objects(armature))
+
+
+def _bake_in_place_origin(
+    armature: bpy.types.Object,
+    platform: bpy.types.Object,
+    *,
+    frame_start: int,
+    frame_end: int,
+) -> tuple[Vector, Vector]:
+    """Counter Mixamo root motion so every rendered frame shares one FLARE foot anchor."""
+    scene = bpy.context.scene
+
+    for frame in range(frame_start, frame_end + 1):
+        scene.frame_set(frame)
+        bpy.context.view_layer.update()
+        mins, maxs = _platform_bounds(armature, platform)
+        center = (mins + maxs) * 0.5
+        armature.location.x -= center.x
+        armature.location.y -= center.y
+        armature.location.z -= mins.z
+        armature.keyframe_insert(data_path="location", frame=frame)
+
+    scene.frame_set(frame_start)
     bpy.context.view_layer.update()
     return _world_bounds(_character_objects(armature))
 
@@ -154,6 +198,7 @@ def import_mixamo_fbx(
     clear_scene: bool = False,
     auto_fit_camera: bool = True,
     character_z_deg: float = 0.0,
+    stabilize_root_motion: bool = True,
 ) -> bpy.types.Object:
     platform = bpy.data.objects.get(RENDER_PLATFORM_NAME)
     if platform is None:
@@ -210,6 +255,14 @@ def import_mixamo_fbx(
         bpy.context.view_layer.update()
         bounds = _world_bounds(_character_objects(armature))
     armature.parent = platform
+
+    if stabilize_root_motion:
+        bounds = _bake_in_place_origin(
+            armature,
+            platform,
+            frame_start=frame_start,
+            frame_end=frame_end,
+        )
 
     if auto_fit_camera:
         _fit_camera_to_bounds(bounds)

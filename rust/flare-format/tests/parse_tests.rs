@@ -94,6 +94,33 @@ fn parses_tileset_config_and_coords() {
     assert!((screen.x - 400).abs() <= 1);
 }
 
+#[test]
+fn frontier_outpost_buildings_have_multi_tile_collision() {
+    const MAP: &str =
+        include_str!("../../../mods/alpha_demo/maps/frontier_outpost.txt");
+    let map = Map::parse_str(MAP).unwrap();
+    let collision = CollisionMap::from_map(&map);
+
+    // Town hall / building cluster around map tile (10..18, 5..12) blocks many cells.
+    let mut blocking = 0usize;
+    for x in 10..=18 {
+        for y in 5..=12 {
+            if collision.blocks_movement(x, y, MovementType::Normal) {
+                blocking += 1;
+            }
+        }
+    }
+    assert!(
+        blocking >= 8,
+        "expected a multi-tile building footprint, found {blocking} blocking cells"
+    );
+
+    // Walking north into the south wall of that cluster should stop before entering.
+    let (next_x, next_y, moved) = collision.move_position(12.5, 13.0, 0.0, -2.0, MovementType::Normal);
+    assert!(!moved || next_y < 13.0);
+    assert!(collision.blocks_movement(next_x as i32, next_y as i32, MovementType::Normal) || next_y < 12.0);
+}
+
 #[cfg(feature = "serde")]
 #[test]
 fn serde_round_trip_animation() {

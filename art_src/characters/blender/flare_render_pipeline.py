@@ -80,6 +80,11 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         default=0.0,
         help="Optional Z rotation after import to tune Mixamo facing (default: 0)",
     )
+    parser.add_argument(
+        "--allow-root-motion",
+        action="store_true",
+        help="Do not counter-center the imported character each frame before rendering",
+    )
     return parser.parse_args(argv)
 
 
@@ -113,6 +118,7 @@ def main(argv: list[str] | None = None) -> None:
             frame_count=args.frames,
             auto_fit_camera=not args.no_auto_fit_camera,
             character_z_deg=args.character_z_deg,
+            stabilize_root_motion=not args.allow_root_motion,
         )
         render_eight_directions(str(args.output_dir), args.prefix)
 

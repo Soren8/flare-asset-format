@@ -62,6 +62,31 @@ pub fn screen_to_map(
     }
 }
 
+/// Adjust a tile anchor point the way `MapRenderer::centerTile()` does.
+pub fn center_tile(mut point: Point, config: &TilesetConfig) -> Point {
+    match config.orientation {
+        Orientation::Orthogonal => {
+            point.x += config.tile_width_half();
+            point.y += config.tile_height_half();
+        }
+        Orientation::Isometric => {
+            point.y += config.tile_height_half();
+        }
+    }
+    point
+}
+
+/// Iso entity sort key from `calculatePriosIso()` (lower draws first / behind).
+pub fn iso_entity_sort_key(map_x: f32, map_y: f32) -> u64 {
+    let tilex = map_x.floor() as u32;
+    let tiley = map_y.floor() as u32;
+    let commax = ((map_x - tilex as f32) * 1024.0) as i64;
+    let commay = ((map_y - tiley as f32) * 1024.0) as i64;
+    (u64::from(tilex + tiley) << 37)
+        + (u64::from(tilex) << 20)
+        + ((commax + commay).max(0) as u64) << 8
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;

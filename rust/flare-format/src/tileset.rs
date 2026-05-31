@@ -168,6 +168,19 @@ impl TileSet {
         Some(tile.src)
     }
 
+    /// Largest tile footprint in map cells, matching `TileSet::max_size_x/y` in flare-engine.
+    pub fn max_tile_footprint(&self, tile_width: i32, tile_height: i32) -> (i32, i32) {
+        let tile_w = tile_width.max(1);
+        let tile_h = tile_height.max(1);
+        let mut max_x = 1;
+        let mut max_y = 1;
+        for tile in self.tiles.values() {
+            max_x = max_x.max(tile.src.w / tile_w + 1);
+            max_y = max_y.max(tile.src.h / tile_h + 1);
+        }
+        (max_x, max_y)
+    }
+
     pub fn advance(&mut self, dt_ms: f32) {
         for (id, anim) in &self.animations {
             let state = self

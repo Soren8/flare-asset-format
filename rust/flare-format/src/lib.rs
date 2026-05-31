@@ -68,7 +68,7 @@ pub use animation::{
 };
 pub use collision::{CollisionMap, CollisionType, MovementType};
 pub use config::TilesetConfig;
-pub use coords::{map_to_screen, screen_to_map};
+pub use coords::{center_tile, iso_entity_sort_key, map_to_screen, screen_to_map};
 pub use error::{FlareError, Result};
 pub use icons::{IconConfig, IconSet};
 pub use map::{Map, MapHeader, MapLayer, RawSection, TilesetExportEntry};
