@@ -57,6 +57,7 @@ pub mod coords;
 pub mod error;
 pub mod icons;
 pub mod map;
+pub mod movement;
 pub mod parser;
 pub mod parallax;
 pub mod tileset;
@@ -71,6 +72,10 @@ pub use coords::{map_to_screen, screen_to_map};
 pub use error::{FlareError, Result};
 pub use icons::{IconConfig, IconSet};
 pub use map::{Map, MapHeader, MapLayer, RawSection, TilesetExportEntry};
+pub use movement::{
+    direction_from_isometric_keys, direction_from_points, movement_step, DEFAULT_BASE_SPEED,
+    DIRECTION_DELTA_X, DIRECTION_DELTA_Y, REFERENCE_FPS, SPEED_MULTIPLIER,
+};
 pub use parser::{parse_file_with_resolver, parse_str, Entry, FileResolver, FsResolver};
 pub use parallax::{ParallaxLayer, ParallaxLayers};
 pub use tileset::{Tile, TileAnim, TileAnimFrame, TileAtlas, TileSet};

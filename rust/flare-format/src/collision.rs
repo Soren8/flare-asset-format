@@ -123,6 +123,175 @@ impl CollisionMap {
     pub fn can_occupy(&self, x: i32, y: i32, movement: MovementType) -> bool {
         !self.blocks_movement(x, y, movement)
     }
+
+    /// Whether a float map position is inside the map and walkable.
+    pub fn is_valid_position(&self, x: f32, y: f32, movement: MovementType) -> bool {
+        if x < 0.0 || y < 0.0 {
+            return false;
+        }
+        let tile_x = x as i32;
+        let tile_y = y as i32;
+        if !self.in_bounds(tile_x, tile_y) {
+            return false;
+        }
+        self.can_occupy(tile_x, tile_y, movement)
+    }
+
+    /// Port of `MapCollision::move()` with tile-boundary sub-steps and wall sliding.
+    pub fn move_position(
+        &self,
+        mut x: f32,
+        mut y: f32,
+        step_x: f32,
+        step_y: f32,
+        movement: MovementType,
+    ) -> (f32, f32, bool) {
+        const MIN_TILE_GAP: f32 = 0.001;
+
+        let mut remaining_x = step_x;
+        let mut remaining_y = step_y;
+        let force_slide = step_x != 0.0 && step_y != 0.0;
+
+        while remaining_x != 0.0 || remaining_y != 0.0 {
+            let mut sub_x = 0.0;
+            if remaining_x > 0.0 {
+                sub_x = (x.ceil() - x).min(remaining_x);
+                if sub_x <= MIN_TILE_GAP {
+                    sub_x = 1.0_f32.min(remaining_x);
+                }
+            } else if remaining_x < 0.0 {
+                sub_x = (x.floor() - x).max(remaining_x);
+                if sub_x == 0.0 {
+                    sub_x = (-1.0_f32).max(remaining_x);
+                }
+            }
+
+            let mut sub_y = 0.0;
+            if remaining_y > 0.0 {
+                sub_y = (y.ceil() - y).min(remaining_y);
+                if sub_y <= MIN_TILE_GAP {
+                    sub_y = 1.0_f32.min(remaining_y);
+                }
+            } else if remaining_y < 0.0 {
+                sub_y = (y.floor() - y).max(remaining_y);
+                if sub_y == 0.0 {
+                    sub_y = (-1.0_f32).max(remaining_y);
+                }
+            }
+
+            remaining_x -= sub_x;
+            remaining_y -= sub_y;
+
+            if !Self::small_step(self, &mut x, &mut y, sub_x, sub_y, movement) {
+                if force_slide {
+                    if !Self::small_step_forced_slide_along_grid(
+                        self, &mut x, &mut y, sub_x, sub_y, movement,
+                    ) {
+                        return (x, y, false);
+                    }
+                } else if !Self::small_step_forced_slide(
+                    self, &mut x, &mut y, sub_x, sub_y, movement,
+                ) {
+                    return (x, y, false);
+                }
+            }
+        }
+
+        (x, y, true)
+    }
+
+    fn small_step(
+        &self,
+        x: &mut f32,
+        y: &mut f32,
+        step_x: f32,
+        step_y: f32,
+        movement: MovementType,
+    ) -> bool {
+        if self.is_valid_position(*x + step_x, *y + step_y, movement) {
+            *x += step_x;
+            *y += step_y;
+            true
+        } else {
+            false
+        }
+    }
+
+    fn small_step_forced_slide_along_grid(
+        &self,
+        x: &mut f32,
+        y: &mut f32,
+        step_x: f32,
+        step_y: f32,
+        movement: MovementType,
+    ) -> bool {
+        if self.is_valid_position(*x + step_x, *y, movement) {
+            if step_x == 0.0 {
+                return true;
+            }
+            *x += step_x;
+        } else if self.is_valid_position(*x, *y + step_y, movement) {
+            if step_y == 0.0 {
+                return true;
+            }
+            *y += step_y;
+        } else {
+            return false;
+        }
+        true
+    }
+
+    fn small_step_forced_slide(
+        &self,
+        x: &mut f32,
+        y: &mut f32,
+        step_x: f32,
+        step_y: f32,
+        movement: MovementType,
+    ) -> bool {
+        const EPSILON: f32 = 0.01;
+
+        if step_x != 0.0 {
+            debug_assert_eq!(step_y, 0.0);
+            let dy = *y - y.floor();
+            let tile_x = *x as i32;
+            let tile_y = *y as i32;
+            if self.can_occupy(tile_x, tile_y + 1, movement)
+                && self.can_occupy(tile_x + step_x.signum() as i32, tile_y + 1, movement)
+                && dy > 0.5
+            {
+                *y += (1.0 - dy + EPSILON).min(step_x.abs());
+            } else if self.can_occupy(tile_x, tile_y - 1, movement)
+                && self.can_occupy(tile_x + step_x.signum() as i32, tile_y - 1, movement)
+                && dy < 0.5
+            {
+                *y -= (dy + EPSILON).min(step_x.abs());
+            } else {
+                return false;
+            }
+        } else if step_y != 0.0 {
+            debug_assert_eq!(step_x, 0.0);
+            let dx = *x - x.floor();
+            let tile_x = *x as i32;
+            let tile_y = *y as i32;
+            if self.can_occupy(tile_x + 1, tile_y, movement)
+                && self.can_occupy(tile_x + 1, tile_y + step_y.signum() as i32, movement)
+                && dx > 0.5
+            {
+                *x += (1.0 - dx + EPSILON).min(step_y.abs());
+            } else if self.can_occupy(tile_x - 1, tile_y, movement)
+                && self.can_occupy(tile_x - 1, tile_y + step_y.signum() as i32, movement)
+                && dx < 0.5
+            {
+                *x -= (dx + EPSILON).min(step_y.abs());
+            } else {
+                return false;
+            }
+        } else {
+            return false;
+        }
+        true
+    }
 }
 
 #[cfg(test)]
