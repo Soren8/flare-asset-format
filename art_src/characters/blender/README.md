@@ -31,6 +31,8 @@ walk1_0001.png  …                  # direction 1 (W)
 walk7_0001.png  …                  # direction 7 (S)
 ```
 
+Intermediate PNGs land in `art_src/characters/blender/render/` (gitignored; safe to delete anytime).
+
 Optionally a single **uncompressed grid** spritesheet (8 rows × N frame columns) plus a starter `animations/.../*.txt` definition.
 
 ## Quick start (Mixamo walk, 35 frames)
